@@ -4,8 +4,6 @@ This repository is a sample of some of my work. Each folder is its own project a
 
 Each project is available for individual download from the [Downloads](downloads.md) page. There will be a link to each project's downloadable .zip folder.
 
-<br>
-
-### Table of Contents
+### Projects
 
 [Crypt Keeper](Crypt%20Keeper) This program is used to encrypt and decrypt messages.
