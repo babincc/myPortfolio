@@ -7,6 +7,7 @@
 
 - [Instructions](#instructions)
 - [Troubleshooting](#troubleshooting)
+  - [Java](#java)
   - [Mac](#mac)
     - ["'Run Me.command' cannot be opened because it is from an unidentified developer." Error](#run-mecommand-cannot-be-opened-because-it-is-from-an-unidentified-developer-error)
   - [Windows](#windows)
@@ -20,6 +21,10 @@ Advanced users: If you know how, you can just run the .jar file directly within 
 ## Troubleshooting
 
 This section will help with common problems encountered when trying to run a newly downloaded version of Crypt Keeper.
+
+>#### Java
+
+Make sure you have Java installed on your computer. To do this, go to [www.oracle.com](https://www.oracle.com/java/technologies/javase-downloads.html) and navigate to the latest JDK download, or Google "java jdk download" and download the latest from Oracle. Run the installer and you should be good to go.
 
 ### Mac
 
