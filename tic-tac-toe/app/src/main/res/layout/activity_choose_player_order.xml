@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#081734"
+    tools:context=".Choose_player_order">
+
+    <TextView
+        android:id="@+id/singlePlayerPrompt"
+        android:layout_width="381dp"
+        android:layout_height="94dp"
+        android:fontFamily="@font/youre_gone"
+        android:text="@string/do_you_want_to_first_or_second"
+        android:textAlignment="center"
+        android:textColor="#FFFFFF"
+        android:textSize="30sp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.533"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.213" />
+
+    <Button
+        android:id="@+id/playerFirst"
+        android:layout_width="293dp"
+        android:layout_height="85dp"
+        android:background="@drawable/bttn_border"
+        android:fontFamily="@font/youre_gone"
+        android:onClick="playerFirstClick"
+        android:shadowColor="#e7b4f8"
+        android:shadowDx="0"
+        android:shadowDy="0"
+        android:shadowRadius="3"
+        android:text="@string/i_ll_go_first"
+        android:textAllCaps="false"
+        android:textColor="#9215C0"
+        android:textSize="30sp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.445" />
+
+    <Button
+        android:id="@+id/compFirst"
+        android:layout_width="293dp"
+        android:layout_height="117dp"
+        android:background="@drawable/bttn_border"
+        android:fontFamily="@font/youre_gone"
+        android:onClick="computerFirstClick"
+        android:shadowColor="#e7b4f8"
+        android:shadowDx="0"
+        android:shadowDy="0"
+        android:shadowRadius="3"
+        android:text="@string/let_computer_go_first"
+        android:textAllCaps="false"
+        android:textColor="#9215C0"
+        android:textSize="30sp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.669" />
+
+    <TextView
+        android:id="@+id/title"
+        android:layout_width="249dp"
+        android:layout_height="75dp"
+        android:background="@drawable/title_colored"
+        android:textColor="#FFFFFF"
+        android:textSize="36sp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.024" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>

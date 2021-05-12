@@ -1,0 +1,905 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AnalysisUIOptions">
+    <option name="SPLITTER_PROPORTION" value="0.5060241" />
+  </component>
+  <component name="AndroidLayouts">
+    <shared>
+      <config />
+    </shared>
+  </component>
+  <component name="AndroidLogFilters">
+    <option name="TOOL_WINDOW_LOG_LEVEL" value="error" />
+    <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="Show only selected application" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="28affcda-fbcf-4351-974e-92c41b0177bf" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.gradle/5.4.1/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.4.1/executionHistory/executionHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.4.1/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.4.1/executionHistory/executionHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.4.1/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.4.1/fileHashes/fileHashes.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.4.1/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.4.1/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.4.1/javaCompile/classAnalysis.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.4.1/javaCompile/classAnalysis.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.4.1/javaCompile/javaCompile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.4.1/javaCompile/javaCompile.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/caches/build_file_checksums.ser" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/caches/build_file_checksums.ser" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/caches/gradle_models.ser" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/caches/gradle_models.ser" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/androidTest/java/com/example/tic_tac_toe/EspressoTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/androidTest/java/com/example/tic_tac_toe/EspressoTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/tic_tac_toe/Choose_player_order.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/tic_tac_toe/Choose_player_order.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/tic_tac_toe/GameOver.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/tic_tac_toe/GameOver.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/tic_tac_toe/MainActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/tic_tac_toe/MainActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/tic_tac_toe/addPlayerName.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/tic_tac_toe/addPlayerName.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/tic_tac_toe/addingNames.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/tic_tac_toe/addingNames.java" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="Pixel_2_API_29_TESTING" />
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view />
+      </state>
+    </system>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="resourceFile" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>multi_</find>
+      <find>// Maka a multiplayer move in top left position</find>
+      <find>NewMove</find>
+      <find>intent</find>
+      <find>post</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/activity_single_player__game_over.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/example/tic_tac_toe/SinglePlayer_GameOver.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/example/tic_tac_toe/Multiplayer_GameOver.java" />
+        <option value="$PROJECT_DIR$/app/src/main/res/font/neon_glow.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/res/font/youre_gone.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/activity_game_play_screen.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/activity_instructions.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/activity_game_over.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/activity_choose_player_order.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml" />
+        <option value="$PROJECT_DIR$/app/src/androidTest/java/com/example/tic_tac_toe/MainActivityTest5555555.java" />
+        <option value="$PROJECT_DIR$/app/src/test/java/com/example/tic_tac_toe/testestsetstesetestestes.java" />
+        <option value="$PROJECT_DIR$/app/src/androidTest/java/com/example/tic_tac_toe/testestsetstesetestestestest.java" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/activity_add_player_name.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/activity_add_player_names.xml" />
+        <option value="$PROJECT_DIR$/app/src/androidTest/java/com/example/tic_tac_toe/kdkdkdkdkkdd.java" />
+        <option value="$PROJECT_DIR$/app/src/main/res/values/strings.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/res/values/colors.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/res/values/styles.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/example/tic_tac_toe/addingNames.java" />
+        <option value="$PROJECT_DIR$/app/src/androidTest/java/com/example/tic_tac_toe/EspressoTest.java" />
+        <option value="$PROJECT_DIR$/app/build.gradle" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/example/tic_tac_toe/instructions.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/example/tic_tac_toe/gamePlay_screen.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/example/tic_tac_toe/GameOver.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/example/tic_tac_toe/MainActivity.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/example/tic_tac_toe/Choose_player_order.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/example/tic_tac_toe/addPlayerName.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/example/tic_tac_toe/addPlayerNames.java" />
+        <option value="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="6" />
+    <option name="y" value="42" />
+    <option name="width" value="1260" />
+    <option name="height" value="673" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="tic-tac-toe" type="b2602c69:ProjectViewProjectNode" />
+              <item name="tic-tac-toe" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+            <path>
+              <item name="tic-tac-toe" type="b2602c69:ProjectViewProjectNode" />
+              <item name="tic-tac-toe" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name=".gradle" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="AndroidView">
+        <subPane>
+          <expand>
+            <path>
+              <item name="tic-tac-toe" type="1abcf292:AndroidViewProjectNode" />
+              <item name="app" type="feadf853:AndroidModuleNode" />
+            </path>
+            <path>
+              <item name="tic-tac-toe" type="1abcf292:AndroidViewProjectNode" />
+              <item name="app" type="feadf853:AndroidModuleNode" />
+              <item name="java" type="edd41e36:AndroidSourceTypeNode" />
+            </path>
+            <path>
+              <item name="tic-tac-toe" type="1abcf292:AndroidViewProjectNode" />
+              <item name="app" type="feadf853:AndroidModuleNode" />
+              <item name="java" type="edd41e36:AndroidSourceTypeNode" />
+              <item name="tic_tac_toe" type="cbb59c9e:AndroidPsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="tic-tac-toe" type="1abcf292:AndroidViewProjectNode" />
+              <item name="app" type="feadf853:AndroidModuleNode" />
+              <item name="java" type="edd41e36:AndroidSourceTypeNode" />
+              <item name="tic_tac_toe" type="cbb59c9e:AndroidPsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="tic-tac-toe" type="1abcf292:AndroidViewProjectNode" />
+              <item name="app" type="feadf853:AndroidModuleNode" />
+              <item name="res" type="d4f16f75:AndroidResFolderNode" />
+            </path>
+            <path>
+              <item name="tic-tac-toe" type="1abcf292:AndroidViewProjectNode" />
+              <item name="app" type="feadf853:AndroidModuleNode" />
+              <item name="res" type="d4f16f75:AndroidResFolderNode" />
+              <item name="drawable" type="ddeffd01:AndroidResFolderTypeNode" />
+            </path>
+            <path>
+              <item name="tic-tac-toe" type="1abcf292:AndroidViewProjectNode" />
+              <item name="app" type="feadf853:AndroidModuleNode" />
+              <item name="res" type="d4f16f75:AndroidResFolderNode" />
+              <item name="font" type="ddeffd01:AndroidResFolderTypeNode" />
+            </path>
+            <path>
+              <item name="tic-tac-toe" type="1abcf292:AndroidViewProjectNode" />
+              <item name="app" type="feadf853:AndroidModuleNode" />
+              <item name="res" type="d4f16f75:AndroidResFolderNode" />
+              <item name="values" type="ddeffd01:AndroidResFolderTypeNode" />
+            </path>
+            <path>
+              <item name="tic-tac-toe" type="1abcf292:AndroidViewProjectNode" />
+              <item name="Gradle Scripts" type="ae0cef3a:AndroidBuildScriptsGroupNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DeviceAndSnapshotComboBoxAction.selectedDevice" value="Pixel_2_API_29_TESTING" />
+    <property name="DeviceAndSnapshotComboBoxAction.selectionTime" value="2019-12-11T15:40:06.594Z" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="android.sdk.path" value="$USER_HOME$/Library/Android/sdk" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.17" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="preferences.general" />
+  </component>
+  <component name="RecentsManager">
+    <key name="android.template.packageName">
+      <recent name="com.example.tic_tac_toe" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/app/src/main/res/font" />
+      <recent name="$PROJECT_DIR$/app/src/main/res/drawable-v24" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Android Instrumented Tests.Tests in 'com.example.tic_tac_toe'">
+    <configuration default="true" type="AndroidJUnit" factoryName="Android JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="app" type="AndroidRunConfigurationType" factoryName="Android App" activateToolWindowBeforeRun="false">
+      <module name="app" />
+      <option name="DEPLOY" value="true" />
+      <option name="DEPLOY_APK_FROM_BUNDLE" value="false" />
+      <option name="DEPLOY_AS_INSTANT" value="false" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="PM_INSTALL_OPTIONS" value="" />
+      <option name="DYNAMIC_FEATURES_DISABLED_LIST" value="" />
+      <option name="ACTIVITY_EXTRA_FLAGS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="TARGET_SELECTION_MODE" value="DEVICE_AND_SNAPSHOT_COMBO_BOX" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="SELECTED_CLOUD_MATRIX_CONFIGURATION_ID" value="-1" />
+      <option name="SELECTED_CLOUD_MATRIX_PROJECT_ID" value="" />
+      <option name="DEBUGGER_TYPE" value="Auto" />
+      <Auto>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Auto>
+      <Hybrid>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Hybrid>
+      <Java />
+      <Native>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Native>
+      <Profilers>
+        <option name="ADVANCED_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_CONFIGURATION_NAME" value="Sample Java Methods" />
+      </Profilers>
+      <option name="DEEP_LINK" value="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Tests in 'com.example.tic_tac_toe'" type="AndroidTestRunConfigurationType" factoryName="Android Instrumented Tests" nameIsGenerated="true">
+      <module name="app" />
+      <option name="TESTING_TYPE" value="1" />
+      <option name="INSTRUMENTATION_RUNNER_CLASS" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="PACKAGE_NAME" value="com.example.tic_tac_toe" />
+      <option name="EXTRA_OPTIONS" value="" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="TARGET_SELECTION_MODE" value="DEVICE_AND_SNAPSHOT_COMBO_BOX" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="SELECTED_CLOUD_MATRIX_CONFIGURATION_ID" value="-1" />
+      <option name="SELECTED_CLOUD_MATRIX_PROJECT_ID" value="" />
+      <option name="DEBUGGER_TYPE" value="Auto" />
+      <Auto>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Auto>
+      <Hybrid>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Hybrid>
+      <Java />
+      <Native>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Native>
+      <Profilers>
+        <option name="ADVANCED_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_CONFIGURATION_NAME" value="Sample Java Methods" />
+      </Profilers>
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="28affcda-fbcf-4351-974e-92c41b0177bf" name="Default Changelist" comment="" />
+      <created>1571757690431</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1571757690431</updated>
+    </task>
+    <task id="LOCAL-00001" summary="Added another espresso test">
+      <created>1571759398869</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1571759398869</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Added more espresso tests">
+      <created>1571765749326</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1571765749326</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Finished adding espresso tests for every user story and scenario">
+      <created>1571771400686</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1571771400686</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Cleaned code and make app-flow smoother">
+      <created>1571777571969</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1571777571969</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Added comment to an espresso test after adding another scenario">
+      <created>1571780831998</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1571780831998</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Beginning to add functionality to make single player possible">
+      <created>1572301566755</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1572301566755</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Changed how a move is placed on the board in preparation for single player">
+      <created>1572457689314</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1572457689315</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Added the ability for the computer to block a winning move in single player mode">
+      <created>1573067038267</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1573067038267</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Added the ability for the computer to see two of its own symbols in a line and place the winning move">
+      <created>1573074526393</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1573074526394</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Now the computer has full functionality. In hard mode, it cannot lose.">
+      <created>1573144371234</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1573144371234</updated>
+    </task>
+    <task id="LOCAL-00011" summary="The computer now waits a second before it makes its move so that it seems more life-like">
+      <created>1573184615519</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1573184615519</updated>
+    </task>
+    <task id="LOCAL-00012" summary="Now the computer is unbeatable (I found another edge case)">
+      <created>1573186687823</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1573186687823</updated>
+    </task>
+    <task id="LOCAL-00013" summary="Now the computer is for sure unbeatable (I fixed the edge case)">
+      <created>1573237483111</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1573237483111</updated>
+    </task>
+    <task id="LOCAL-00014" summary="Bug fix: Now, if the user somehow wins, the computer won't make one more move and the program won't crash">
+      <created>1573237961162</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1573237961162</updated>
+    </task>
+    <task id="LOCAL-00015" summary="Now, in multiplayer, if the players leave their names blank, it will assign default names.">
+      <created>1573241424381</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1573241424381</updated>
+    </task>
+    <task id="LOCAL-00016" summary="Now, in multiplayer, if the players leave their names blank, it will assign default names.">
+      <created>1573574964336</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1573574964336</updated>
+    </task>
+    <task id="LOCAL-00017" summary="Now, in multiplayer, if the players leave their names blank, it will assign default names.">
+      <created>1573575102647</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1573575102647</updated>
+    </task>
+    <task id="LOCAL-00018" summary="Repo was broken for me. This push is to fix it.">
+      <created>1573575902649</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1573575902649</updated>
+    </task>
+    <task id="LOCAL-00019" summary="Custom player name for single player mode. Fixed app to work with default phone back button.">
+      <created>1573583899154</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1573583899154</updated>
+    </task>
+    <task id="LOCAL-00020" summary="Implemented template design pattern">
+      <created>1573587680563</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1573587680563</updated>
+    </task>
+    <task id="LOCAL-00021" summary="App no longer crashed when phone's back button is pressed from game over screen or player order screen. Added another edge case to the computer's algorithm and modified the existing one to work no matter how the board is rotated.">
+      <created>1573659903750</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1573659903750</updated>
+    </task>
+    <task id="LOCAL-00022" summary="Added error handling for secret gesture.">
+      <created>1574361615260</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1574361615260</updated>
+    </task>
+    <task id="LOCAL-00023" summary="Added an implementation of &quot;easy mode&quot;">
+      <created>1574364718957</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1574364718957</updated>
+    </task>
+    <task id="LOCAL-00024" summary="Fixed bug of game mode changing between views. Also, made sure that a player name with &quot;w&quot; will not mess up the game mode.">
+      <created>1574386247879</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1574386247879</updated>
+    </task>
+    <task id="LOCAL-00025" summary="Cleaned up code">
+      <created>1574386896504</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1574386896504</updated>
+    </task>
+    <task id="LOCAL-00026" summary="Now, a player can not quickly click another spot and move twice before the computer has a chance to move.">
+      <created>1574437696554</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1574437696554</updated>
+    </task>
+    <task id="LOCAL-00027" summary="Dramatic UI theme upgrade. Added new edge case to keep impossible-mode impossible.">
+      <created>1574564875002</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1574564875002</updated>
+    </task>
+    <task id="LOCAL-00028" summary="Added espresso tests for Iteration 3">
+      <created>1575753147454</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1575753147455</updated>
+    </task>
+    <task id="LOCAL-00029" summary="Made &quot;addingNames&quot; class an abstract class (to fix lint error)">
+      <created>1575755722422</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1575755722422</updated>
+    </task>
+    <task id="LOCAL-00030" summary="Cleaned up code a little">
+      <created>1575923032551</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1575923032551</updated>
+    </task>
+    <task id="LOCAL-00031" summary="Added to espresso test catch blocks to remove warnings">
+      <created>1575925999959</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1575925999959</updated>
+    </task>
+    <task id="LOCAL-00032" summary="Cleaning code to remove Lint errors">
+      <created>1575931351206</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1575931351206</updated>
+    </task>
+    <task id="LOCAL-00033" summary="Removed junk file for testing">
+      <created>1575945588495</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1575945588495</updated>
+    </task>
+    <task id="LOCAL-00034" summary="Cleaned code and made a lot of methods private to clear Lint errors">
+      <created>1575960960853</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1575960960853</updated>
+    </task>
+    <option name="localTasksCounter" value="35" />
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="Tests_in_'com_example_tic_tac_toe' - 2019.12.07 at 11h 33m 34s.xml">
+      <configuration name="Tests in 'com.example.tic_tac_toe'" configurationId="AndroidTestRunConfigurationType" />
+    </history-entry>
+    <history-entry file="Tests_in_'com_example_tic_tac_toe' - 2019.12.07 at 12h 07m 03s.xml">
+      <configuration name="Tests in 'com.example.tic_tac_toe'" configurationId="AndroidTestRunConfigurationType" />
+    </history-entry>
+    <history-entry file="Tests_in_'com_example_tic_tac_toe' - 2019.12.07 at 12h 14m 08s.xml">
+      <configuration name="Tests in 'com.example.tic_tac_toe'" configurationId="AndroidTestRunConfigurationType" />
+    </history-entry>
+    <history-entry file="Tests_in_'com_example_tic_tac_toe' - 2019.12.07 at 16h 11m 05s.xml">
+      <configuration name="Tests in 'com.example.tic_tac_toe'" configurationId="AndroidTestRunConfigurationType" />
+    </history-entry>
+    <history-entry file="Tests_in_'com_example_tic_tac_toe' - 2019.12.07 at 16h 34m 23s.xml">
+      <configuration name="Tests in 'com.example.tic_tac_toe'" configurationId="AndroidTestRunConfigurationType" />
+    </history-entry>
+    <history-entry file="Tests_in_'com_example_tic_tac_toe' - 2019.12.11 at 10h 07m 20s.xml">
+      <configuration name="Tests in 'com.example.tic_tac_toe'" configurationId="AndroidTestRunConfigurationType" />
+    </history-entry>
+    <history-entry file="Tests_in_'com_example_tic_tac_toe' - 2019.12.11 at 10h 10m 06s.xml">
+      <configuration name="Tests in 'com.example.tic_tac_toe'" configurationId="AndroidTestRunConfigurationType" />
+    </history-entry>
+    <history-entry file="Tests_in_'com_example_tic_tac_toe' - 2019.12.11 at 10h 12m 11s.xml">
+      <configuration name="Tests in 'com.example.tic_tac_toe'" configurationId="AndroidTestRunConfigurationType" />
+    </history-entry>
+    <history-entry file="Tests_in_'com_example_tic_tac_toe' - 2019.12.11 at 10h 40m 37s.xml">
+      <configuration name="Tests in 'com.example.tic_tac_toe'" configurationId="AndroidTestRunConfigurationType" />
+    </history-entry>
+    <history-entry file="Tests_in_'com_example_tic_tac_toe' - 2019.12.11 at 10h 46m 50s.xml">
+      <configuration name="Tests in 'com.example.tic_tac_toe'" configurationId="AndroidTestRunConfigurationType" />
+    </history-entry>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="6" y="42" width="1260" height="673" extended-state="0" />
+    <layout>
+      <window_info id="Captures" order="0" side_tool="true" weight="0.25" />
+      <window_info id="Capture Tool" order="1" />
+      <window_info content_ui="combo" id="Project" order="2" visible="true" weight="0.3538588" />
+      <window_info id="Structure" order="3" side_tool="true" />
+      <window_info id="Favorites" order="4" side_tool="true" />
+      <window_info id="Build Variants" order="5" side_tool="true" />
+      <window_info id="Image Layers" order="6" />
+      <window_info id="Designer" order="7" />
+      <window_info id="Resources Explorer" order="8" />
+      <window_info anchor="bottom" id="Logcat" order="0" weight="0.32874355" />
+      <window_info anchor="bottom" id="TODO" order="1" />
+      <window_info anchor="bottom" id="Terminal" order="2" weight="0.32874355" />
+      <window_info anchor="bottom" id="Event Log" order="3" sideWeight="0.50164205" side_tool="true" weight="0.29776248" />
+      <window_info anchor="bottom" id="Version Control" order="4" weight="0.32874355" />
+      <window_info anchor="bottom" id="Build" order="5" sideWeight="0.49835795" weight="0.29776248" />
+      <window_info anchor="bottom" id="Android Profiler" order="6" />
+      <window_info active="true" anchor="bottom" id="Run" order="7" visible="true" weight="0.32874355" />
+      <window_info anchor="bottom" id="Debug" order="8" weight="0.32874355" />
+      <window_info anchor="bottom" id="Find" order="9" weight="0.32874355" />
+      <window_info anchor="bottom" id="Inspection Results" order="10" weight="0.32874355" />
+      <window_info anchor="right" id="Device File Explorer" order="0" side_tool="true" />
+      <window_info anchor="right" id="Capture Analysis" order="1" />
+      <window_info anchor="right" id="Gradle" order="2" />
+      <window_info anchor="right" id="Theme Preview" order="3" />
+      <window_info anchor="right" id="Palette&#9;" order="4" />
+      <window_info active="true" anchor="right" id="Assistant" order="5" visible="true" weight="0.33415434" />
+      <window_info anchor="right" id="Preview" order="6" weight="0.32922825" />
+    </layout>
+  </component>
+  <component name="Vcs.Log.History.Properties">
+    <option name="COLUMN_ORDER">
+      <list>
+        <option value="0" />
+        <option value="2" />
+        <option value="3" />
+        <option value="1" />
+      </list>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Added the ability for the computer to block a winning move in single player mode" />
+    <MESSAGE value="Added the ability for the computer to see two of its own symbols in a line and place the winning move" />
+    <MESSAGE value="Now the computer has full functionality. In hard mode, it cannot lose." />
+    <MESSAGE value="The computer now waits a second before it makes its move so that it seems more life-like" />
+    <MESSAGE value="Now the computer is unbeatable (I found another edge case)" />
+    <MESSAGE value="Now the computer is for sure unbeatable (I fixed the edge case)" />
+    <MESSAGE value="Bug fix: Now, if the user somehow wins, the computer won't make one more move and the program won't crash" />
+    <MESSAGE value="Now, in multiplayer, if the players leave their names blank, it will assign default names." />
+    <MESSAGE value="Repo was broken for me. This push is to fix it." />
+    <MESSAGE value="Custom player name for single player mode. Fixed app to work with default phone back button." />
+    <MESSAGE value="Implemented template design pattern" />
+    <MESSAGE value="App no longer crashed when phone's back button is pressed from game over screen or player order screen. Added another edge case to the computer's algorithm and modified the existing one to work no matter how the board is rotated." />
+    <MESSAGE value="Added error handling for secret gesture." />
+    <MESSAGE value="Added an implementation of &quot;easy mode&quot;" />
+    <MESSAGE value="Fixed bug of game mode changing between views. Also, made sure that a player name with &quot;w&quot; will not mess up the game mode." />
+    <MESSAGE value="Cleaned up code" />
+    <MESSAGE value="Now, a player can not quickly click another spot and move twice before the computer has a chance to move." />
+    <MESSAGE value="Dramatic UI theme upgrade. Added new edge case to keep impossible-mode impossible." />
+    <MESSAGE value="Added espresso tests for Iteration 3" />
+    <MESSAGE value="Made &quot;addingNames&quot; class an abstract class (to fix lint error)" />
+    <MESSAGE value="Cleaned up code a little" />
+    <MESSAGE value="Added to espresso test catch blocks to remove warnings" />
+    <MESSAGE value="Cleaning code to remove Lint errors" />
+    <MESSAGE value="Removed junk file for testing" />
+    <MESSAGE value="Cleaned code and made a lot of methods private to clear Lint errors" />
+    <option name="LAST_COMMIT_MESSAGE" value="Cleaned code and made a lot of methods private to clear Lint errors" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/app/src/androidTest/java/com/example/tic_tac_toe/ExampleInstrumentedTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="18" column="13" selection-start-line="18" selection-start-column="13" selection-end-line="18" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_single_player__game_over.xml" />
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/tic_tac_toe/SinglePlayer_GameOver.java" />
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/font/youre_gone.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="47" selection-start-line="4" selection-start-column="47" selection-end-line="4" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/androidTest/java/com/example/tic_tac_toe/MainActivityTest5555555.java" />
+    <entry file="file://$PROJECT_DIR$/app/src/test/java/com/example/tic_tac_toe/testestsetstesetestestes.java" />
+    <entry file="file://$PROJECT_DIR$/app/src/androidTest/java/com/example/tic_tac_toe/testestsetstesetestestestest.java" />
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_game_over.xml">
+      <provider selected="true" editor-type-id="android-designer2" />
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="127">
+          <caret line="10" column="36" selection-start-line="10" selection-start-column="25" selection-end-line="10" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_choose_player_order.xml">
+      <provider selected="true" editor-type-id="android-designer2" />
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="1170">
+          <caret line="78" column="53" selection-start-line="78" selection-start-column="53" selection-end-line="78" selection-end-column="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_add_player_names.xml">
+      <provider selected="true" editor-type-id="android-designer2" />
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="1650">
+          <caret line="112" selection-start-line="112" selection-end-line="112" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/font/neon_glow.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="46" lean-forward="true" selection-start-line="2" selection-start-column="4" selection-end-line="4" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_add_player_name.xml">
+      <provider selected="true" editor-type-id="android-designer2" />
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="4" selection-start-line="6" selection-start-column="4" selection-end-line="6" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/androidTest/java/com/example/tic_tac_toe/kdkdkdkdkkdd.java" />
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/drawable-v24/quit_button_background.png" />
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml">
+      <provider selected="true" editor-type-id="android-designer2" />
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="106">
+          <caret line="76" column="4" selection-start-line="76" selection-start-column="4" selection-end-line="76" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_instructions.xml">
+      <provider selected="true" editor-type-id="android-designer2" />
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="1110">
+          <caret line="74" selection-start-line="74" selection-end-line="74" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_game_play_screen.xml">
+      <provider selected="true" editor-type-id="android-designer2" />
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="310">
+          <caret line="21" column="53" selection-start-line="10" selection-start-column="4" selection-end-line="21" selection-end-column="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/drawable-v24/title.png" />
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/values/strings.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="51" selection-start-line="7" selection-start-column="51" selection-end-line="7" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/values/colors.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="4" selection-start-line="3" selection-start-column="4" selection-end-line="3" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/values/styles.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" selection-start-line="2" selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build.gradle">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="26" column="4" selection-start-line="26" selection-start-column="4" selection-end-line="26" selection-end-column="61" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/androidTest/java/com/example/tic_tac_toe/EspressoTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="7005">
+          <caret line="467" column="11" lean-forward="true" selection-start-line="467" selection-start-column="11" selection-end-line="467" selection-end-column="11" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/tic_tac_toe/instructions.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="275">
+          <caret line="84" lean-forward="true" selection-start-line="84" selection-end-line="84" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/tic_tac_toe/GameOver.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="32" column="25" selection-start-line="32" selection-start-column="25" selection-end-line="32" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/tic_tac_toe/Choose_player_order.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1545">
+          <caret line="109" column="7" lean-forward="true" selection-start-line="109" selection-start-column="7" selection-end-line="109" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/tic_tac_toe/gamePlay_screen.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-463">
+          <caret line="302" column="10" selection-start-line="302" selection-start-column="4" selection-end-line="302" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/tic_tac_toe/addingNames.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="829">
+          <caret line="64" column="27" selection-start-line="64" selection-start-column="27" selection-end-line="64" selection-end-column="27" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1422#1423#0" expanded="true" />
+            <element signature="e#1474#1475#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/tic_tac_toe/addPlayerName.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="140">
+          <caret line="40" column="10" selection-start-line="40" selection-start-column="10" selection-end-line="40" selection-end-column="10" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/tic_tac_toe/addPlayerNames.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="140">
+          <caret line="44" column="10" selection-start-line="44" selection-start-column="10" selection-end-line="44" selection-end-column="10" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/tic_tac_toe/MainActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="5" column="25" selection-start-line="5" selection-start-column="25" selection-end-line="5" selection-end-column="25" />
+          <folding>
+            <element signature="e#4155#4156#0" expanded="true" />
+            <element signature="e#4191#4192#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/AndroidManifest.xml">
+      <provider editor-type-id="android-manifest" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="45" selection-start-line="8" selection-start-column="45" selection-end-line="8" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

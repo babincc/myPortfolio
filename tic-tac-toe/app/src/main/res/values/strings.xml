@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">tic-tac-toe</string>
+    <string name="play">Play</string>
+    <string name="instructions">Instructions</string>
+    <string name="instructions2">Instructions:</string>
+    <string name="instructionsText">Players alternate placing Xs and Os on the board until either one player has three in a row, horizontally, vertically, or diagonally; or all nine squares are filled. If a player is able to draw three of their Xs or three of their Os in a row, then that player wins.\n\nChoose \"Multiplayer\" to play against a friend or \"Single Player\" to play against the computer. Click on an open space to place your character on the gameboard.</string>
+    <string name="back">Back</string>
+    <string name="multiplayer">Multiplayer</string>
+    <string name="player_1_name">Player 1 Name</string>
+    <string name="player_2_name">Player 2 Name</string>
+    <string name="quit">Quit</string>
+    <string name="play_again">Play Again</string>
+    <string name="single_player">Single Player</string>
+    <string name="do_you_want_to_first_or_second">Do you want to go first or second?</string>
+    <string name="i_ll_go_first">I\'ll go first</string>
+    <string name="let_computer_go_first">Let computer go first</string>
+    <string name="player_name">Player Name</string>
+    <string name="tic_tac_toe">tic-tac-toe</string>
+</resources>
