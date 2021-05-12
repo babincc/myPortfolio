@@ -18,6 +18,8 @@ To download runnable versions of these programs (if they are available) you will
 
 ## Projects
 
-[Crypt Keeper](Crypt%20Keeper) This program is used to encrypt and decrypt messages.
-[tic-tac-toe](tic-tac-toe) An app created to give tic-tac-toe a fun new twist.
-[VCU Scavenger Hunt](VCU%20Scavenger%20Hunt) A quest game app that is aimed at familiarizing new VCU students with the Monroe Park campus.
+| Project | Description |
+| --- | --- |
+| [Crypt Keeper](Crypt%20Keeper) | This program is used to encrypt and decrypt messages. |
+| [tic-tac-toe](tic-tac-toe) | An app created to give tic-tac-toe a fun new twist. |
+| [VCU Scavenger Hunt](VCU%20Scavenger%20Hunt) | A quest game app that is aimed at familiarizing new VCU students with the Monroe Park campus. |
