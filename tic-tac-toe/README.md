@@ -1,4 +1,4 @@
-# Tic-Tac-Toe Genius
+# Tic-Tac-Toe
 
 ## About
 
