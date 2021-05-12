@@ -38,7 +38,7 @@ Given there is a discrepancy over the score <br>
 When the players look at the instructions <br>
 Then they will be able to tell who is right
 
-Espresso test: testInstructions()
+Espresso test: [testInstructions()](https://github.com/babincc/myPortfolio/blob/main/tic-tac-toe/app/src/androidTest/java/com/example/tic_tac_toe/EspressoTest.java#L52)
 
 <hr>
 
@@ -47,7 +47,7 @@ Given you have played tic-tac-toe before <br>
 When you click the “instructions” button <br>
 Then you will see the exact set of rules the machine will be following
 
-Espresso test: testInstructions()
+Espresso test: [testInstructions()](https://github.com/babincc/myPortfolio/blob/main/tic-tac-toe/app/src/androidTest/java/com/example/tic_tac_toe/EspressoTest.java#L52)
 
 <hr>
 
@@ -57,7 +57,7 @@ And you are ready to go back <br>
 When you click the “Back” button <br>
 Then you will go back to the home/welcome screen
 
-Espresso test: testInstructionsBack()
+Espresso test: [testInstructionsBack()](https://github.com/babincc/myPortfolio/blob/main/tic-tac-toe/app/src/androidTest/java/com/example/tic_tac_toe/EspressoTest.java#L62)
 
 ## Start game
 
@@ -73,7 +73,7 @@ Given they hit the play button <br>
 When the game starts <br>
 Then they will be playing against the machine in hard mode
 
-Espresso test: testStartGame_singlePlayerHard()
+Espresso test: [testStartGame_singlePlayerHard()](https://github.com/babincc/myPortfolio/blob/main/tic-tac-toe/app/src/androidTest/java/com/example/tic_tac_toe/EspressoTest.java#L90)
 
 <hr>
 
@@ -83,7 +83,7 @@ And use the secret gesture <br>
 When the game starts <br>
 Then I will be playing against the machine in easy mode
 
-Espresso test: testStartGame_singlePlayerEasy()
+Espresso test: [testStartGame_singlePlayerEasy()](https://github.com/babincc/myPortfolio/blob/main/tic-tac-toe/app/src/androidTest/java/com/example/tic_tac_toe/EspressoTest.java#L98)
 
 <hr>
 
@@ -92,7 +92,7 @@ Given I chose two-player mode <br>
 When the game starts <br>
 Then I will be playing against my friend on the same device
 
-Espresso test: testStartGame_Multiplayer()
+Espresso test: [testStartGame_Multiplayer()](https://github.com/babincc/myPortfolio/blob/main/tic-tac-toe/app/src/androidTest/java/com/example/tic_tac_toe/EspressoTest.java#L113)
 
 ## Multiplayer
 
@@ -108,7 +108,7 @@ Given I want to play a real game with a friend <br>
 When I click the “multiplayer” button <br>
 Then I will be able to set up a 2 player game (with no gimmicks)
 
-Espresso test: testStartGame_Multiplayer()
+Espresso test: [testStartGame_Multiplayer()](https://github.com/babincc/myPortfolio/blob/main/tic-tac-toe/app/src/androidTest/java/com/example/tic_tac_toe/EspressoTest.java#L113)
 
 <hr>
 
@@ -119,7 +119,7 @@ And click “Start” <br>
 Then my name will be displayed on the scoreboard <br>
 And I will go first
 
-Espresso test: testMultiplayer_Player1()
+Espresso test: [testMultiplayer_Player1()](https://github.com/babincc/myPortfolio/blob/main/tic-tac-toe/app/src/androidTest/java/com/example/tic_tac_toe/EspressoTest.java#L139)
 
 <hr>
 
@@ -130,7 +130,7 @@ And click “Start” <br>
 Then my name will be displayed on the scoreboard <br>
 And I will go after player 1
 
-Espresso test: testMultiplayer_Player2()
+Espresso test: [testMultiplayer_Player2()](https://github.com/babincc/myPortfolio/blob/main/tic-tac-toe/app/src/androidTest/java/com/example/tic_tac_toe/EspressoTest.java#L153)
 
 ## Keep score
 
@@ -147,7 +147,7 @@ When they get three in a row <br>
 Then they get a “Congrats!” <br>
 And their score goes up
 
-Espresso tests: testKeepScore_PlayerWins() && testKeepScore_PlayerWins2()
+Espresso tests: [testKeepScore_PlayerWins()](https://github.com/babincc/myPortfolio/blob/main/tic-tac-toe/app/src/androidTest/java/com/example/tic_tac_toe/EspressoTest.java#L177) && [testKeepScore_PlayerWins2()](https://github.com/babincc/myPortfolio/blob/main/tic-tac-toe/app/src/androidTest/java/com/example/tic_tac_toe/EspressoTest.java#L197)
 
 <hr>
 
@@ -157,7 +157,7 @@ When it gets three in a row <br>
 Then the player sees a “you lose” screen <br>
 And the computer’s score goes up
 
-Espresso test: testKeepScore_computerWins()
+Espresso test: [testKeepScore_computerWins()](https://github.com/babincc/myPortfolio/blob/main/tic-tac-toe/app/src/androidTest/java/com/example/tic_tac_toe/EspressoTest.java#L224)
 
 <hr>
 
@@ -167,7 +167,7 @@ When no one has three in a row <br>
 Then the player sees a “tie” screen <br>
 And the score stays the same
 
-Espresso test: testKeepScore_Tie()
+Espresso test: [testKeepScore_Tie()](https://github.com/babincc/myPortfolio/blob/main/tic-tac-toe/app/src/androidTest/java/com/example/tic_tac_toe/EspressoTest.java#L244)
 
 ## Choose who goes first
 
@@ -183,7 +183,7 @@ Given the player wants to go first <br>
 When they click the “first” button <br>
 Then they will be allowed to go first
 
-Espresso test: testPlayerOrder_playerFirst()
+Espresso test: [testPlayerOrder_playerFirst()](https://github.com/babincc/myPortfolio/blob/main/tic-tac-toe/app/src/androidTest/java/com/example/tic_tac_toe/EspressoTest.java#L281)
 
 <hr>
 
@@ -192,7 +192,7 @@ Given the player wants to go second <br>
 When they click the “second” button <br>
 Then the computer will go first
 
-Espresso test: testPlayerOrder_computerFirst()
+Espresso test: [testPlayerOrder_computerFirst()](https://github.com/babincc/myPortfolio/blob/main/tic-tac-toe/app/src/androidTest/java/com/example/tic_tac_toe/EspressoTest.java#L295)
 
 <hr>
 
@@ -201,7 +201,7 @@ Given you are playing against another person <br>
 When the players enter their names under “Player 1” and “Player 2” <br>
 Then that is the order they will play in
 
-Espresso tests: testPlayerOrder_player1First() && testPlayerOrder_player2First()
+Espresso tests: [testPlayerOrder_player1First()](https://github.com/babincc/myPortfolio/blob/main/tic-tac-toe/app/src/androidTest/java/com/example/tic_tac_toe/EspressoTest.java#L310) && [testPlayerOrder_player2First()](https://github.com/babincc/myPortfolio/blob/main/tic-tac-toe/app/src/androidTest/java/com/example/tic_tac_toe/EspressoTest.java#L325)
 
 ## Play tic-tac-toe
 
@@ -217,7 +217,7 @@ Given I know it is going to be impossible to win <br>
 When I play the game by myself <br>
 Then I will have a “worthy opponent” to really challenge me
 
-Espresso tests: testGamePlay_hard1() && testGamePlay_hard2() && testGamePlay_hard3() && testGamePlay_hard4() && testGamePlay_hard5() && testGamePlay_hard6() && testGamePlay_hard7()
+Espresso tests: [testGamePlay_hard1()](https://github.com/babincc/myPortfolio/blob/main/tic-tac-toe/app/src/androidTest/java/com/example/tic_tac_toe/EspressoTest.java#L356) && [testGamePlay_hard2()](https://github.com/babincc/myPortfolio/blob/main/tic-tac-toe/app/src/androidTest/java/com/example/tic_tac_toe/EspressoTest.java#L375) && [testGamePlay_hard3()](https://github.com/babincc/myPortfolio/blob/main/tic-tac-toe/app/src/androidTest/java/com/example/tic_tac_toe/EspressoTest.java#L394) && [testGamePlay_hard4()](https://github.com/babincc/myPortfolio/blob/main/tic-tac-toe/app/src/androidTest/java/com/example/tic_tac_toe/EspressoTest.java#L394) && [testGamePlay_hard5()](https://github.com/babincc/myPortfolio/blob/main/tic-tac-toe/app/src/androidTest/java/com/example/tic_tac_toe/EspressoTest.java#L431) && [testGamePlay_hard6()](https://github.com/babincc/myPortfolio/blob/main/tic-tac-toe/app/src/androidTest/java/com/example/tic_tac_toe/EspressoTest.java#L447) && [testGamePlay_hard7()](https://github.com/babincc/myPortfolio/blob/main/tic-tac-toe/app/src/androidTest/java/com/example/tic_tac_toe/EspressoTest.java#L465)
 
 <hr>
 
@@ -240,7 +240,7 @@ Then I will be able to play a game with a friend <br>
 And it will keep score <br>
 And the loser will get to go first next round
 
-Espresso test: testGamePlay_multiplayer()
+Espresso test: [testGamePlay_multiplayer()](https://github.com/babincc/myPortfolio/blob/main/tic-tac-toe/app/src/androidTest/java/com/example/tic_tac_toe/EspressoTest.java#L492)
 
 ## Quit
 
@@ -260,7 +260,7 @@ And they can choose to quit, or not <br>
 When they do quit <br>
 Then they will be brought back to the start screen
 
-Espresso tests: testQuit_duringGamePlayMulti() && testQuit_duringGamePlaySingle()
+Espresso tests: [testQuit_duringGamePlayMulti()](https://github.com/babincc/myPortfolio/blob/main/tic-tac-toe/app/src/androidTest/java/com/example/tic_tac_toe/EspressoTest.java#L520) && [testQuit_duringGamePlaySingle()](https://github.com/babincc/myPortfolio/blob/main/tic-tac-toe/app/src/androidTest/java/com/example/tic_tac_toe/EspressoTest.java#L533)
 
 <hr>
 
@@ -274,7 +274,7 @@ When they do quit <br>
 Then they will be given a “Quit while you are ahead” message <br>
 And brought back to the start screen
 
-Espresso tests: testQuit_afterGameFinishesWin()
+Espresso tests: [testQuit_afterGameFinishesWin()](https://github.com/babincc/myPortfolio/blob/main/tic-tac-toe/app/src/androidTest/java/com/example/tic_tac_toe/EspressoTest.java#L552)
 
 <hr>
 
@@ -288,7 +288,7 @@ When they do quit <br>
 Then they will be given a “better luck next time” message <br>
 And brought back to the start screen
 
-Espresso tests: testQuit_afterGameFinishesLossOrTie()
+Espresso tests: [testQuit_afterGameFinishesLossOrTie()](https://github.com/babincc/myPortfolio/blob/main/tic-tac-toe/app/src/androidTest/java/com/example/tic_tac_toe/EspressoTest.java#L572)
 
 ## See achievement
 
@@ -306,7 +306,7 @@ Then I will be taken to the victory screen <br>
 And I will see a “congratulations” <br>
 And I will be given the option to keep going or quit
 
-Espresso test: testAffirmationCongrats()
+Espresso test: [testAffirmationCongrats()](https://github.com/babincc/myPortfolio/blob/main/tic-tac-toe/app/src/androidTest/java/com/example/tic_tac_toe/EspressoTest.java#L723)
 
 <hr>
 
@@ -317,7 +317,7 @@ Then I will be taken to the loss screen <br>
 And I will see a “you lose” message <br>
 And I will be given the option to keep going or quit
 
-Espresso test: testAffirmationYouLose()
+Espresso test: [testAffirmationYouLose()](https://github.com/babincc/myPortfolio/blob/main/tic-tac-toe/app/src/androidTest/java/com/example/tic_tac_toe/EspressoTest.java#L745)
 
 <hr>
 
@@ -329,7 +329,7 @@ Then I will be taken to the tie screen <br>
 And I will see “tie” <br>
 And I will be given the option to keep going or quit
 
-Espresso test: testAffirmationTieGame()
+Espresso test: [testAffirmationTieGame()](https://github.com/babincc/myPortfolio/blob/main/tic-tac-toe/app/src/androidTest/java/com/example/tic_tac_toe/EspressoTest.java#L765)
 
 ## Play again
 
@@ -346,7 +346,7 @@ When the loss screen comes up <br>
 Then they can choose to play again <br>
 And the score will be adjusted and saved accordingly
 
-Espresso test: testTryAgainAfterLoss()
+Espresso test: [testTryAgainAfterLoss()](https://github.com/babincc/myPortfolio/blob/main/tic-tac-toe/app/src/androidTest/java/com/example/tic_tac_toe/EspressoTest.java#L796)
 
 <hr>
 
@@ -356,7 +356,7 @@ When the victory screen comes up <br>
 Then they can choose to play again <br>
 And the score will be adjusted and saved accordingly
 
-Espresso test: testTryAgainAfterWin()
+Espresso test: [testTryAgainAfterWin()](https://github.com/babincc/myPortfolio/blob/main/tic-tac-toe/app/src/androidTest/java/com/example/tic_tac_toe/EspressoTest.java#L818)
 
 <hr>
 
@@ -366,7 +366,7 @@ When the tie screen comes up <br>
 Then the player can choose to play again <br>
 And the score will not be changed
 
-Espresso test: testTryAgainAfterTie()
+Espresso test: [testTryAgainAfterTie()](https://github.com/babincc/myPortfolio/blob/main/tic-tac-toe/app/src/androidTest/java/com/example/tic_tac_toe/EspressoTest.java#L842)
 
 ## Play a prank
 
@@ -382,7 +382,7 @@ Given they play the game <br>
 When they make a move <br>
 Then the computer will know the best place to go to keep them from winning
 
-Espresso test: testPrankFriendStep1()
+Espresso test: [testPrankFriendStep1()](https://github.com/babincc/myPortfolio/blob/main/tic-tac-toe/app/src/androidTest/java/com/example/tic_tac_toe/EspressoTest.java#L617)
 
 <hr>
 
@@ -392,7 +392,7 @@ When I do the secret gesture (like 3 finger swipe) it becomes easy <br>
 Then I win every game <br>
 And I look like a genius
 
-Espresso test: testPrankFriendStep2()
+Espresso test: [testPrankFriendStep2()](https://github.com/babincc/myPortfolio/blob/main/tic-tac-toe/app/src/androidTest/java/com/example/tic_tac_toe/EspressoTest.java#L639)
 
 <hr>
 
@@ -402,4 +402,4 @@ When I give it back to them to retry <br>
 Then I will do the secret gesture again <br>
 And they will not be able to beat it
 
-Espresso test: testPrankFriendStep3()
+Espresso test: [testPrankFriendStep3()](https://github.com/babincc/myPortfolio/blob/main/tic-tac-toe/app/src/androidTest/java/com/example/tic_tac_toe/EspressoTest.java#L671)
