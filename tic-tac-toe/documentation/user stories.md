@@ -4,16 +4,16 @@ These [user stories (external link)](https://en.wikipedia.org/wiki/User_story) a
 
 ### Table of Contents
 
-- [Learn how to play](learn-how-to-play)
-- [Start game](start-game)
-- [Multiplayer](multiplayer)
-- [Keep score](keep-score)
-- [Choose who goes first](choose-who-goes-first)
-- [Play tic-tac-toe](play-tic-tac-toe)
-- [Quit](quit)
-- [See achievement](see-achievement)
-- [Play again](play-again)
-- [Play a prank](play-a-prank)
+- [Learn how to play](#learn-how-to-play)
+- [Start game](#start-game)
+- [Multiplayer](#multiplayer)
+- [Keep score](#keep-score)
+- [Choose who goes first](#choose-who-goes-first)
+- [Play tic-tac-toe](#play-tic-tac-toe)
+- [Quit](#quit)
+- [See achievement](#see-achievement)
+- [Play again](#play-again)
+- [Play a prank](#play-a-prank)
 
 ## Learn how to play
 
