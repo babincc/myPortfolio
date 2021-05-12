@@ -29,7 +29,7 @@ Given they want to learn <br>
 When they click the “Instructions” button <br>
 Then they will learn how to play
 
-Espresso test: testInstructions()
+Espresso test: [testInstructions()](https://github.com/babincc/myPortfolio/blob/main/tic-tac-toe/app/src/androidTest/java/com/example/tic_tac_toe/EspressoTest.java#L52)
 
 <hr>
 
