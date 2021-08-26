@@ -1,0 +1,5 @@
+report_ID,buildings_destroyed,casualties,permanent_injuries,temporary_injuries,disaster_ID
+R-2000000,47707,11847,0,207210,H-2000000
+R-3000000,null,211,96,115,PC-3000000
+R-1000000,8790,1186,6557,31122,T-1000000
+R-4000000,null,14,11,17,VC-4000000

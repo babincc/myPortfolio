@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">VCU Scavenger Hunt</string>
+    <string name="play">Play</string>
+    <string name="profile">Profile</string>
+    <string name="vcu_scavenger_hunt_logo">VCU Scavenger Hunt Logo</string>
+    <string name="what_do_you_want_to_be_called">What do you want to be called?</string>
+    <string name="username">Username</string>
+    <string name="submit">Submit</string>
+    <string name="rodney_ram_coin">Rodney Ram coin</string>
+    <string name="activities">Activities</string>
+    <string name="food">Food</string>
+    <string name="historical">Historical</string>
+    <string name="your_answer_here">Your Answer Here</string>
+    <string name="okay">Continue</string>
+    <string name="this_question_has_been_answered_correctly">This question has been answered correctly</string>
+    <string name="picture_related_to_current_hunting_spot">Picture related to current hunting spot</string>
+    <string name="loading">Loading</string>
+    <string name="map_of_vcu_monroe_park_campus">map of VCU monroe park campus</string>
+    <string name="_10">10</string>
+</resources>

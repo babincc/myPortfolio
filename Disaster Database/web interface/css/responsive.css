@@ -1,0 +1,5 @@
+@media screen and (max-width: 450px){
+	.main-nav a{
+		font-size:.7em;
+	}
+}

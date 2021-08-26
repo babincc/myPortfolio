@@ -1,0 +1,5167 @@
+city,state,population_size
+Moscow,Russia,12480481
+Saint Petersburg,Russia,5398064
+Novosibirsk,Russia,1625631
+Yekaterinburg,Russia,1493749
+Kazan,Russia,1257391
+Nizhny Novgorod,Russia,1252236
+Chelyabinsk,Russia,1196680
+Samara,Russia,1156659
+Omsk,Russia,1154507
+Rostov-on-Don,Russia,1137904
+Ufa,Russia,1128787
+Krasnoyarsk,Russia,1093771
+Voronezh,Russia,1058261
+Perm,Russia,1055397
+Volgograd,Russia,1008998
+Krasnodar,Russia,932629
+Saratov,Russia,838042
+Tyumen,Russia,807271
+Tolyatti,Russia,699429
+Izhevsk,Russia,648146
+Barnaul,Russia,632391
+Ulyanovsk,Russia,627705
+Irkutsk,Russia,623562
+Khabarovsk,Russia,616372
+Yaroslavl,Russia,608353
+Vladivostok,Russia,606561
+Makhachkala,Russia,603518
+Tomsk,Russia,576624
+Orenburg,Russia,572188
+Kemerovo,Russia,556382
+Novokuznetsk,Russia,549403
+Ryazan,Russia,539290
+Naberezhnye Chelny,Russia,533839
+Astrakhan,Russia,529793
+Penza,Russia,520300
+Kirov,Russia,518348
+Lipetsk,Russia,508573
+Balashikha,Russia,507366
+Cheboksary,Russia,497618
+Kaliningrad,Russia,489359
+Tula,Russia,475161
+Kursk,Russia,452976
+Stavropol,Russia,450680
+Sochi,Russia,443562
+Ulan-Ude,Russia,439128
+Tver,Russia,425072
+Magnitogorsk,Russia,413253
+Ivanovo,Russia,404598
+Sevastopol,Russia,403893
+Bryansk,Russia,402675
+Belgorod,Russia,394142
+Surgut,Russia,380632
+Vladimir,Russia,356937
+Chita,Russia,351784
+Nizhny Tagil,Russia,349008
+Arkhangelsk,Russia,346979
+Simferopol,Russia,342054
+Kaluga,Russia,332039
+Smolensk,Russia,325495
+Volzhsky,Russia,323906
+Yakutsk,Russia,322987
+Saransk,Russia,320612
+Cherepovets,Russia,314834
+Kurgan,Russia,312364
+Vologda,Russia,310302
+Oryol,Russia,308838
+Podolsk,Russia,308130
+Grozny,Russia,305911
+Vladikavkaz,Russia,303597
+Tambov,Russia,292140
+Murmansk,Russia,287847
+Petrozavodsk,Russia,281023
+Nizhnevartovsk,Russia,277668
+Kostroma,Russia,276929
+Sterlitamak,Russia,276394
+Novorossiysk,Russia,274956
+Yoshkar-Ola,Russia,274715
+Khimki,Russia,259550
+Taganrog,Russia,248643
+Komsomolsk-on-Amur,Russia,244768
+Syktyvkar,Russia,244403
+Nizhnekamsk,Russia,240020
+Nalchik,Russia,239583
+Mytishchi,Russia,235504
+Shakhty,Russia,230262
+Dzerzhinsk,Russia,229000
+Engels,Russia,227049
+Orsk,Russia,226502
+Blagoveshchensk,Russia,226385
+Bratsk,Russia,226269
+Korolyov,Russia,225858
+Veliky Novgorod,Russia,224936
+Angarsk,Russia,224630
+Stary Oskol,Russia,223921
+Pskov,Russia,210340
+Lyubertsy,Russia,205295
+Yuzhno-Sakhalinsk,Russia,200636
+Biysk,Russia,199464
+Prokopyevsk,Russia,190334
+Armavir,Russia,188960
+Balakovo,Russia,187523
+Abakan,Russia,186797
+Rybinsk,Russia,184635
+Severodvinsk,Russia,181990
+Norilsk,Russia,181830
+Petropavlovsk-Kamchatsky,Russia,179586
+Krasnogorsk,Russia,175554
+Ussuriysk,Russia,173640
+Volgodonsk,Russia,171406
+Novocherkassk,Russia,168035
+Syzran,Russia,167160
+Kamensk-Uralsky,Russia,166086
+Zlatoust,Russia,163919
+Almetyevsk,Russia,158429
+Elektrostal,Russia,156026
+Kerch,Russia,151548
+Miass,Russia,151472
+Salavat,Russia,150500
+Pyatigorsk,Russia,147861
+Kopeysk,Russia,147634
+Nakhodka,Russia,145159
+Khasavyurt,Russia,145109
+Rubtsovsk,Russia,141584
+Maykop,Russia,141475
+Kolomna,Russia,140129
+Berezniki,Russia,139209
+Domodedovo,Russia,137160
+Kovrov,Russia,135715
+Odintsovo,Russia,135506
+Neftekamsk,Russia,131138
+Kislovodsk,Russia,128779
+Bataysk,Russia,127919
+Nefteyugansk,Russia,127255
+Novocheboksarsk,Russia,127226
+Serpukhov,Russia,126273
+Shchyolkovo,Russia,126109
+Derbent,Russia,125832
+Kaspiysk,Russia,123988
+Cherkessk,Russia,123168
+Novomoskovsk,Russia,122306
+Nazran,Russia,122261
+Ramenskoye,Russia,121908
+Pervouralsk,Russia,120778
+Kyzyl,Russia,119438
+Orekhovo-Zuyevo,Russia,118309
+Novy Urengoy,Russia,118033
+Obninsk,Russia,117419
+Nevinnomyssk,Russia,116751
+Dolgoprudny,Russia,116038
+Oktyabrsky,Russia,114100
+Dimitrovgrad,Russia,113472
+Yessentuki,Russia,113056
+Kamyshin,Russia,109910
+Yevpatoria,Russia,108248
+Reutov,Russia,108054
+Pushkino,Russia,107580
+Zhukovsky,Russia,107560
+Murom,Russia,106984
+Noyabrsk,Russia,106911
+Novoshakhtinsk,Russia,106534
+Seversk,Russia,106516
+Artyom,Russia,105675
+Achinsk,Russia,105531
+Berdsk,Russia,104334
+Arzamas,Russia,103979
+Noginsk,Russia,103967
+Elista,Russia,103122
+Yelets,Russia,102313
+Khanty-Mansiysk,Russia,101466
+Novokuybyshevsk,Russia,100455
+Zheleznogorsk,Russia,100446
+Sergiyev Posad,Russia,100335
+Zelenodolsk,Russia,100039
+Tobolsk,Russia,98932
+Votkinsk,Russia,97244
+Mezhdurechensk,Russia,96299
+Sarov,Russia,96052
+Serov,Russia,95861
+Mikhaylovsk,Russia,95721
+Sarapul,Russia,95355
+Leninsk-Kuznetsky,Russia,94398
+Ukhta,Russia,93716
+Voskresensk,Russia,92911
+Solikamsk,Russia,92602
+Glazov,Russia,92334
+Magadan,Russia,92052
+Gatchina,Russia,91685
+Velikiye Luki,Russia,90922
+Michurinsk,Russia,90722
+Lobnya,Russia,90231
+Kansk,Russia,88917
+Anapa,Russia,88879
+Kamensk-Shakhtinsky,Russia,87760
+Kiselyovsk,Russia,86573
+Gubkin,Russia,86229
+Buzuluk,Russia,86103
+Novotroitsk,Russia,83647
+Yeysk,Russia,83094
+Zheleznogorsk,Russia,82591
+Bugulma,Russia,82488
+Chaykovsky,Russia,82382
+Ivanteyevka,Russia,81254
+Kineshma,Russia,80950
+Yurga,Russia,80840
+Kuznetsk,Russia,80497
+Azov,Russia,80428
+Ust-Ilimsk,Russia,80419
+Novouralsk,Russia,80357
+Klin,Russia,79715
+Yalta,Russia,79056
+Ozyorsk,Russia,78440
+Kropotkin,Russia,77655
+Vidnoye,Russia,77018
+Bor,Russia,76872
+Gelendzhik,Russia,76783
+Usolye-Sibirskoye,Russia,76047
+Balashov,Russia,75773
+Chernogorsk,Russia,75419
+Vyborg,Russia,75355
+Dubna,Russia,74985
+Vsevolozhsk,Russia,74724
+Shadrinsk,Russia,74652
+Novoaltaysk,Russia,74556
+Yelabuga,Russia,73962
+Mineralnye Vody,Russia,73925
+Troitsk,Russia,73421
+Yegoryevsk,Russia,72763
+Verkhnyaya Pyshma,Russia,72688
+Chekhov,Russia,72321
+Birobidzhan,Russia,71843
+Chapayevsk,Russia,71720
+Belovo,Russia,71240
+Kirovo-Chepetsk,Russia,69835
+Dmitrov,Russia,68792
+Tuymazy,Russia,68246
+Anzhero-Sudzhensk,Russia,68116
+Feodosia,Russia,68001
+Slavyansk-na-Kubani,Russia,67919
+Minusinsk,Russia,67912
+Kstovo,Russia,67797
+Kogalym,Russia,67727
+Sosnovy Bor,Russia,67720
+Georgiyevsk,Russia,66436
+Sunzha,Russia,66344
+Stupino,Russia,65908
+Buynaksk,Russia,65658
+Zarechny,Russia,65502
+Belogorsk,Russia,65315
+Murino,Russia,64939
+Beloretsk,Russia,64921
+Naro-Fominsk,Russia,64902
+Kungur,Russia,64898
+Gorno-Altaysk,Russia,64464
+Ishim,Russia,64414
+Ishimbay,Russia,64386
+Pavlovsky Posad,Russia,63568
+Gukovo,Russia,63150
+Klintsy,Russia,62992
+Asbest,Russia,62908
+Urus-Martan,Russia,62702
+Rossosh,Russia,62625
+Donskoy,Russia,62621
+Kotlas,Russia,61990
+Volsk,Russia,61943
+Leninogorsk,Russia,61695
+Zelenogorsk,Russia,61633
+Revda,Russia,61533
+Budyonnovsk,Russia,61329
+Tuapse,Russia,61180
+Polevskoy,Russia,60979
+Sibay,Russia,60780
+Izberbash,Russia,60453
+Lysva,Russia,60310
+Borisoglebsk,Russia,59864
+Fryazino,Russia,59535
+Kumertau,Russia,59478
+Chistopol,Russia,59446
+Labinsk,Russia,59330
+Lesosibirsk,Russia,59306
+Belebey,Russia,59229
+Lytkarino,Russia,59150
+Beryozovsky,Russia,59030
+Nyagan,Russia,58565
+Prokhladny,Russia,58226
+Tikhvin,Russia,58116
+Neryungri,Russia,57934
+Krymsk,Russia,57927
+Alexandrov,Russia,57899
+Aleksin,Russia,57516
+Rzhev,Russia,57515
+Mikhaylovka,Russia,57447
+Shchyokino,Russia,57140
+Tikhoretsk,Russia,57098
+Shuya,Russia,57039
+Salsk,Russia,56832
+Pavlovo,Russia,56680
+Meleuz,Russia,56677
+Sertolovo,Russia,56620
+Dzerzhinsky,Russia,56376
+Krasnoturyinsk,Russia,56290
+Iskitim,Russia,56033
+Gudermes,Russia,55863
+Shali,Russia,55076
+Apatity,Russia,54667
+Svobodny,Russia,54017
+Severomorsk,Russia,53525
+Liski,Russia,53504
+Volzhsk,Russia,53216
+Vyksa,Russia,53010
+Gus-Khrustalny,Russia,52779
+Vorkuta,Russia,52776
+Krasnokamsk,Russia,52537
+Vyazma,Russia,52347
+Arsenyev,Russia,52173
+Snezhinsk,Russia,51751
+Zhigulyovsk,Russia,51641
+Belorechensk,Russia,51590
+Krasnokamensk,Russia,51387
+Salekhard,Russia,50976
+Timashyovsk,Russia,50792
+Kirishi,Russia,50525
+Solnechnogorsk,Russia,50169
+Cheremkhovo,Russia,50154
+Toronto,Canada,2600000
+Montreal,Canada,1600000
+Calgary,Canada,1019942
+Ottawa,Canada,812129
+Edmonton,Canada,712391
+Mississauga,Canada,668549
+North York,Canada,636000
+Winnipeg,Canada,632063
+Scarborough,Canada,600000
+Vancouver,Canada,600000
+Quebec,Canada,528595
+Hamilton,Canada,519949
+Brampton,Canada,433806
+Surrey,Canada,394976
+Laval,Canada,376845
+Halifax,Canada,359111
+Etobicoke,Canada,347948
+London,Canada,346765
+Okanagan,Canada,297601
+Victoria,Canada,289625
+Windsor,Canada,278013
+Markham,Canada,261573
+Oshawa,Canada,247989
+Gatineau,Canada,242124
+Vaughan,Canada,238866
+Kitchener,Canada,233700
+Longueuil,Canada,229330
+Burnaby,Canada,202799
+Ladner,Canada,200000
+Saskatoon,Canada,198958
+Richmond Hill,Canada,185541
+Barrie,Canada,182041
+Richmond,Canada,182000
+Nepean,Canada,180000
+Regina,Canada,176183
+Oakville,Canada,165697
+Burlington,Canada,164415
+Greater Sudbury,Canada,157857
+Abbotsford,Canada,151683
+Saguenay,Canada,143692
+St. Catharines,Canada,131989
+Sherbrooke,Canada,129447
+Anmore,Canada,126456
+Levis,Canada,126396
+Kelowna,Canada,125109
+Cambridge,Canada,120372
+Trois Rivieres,Canada,119693
+Guelph,Canada,115760
+East York,Canada,115365
+Coquitlam,Canada,114565
+Kingston,Canada,114195
+Sydney,Canada,105968
+Delta,Canada,101668
+Dartmouth,Canada,101343
+Thunder Bay,Canada,99334
+St. John's,Canada,99182
+Waterloo,Canada,97475
+Terrebonne,Canada,94703
+Ajax,Canada,90167
+Saint John,Canada,87857
+Pickering,Canada,87838
+Brantford,Canada,87759
+Moncton,Canada,87467
+Nanaimo,Canada,84905
+Milton,Canada,84362
+Sarnia,Canada,82998
+Niagara Falls,Canada,82000
+Willowdale,Canada,79440
+Saint Laurent,Canada,77391
+Chilliwack,Canada,77000
+Repentigny,Canada,76237
+Fort Mcmurray,Canada,76000
+Peterborough,Canada,75877
+Sault Ste. Marie,Canada,74948
+Newmarket,Canada,74295
+La Haute Saint Charles,Canada,74070
+Red Deer,Canada,73593
+Saint Leonard,Canada,73423
+Saint Jean Sur Richelieu,Canada,71613
+Lethbridge,Canada,70617
+Maple Ridge,Canada,70000
+Brossard,Canada,69575
+Kamloops,Canada,68714
+Notre Dame De Grace,Canada,67000
+White Rock,Canada,66450
+Prince George,Canada,65558
+Medicine Hat,Canada,63138
+Norfolk County,Canada,60847
+Drummondville,Canada,59489
+New Westminster,Canada,58549
+St. Albert,Canada,57719
+Sherwood Park,Canada,55063
+Saint Jerome,Canada,54948
+Jonquiere,Canada,54842
+Granby,Canada,53979
+Fredericton,Canada,52337
+Welland,Canada,50331
+Saint Hyacinthe,Canada,50326
+North Bay,Canada,50170
+Belleville,Canada,49454
+Shawinigan,Canada,49161
+Dollard Des Ormeaux,Canada,48930
+Cornwall,Canada,48821
+North Vancouver,Canada,48000
+Vernon,Canada,47274
+Blainville,Canada,46493
+West End,Canada,44560
+Chatham,Canada,43550
+Timmins,Canada,42997
+Chateauguay,Canada,42786
+Quinte West,Canada,42697
+West Vancouver,Canada,42694
+Charlottetown,Canada,42402
+Rimouski,Canada,42240
+Saint Eustache,Canada,42062
+Grande Prairie,Canada,41462
+Boucherville,Canada,39062
+Salaberry De Valleyfield,Canada,38662
+Penticton,Canada,37721
+St. Thomas,Canada,36110
+Rock Forest,Canada,35500
+Joliette,Canada,34772
+Mirabel,Canada,34626
+Mascouche,Canada,34626
+Prince Albert,Canada,34609
+Victoriaville,Canada,34426
+Brant,Canada,34415
+Woodstock,Canada,33892
+Campbell River,Canada,33430
+Ancaster,Canada,33232
+Courtenay,Canada,32793
+Orangeville,Canada,32640
+North Cowichan,Canada,32272
+Moose Jaw,Canada,32166
+Midland,Canada,31502
+Cote Saint Luc,Canada,31395
+Saint Georges,Canada,31173
+Val D'or,Canada,31123
+Stratford,Canada,30233
+Orillia,Canada,30178
+Pointe Claire,Canada,30161
+Baie Comeau,Canada,29808
+Alma,Canada,29526
+Sainte Julie,Canada,29019
+West Kelowna,Canada,28793
+Port Moody,Canada,27512
+Lloydminster,Canada,27000
+Boisbriand,Canada,26483
+Brandon,Canada,26234
+Vaudreuil Dorion,Canada,25789
+Thetford Mines,Canada,25704
+Walnut Grove,Canada,25683
+Prince Edward,Canada,25496
+Sainte Therese,Canada,25224
+Airdrie,Canada,24673
+Mount Pearl,Canada,24671
+Saint Bruno De Montarville,Canada,24388
+Rouyn Noranda,Canada,24023
+Saint Constant,Canada,23957
+Brockville,Canada,23886
+Langley,Canada,23606
+Whitehorse,Canada,23272
+Owen Sound,Canada,22625
+Chambly,Canada,22608
+Sept Iles,Canada,22582
+Langford,Canada,22459
+Duncan,Canada,22199
+La Prairie,Canada,21763
+Lower Sackville,Canada,21379
+Port Alberni,Canada,21282
+Keswick,Canada,21000
+Varennes,Canada,20950
+Clarence Rockland,Canada,20790
+Truro,Canada,20650
+Westmount,Canada,20494
+Kirkland,Canada,20491
+Lindsay,Canada,20354
+New Glasgow,Canada,20322
+Cole Harbour,Canada,20000
+Glace Bay,Canada,19968
+Huntsville,Canada,19579
+Terrace,Canada,19443
+North Battleford,Canada,19440
+Beaconsfield,Canada,19194
+Mont Royal,Canada,18933
+Beloeil,Canada,18927
+Corner Brook,Canada,18693
+Cranbrook,Canada,18610
+Port Colborne,Canada,18599
+Riviere Du Loup,Canada,18586
+Dieppe,Canada,18565
+Thorold,Canada,18224
+Miramichi,Canada,18129
+Cobourg,Canada,18099
+Dorval,Canada,18088
+Oak Bay,Canada,18015
+Amos,Canada,17918
+Spruce Grove,Canada,17767
+Pitt Meadows,Canada,17410
+Fort St. John,Canada,17402
+Deux Montagnes,Canada,17402
+Saint Augustin De Desmaures,Canada,17281
+Conception Bay South,Canada,17087
+Saint Lazare,Canada,17016
+Sainte Catherine,Canada,16762
+L'assomption,Canada,16738
+Edmundston,Canada,16643
+L'ancienne Lorette,Canada,16516
+Cochrane,Canada,16365
+Lutes Mountain,Canada,16311
+Sainte Catherine,Canada,16211
+Salmon Arm,Canada,16205
+Rayside Balfour,Canada,16050
+Petawawa,Canada,15988
+Fort Erie,Canada,15953
+Candiac,Canada,15947
+Yellowknife,Canada,15865
+Collingwood,Canada,15809
+Mont Saint Hilaire,Canada,15720
+Camrose,Canada,15686
+Yorkton,Canada,15669
+Saint Basile Le Grand,Canada,15605
+Leduc,Canada,15561
+Pembroke,Canada,15551
+Magog,Canada,15550
+Greater Napanee,Canada,15132
+Kenora,Canada,15096
+Le Plateau,Canada,15000
+Fort Saskatchewan,Canada,14957
+Okotoks,Canada,14826
+Gaspe,Canada,14819
+Matane,Canada,14812
+Summerside,Canada,14808
+Prince Rupert,Canada,14708
+Swift Current,Canada,14703
+Colwood,Canada,14687
+Rosemere,Canada,14173
+Williams Lake,Canada,14168
+Saint Lin Laurentides,Canada,14159
+Simcoe,Canada,13922
+Quesnel,Canada,13788
+Bay Roberts,Canada,13737
+Mont Laurier,Canada,13405
+Portage La Prairie,Canada,12957
+Dolbeau Mistassini,Canada,12916
+Powell River,Canada,12779
+Brooks,Canada,12744
+Bathurst,Canada,12714
+Kentville,Canada,12636
+Elliot Lake,Canada,12508
+Thompson,Canada,12467
+Aldergrove,Canada,12363
+Canmore,Canada,12288
+Hawkesbury,Canada,12283
+North Perth,Canada,12254
+Grand Falls Windsor,Canada,12076
+Parksville,Canada,12000
+Beauharnois,Canada,11918
+Ingersoll,Canada,11874
+Montmagny,Canada,11724
+Cold Lake,Canada,11595
+Sainte Marie,Canada,11584
+Uxbridge,Canada,11531
+Fall River,Canada,11526
+Amherstburg,Canada,11459
+Sainte Marthe Sur Le Lac,Canada,11311
+Wetaskiwin,Canada,11302
+Pincourt,Canada,11197
+Paris,Canada,11177
+Becancour,Canada,11134
+North Saanich,Canada,11089
+Cowansville,Canada,10887
+Dawson Creek,Canada,10802
+Sainte Anne Des Plaines,Canada,10680
+Lambton Shores,Canada,10656
+Sainte Adele,Canada,10634
+Les Coteaux,Canada,10622
+Whistler,Canada,10600
+Smiths Falls,Canada,10553
+Sylvan Lake,Canada,10518
+Temiskaming Shores,Canada,10442
+Cantley,Canada,10412
+Rawdon,Canada,10400
+Labrador City,Canada,10313
+Angus,Canada,10269
+Prevost,Canada,10132
+Mercier,Canada,10121
+Lacombe,Canada,10059
+Strathmore,Canada,10009
+Hanceville,Canada,10000
+South Huron,Canada,9982
+Bells Corners,Canada,9977
+L'ile Perrot,Canada,9927
+Estevan,Canada,9904
+Hinton,Canada,9889
+Notre Dame De L'ile Perrot,Canada,9885
+High River,Canada,9826
+Nelson,Canada,9813
+Carleton Place,Canada,9743
+Trail,Canada,9707
+Selkirk,Canada,9653
+Lorraine,Canada,9613
+Steinbach,Canada,9607
+Arnprior,Canada,9607
+Lachute,Canada,9562
+Val Des Monts,Canada,9539
+La Tuque,Canada,9503
+Weyburn,Canada,9362
+Amherst,Canada,9336
+Dorchester,Canada,9329
+Roberval,Canada,9287
+Saint Raymond,Canada,9273
+Huron East,Canada,9264
+Kapuskasing,Canada,9240
+Saint Sauveur,Canada,9191
+Oromocto,Canada,8998
+Kitimat,Canada,8987
+La Malbaie,Canada,8959
+Stony Plain,Canada,8939
+Mont Tremblant,Canada,8892
+Binbrook,Canada,8796
+Whitecourt,Canada,8763
+Lavaltrie,Canada,8762
+Ladysmith,Canada,8740
+Pont Rouge,Canada,8723
+Castlegar,Canada,8715
+Otterburn Park,Canada,8464
+Dauphin,Canada,8418
+Bois Des Filion,Canada,8383
+Winkler,Canada,8270
+Concord,Canada,8255
+Bracebridge,Canada,8238
+Notre Dame Des Prairies,Canada,8230
+Dryden,Canada,8195
+Taber,Canada,8163
+Morinville,Canada,8108
+Silver Berry,Canada,8089
+Saint Felicien,Canada,8088
+Saint Hippolyte,Canada,8083
+Bridgewater,Canada,8070
+Goderich,Canada,8032
+Wild Rose,Canada,8031
+Renfrew,Canada,8018
+Edson,Canada,7975
+Fort Frances,Canada,7931
+Chandler,Canada,7914
+Kirkland Lake,Canada,7775
+Slave Lake,Canada,7661
+Happy Valley Goose Bay,Canada,7572
+Wasaga Beach,Canada,7567
+Chibougamau,Canada,7563
+Revelstoke,Canada,7533
+Aylmer,Canada,7527
+Pont Rouge,Canada,7518
+Camlachie,Canada,7506
+Banff,Canada,7502
+Yarmouth,Canada,7500
+Carignan,Canada,7426
+Campbellton,Canada,7384
+Beaumont,Canada,7366
+Innisfil,Canada,7345
+Delson,Canada,7322
+Sydney Mines,Canada,7312
+Baie Saint Paul,Canada,7288
+Hanover,Canada,7255
+La Sarre,Canada,7206
+Asbestos,Canada,7190
+Merritt,Canada,7179
+Bluewater,Canada,7044
+Coaticook,Canada,7021
+Hampstead,Canada,6996
+Olds,Canada,6947
+Greenwood,Canada,6915
+Gibsons,Canada,6821
+Carbonear,Canada,6814
+Saint Zotique,Canada,6773
+Kincardine,Canada,6725
+Plessisville,Canada,6677
+Brownsburg Chatham,Canada,6664
+Ponoka,Canada,6656
+Mont Joli,Canada,6568
+Rocky Mountain House,Canada,6527
+Kimberley,Canada,6513
+Perth,Canada,6481
+Parry Sound,Canada,6469
+Pointe Calumet,Canada,6396
+Morden,Canada,6395
+Coaldale,Canada,6317
+Summerland,Canada,6292
+Stephenville,Canada,6278
+Amqui,Canada,6261
+Beauceville,Canada,6226
+Saint Joseph Du Lac,Canada,6195
+Sooke,Canada,6145
+Iqaluit,Canada,6124
+Drayton Valley,Canada,6099
+Farnham,Canada,6061
+The Pas,Canada,6055
+Bromont,Canada,6049
+Saint Felix De Valois,Canada,6029
+Shanghai,China,22315474
+Beijing,China,11716620
+Tianjin,China,11090314
+Guangzhou,China,11071424
+Shenzhen,China,10358381
+Wuhan,China,9785388
+Dongguan,China,8000000
+Chongqing,China,7457600
+Chengdu,China,7415590
+Nanjing,China,7165292
+Nanchong,China,7150000
+Xi'an,China,6501190
+Shenyang,China,6255921
+Hangzhou,China,6241971
+Harbin,China,5878939
+Tai'an,China,5499000
+Suzhou,China,5345961
+Shantou,China,5329024
+Jinan,China,4335989
+Zhengzhou,China,4253913
+Changchun,China,4193073
+Dalian,China,4087733
+Kunming,China,3855346
+Qingdao,China,3718835
+Foshan,China,3600000
+Puyang,China,3590000
+Wuxi,China,3543719
+Xiamen,China,3531347
+Tianshui,China,3500000
+Ningbo,China,3491597
+Shiyan,China,3460000
+Taiyuan,China,3426519
+Tangshan,China,3372102
+Hefei,China,3310268
+Zibo,China,3129228
+Zhongshan,China,3121275
+Changsha,China,3093980
+Urumqi,China,3029372
+Shijiazhuang,China,2834942
+Lanzhou,China,2628426
+Yunfu,China,2612800
+Nanchang,China,2357839
+Dadonghai,China,2000000
+Ordos,China,1940653
+Jilin,China,1881977
+Bayan Nur,China,1760000
+Kunshan,China,1600000
+Xinyang,China,1590668
+Fushun,China,1400646
+Luoyang,China,1390581
+Guankou,China,1380000
+Handan,China,1358318
+Baotou,China,1301768
+Xuchang,China,1265536
+Yueyang,China,1200000
+Anshan,China,1199275
+Tongshan,China,1199193
+Fuzhou,China,1179720
+Guiyang,China,1171633
+Lijiang,China,1137600
+Datong,China,1052678
+Changshu City,China,1047700
+Xianyang,China,1034081
+Huainan,China,1027655
+Jieyang,China,1001985
+Zhu Cheng City,China,1000000
+Baoding,China,995652
+Benxi,China,987717
+Changzhou,China,949018
+Huaibei,China,903039
+Kaifeng,China,900000
+Pingdingshan,China,889675
+Qiqihar,China,882364
+Wenzhou,China,865672
+Zhabei,China,840000
+Nanning,China,803788
+Anyang,China,781129
+Hohhot,China,774477
+Shangyu,China,770000
+Xining,China,767531
+Qinhuangdao,China,759718
+Hengyang,China,759602
+Xinxiang,China,743601
+Hegang,China,743307
+Langfang,China,720119
+Zhumadian,China,720000
+Yantai,China,719332
+Zhuzhou,China,709358
+Changzhi,China,699514
+Zhangjiakou,China,692602
+Zigong,China,689961
+Fuxin,China,689050
+Huangshi,China,688090
+Liaoyang,China,687890
+Xiangtan,China,674189
+Puyang Chengguanzhen,China,666322
+Nantong,China,666251
+Mudanjiang,China,665915
+Guilin,China,649352
+Zhanjiang,China,637790
+Zhenjiang,China,632552
+Dandong,China,631973
+Shaoguan,China,628749
+Yancheng,China,628441
+Panshan,China,625040
+Haikou,China,615835
+Taizhou,China,612356
+Xingtai,China,611739
+Jinzhou,China,604269
+Shuangyashan,China,600000
+Luancheng,China,597130
+Yingkou,China,591159
+Zhangzhou,China,589831
+Bengbu,China,576648
+Shihezi,China,572772
+Siping,China,555609
+Huai'an,China,555230
+Jiamusi,China,549549
+Neijiang,China,546854
+Yangzhou,China,539715
+Guli,China,536000
+Tanggu,China,535298
+Jiangmen,China,532419
+Cangzhou,China,527681
+Changde,China,517780
+Jiaozuo,China,517540
+Tonghua,China,510000
+Wuhu,China,507524
+Zhuhai,China,501199
+Shashi,China,498780
+Wuwei,China,493092
+Qionghai,China,480000
+Yichang,China,476725
+Yinchuan,China,475101
+Jiaojiang,China,470804
+Zunyi,China,466292
+Jiaxing,China,466101
+Liaoyuan,China,465249
+Xiangyang,China,462956
+Dadukou,China,461513
+Hengshui,China,456356
+Jining,China,450327
+Wenshan City,China,450000
+Chengde,China,449325
+Bei'an,China,436444
+Luqiao,China,427890
+Chaozhou,China,424787
+Shaoxing,China,421283
+Luohe,China,417356
+Yangquan,China,413394
+Chaoyang,China,410005
+Jixi,China,403759
+Yangjiang,China,399735
+Weifang,China,394732
+Xinpu,China,392444
+Dezhou,China,379555
+Zhoukou,China,377061
+Putian,China,376558
+Zhangjiakou Shi Xuanhua Qu,China,373422
+Pingxiang,China,372123
+Fenghuang,China,370000
+Zhaoqing,China,361969
+Huocheng,China,360000
+Anqing,China,358661
+Anshun,China,351936
+Chifeng,China,346654
+Taihecun,China,345033
+Shiqi,China,342306
+Aksu,China,340020
+Tieling,China,333907
+Jincheng,China,332650
+Yanji,China,326957
+Suizhou,China,323945
+Shangrao,China,318769
+Baicheng,China,316970
+Lianshan,China,313247
+Wusong,China,312588
+Jingdezhen,China,310565
+Shengli,China,306450
+Yangshuo,China,300000
+Xinyuan,China,300000
+Xiuying,China,290000
+Beihai,China,289568
+Huizhou,China,289201
+Chuzhou,China,280582
+Kashgar,China,274717
+Linyi,China,270669
+Chengzhong,China,265886
+Wuzhou,China,265846
+Hulan Ergi,China,265344
+Mianyang,China,264136
+Tongliao,China,261110
+Aral,China,260000
+Karamay,China,260000
+Jiujiang,China,258807
+Jining,China,258757
+Turpan,China,254900
+Heze,China,254602
+Laohekou,China,253112
+Suihua,China,252245
+Liupanshui,China,251900
+Nanyang,China,251532
+Wafangdian,China,250591
+Rizhao,China,246387
+Ji'an,China,245000
+Hebi,China,244662
+Huayin,China,242488
+Yibin,China,242111
+Xiantao,China,239406
+Yuci,China,235929
+Linfen,China,232566
+Liaocheng,China,226930
+Fendou,China,226298
+Huanggang,China,225956
+Jingling,China,224871
+Tongchuanshi,China,223603
+Xintai,China,222459
+Wuxue,China,220661
+Wuhai,China,218427
+Jinzhou,China,215386
+Guangyuan,China,213365
+Hailar,China,211066
+Daliang,China,210411
+Sanming,China,209444
+Hangu,China,208369
+Suzhou,China,205130
+Gaoping,China,204368
+Daqing,China,203488
+Yiyang,China,202608
+Linxia Chengguanzhen,China,202402
+Yuncheng,China,201950
+Changji,China,198776
+Kaiyuan,China,198423
+Mentougou,China,197772
+Xinhui,China,195129
+Ezhou,China,193652
+Humen,China,191891
+Haicheng,China,191651
+Zoucheng,China,190537
+Wanxian,China,188980
+Donghai,China,188602
+Baiyin,China,188533
+Laizhou,China,188000
+Zaoyang,China,184509
+Quanzhou,China,184143
+Baishan,China,183880
+Zaozhuang,China,183665
+Anda,China,181271
+Shangqiu,China,181218
+Xianning,China,179494
+Korla,China,179465
+Qianjiang,China,179079
+Chenzhou,China,179038
+Jingzhou,China,177878
+Zhenzhou,China,176006
+Xindi,China,175761
+Jiutai,China,175115
+Bozhou,China,174140
+Licheng,China,172775
+Weinan,China,172321
+Nanping,China,171674
+Dongling,China,171454
+Fuyang,China,170023
+Laiyang,China,169594
+Jingmen,China,167750
+Fuling,China,166507
+Gaozhou,China,166069
+Ulanhot,China,165846
+Shanwei,China,165699
+Jiaozhou,China,165026
+Fendou,China,164844
+Tongzhou,China,163326
+Anbu,China,162964
+Xiaogan,China,160437
+Qapqal,China,160000
+Zhicheng,China,159383
+Huzhou,China,158320
+Nanpiao,China,157044
+Yichun,China,155762
+Lianghu,China,155000
+Beipiao,China,154999
+Guangshui,China,154771
+Leshan,China,154477
+Zhaodong,China,154406
+Xinzhou,China,154003
+Sanshui,China,153714
+Boshan,China,153596
+Yangchun,China,153547
+Linhai,China,152937
+Dingzhou,China,152934
+Weihai,China,152595
+Chenghua,China,152453
+Deyang,China,152194
+Yichun,China,152169
+Longfeng,China,152074
+Qingyuan,China,151287
+Gaomi,China,150793
+Loudi,China,150684
+Huangyan,China,150448
+Dunhua,China,148844
+Yulin,China,148485
+Chizhou,China,148375
+Sujiatun,China,148113
+Honggang,China,147977
+Qujing,China,146015
+Hanzhong,China,145986
+Xinji,China,145911
+Taishan,China,145440
+Sanya,China,144753
+Acheng,China,144665
+Jinchang,China,144363
+Meizhou,China,144212
+Jinhua,China,142206
+Jieshou,China,141993
+Gongzhuling,China,140909
+Shanhaiguan,China,140000
+Altay,China,139341
+Huadian,China,139047
+Fuyu,China,138704
+Chaohu,China,138463
+Jieshi,China,137444
+Jiashan,China,137112
+Hami,China,137072
+Shizuishan,China,136570
+Gejiu,China,136135
+Jiagedaqi,China,135760
+Shiqiao,China,135308
+Dali,China,134040
+Puqi,China,132891
+Ankang,China,132654
+Zhalantun,China,132224
+Dawukou,China,131880
+Majie,China,131696
+Hepo,China,131238
+Dazhou,China,130749
+Shuangcheng,China,130710
+Dongyang,China,130387
+Jiazi,China,130298
+Songjiang,China,130218
+Shangri La,China,130000
+Wuda,China,129922
+Leiyang,China,129116
+Xuanzhou,China,127758
+Huaihua,China,127322
+Jiangyou,China,127225
+Xichang,China,126787
+Danshui,China,126701
+Macheng,China,126366
+Huicheng,China,125919
+Xiazhen,China,125667
+Haimen,China,125427
+Shahecheng,China,125132
+Suining,China,124924
+Yushu,China,124736
+Lecheng,China,124268
+Laiwu,China,124108
+Jiupu,China,123843
+Baoshan,China,123791
+Luoyang,China,123144
+Minzhu,China,123018
+Huangzhou,China,122563
+Xiulin,China,122411
+Zhoucun,China,122402
+Jiayuguan,China,122396
+Lianhe,China,121367
+Xilin Hot,China,120965
+Fengcheng,China,120514
+Zhaoyuan,China,120000
+Lhasa,China,118721
+Puning,China,118023
+Shunyi,China,117623
+Longjing,China,117185
+Qingzhou,China,117056
+Dasha,China,116307
+Yakeshi,China,116284
+Binzhou,China,115893
+Lengshuijiang,China,115399
+Tianfu,China,115370
+Wenchang,China,115000
+Mingshui,China,114858
+Yuyao,China,114177
+Hotan,China,114000
+Pingshan,China,113631
+Songyuan,China,113611
+Maba,China,113609
+Guangming,China,112819
+Haikou,China,112644
+Shaowu,China,112585
+Kaiyuan,China,112462
+Beibei,China,112019
+Dongtai,China,110988
+Encheng,China,110921
+Zhuji,China,110721
+Qingnian,China,110046
+Mizhou,China,109968
+Linshui,China,109955
+Hailun,China,109881
+Shilong,China,109733
+Tieli,China,109636
+Dongxing,China,109561
+New York - New York,United States,8405837
+Los Angeles - California,United States,3884307
+Chicago - Illinois,United States,2718782
+Houston - Texas,United States,2195914
+Philadelphia - Pennsylvania,United States,1553165
+Phoenix - Arizona,United States,1513367
+San Antonio - Texas,United States,1409019
+San Diego - California,United States,1355896
+Dallas - Texas,United States,1257676
+San Jose - California,United States,998537
+Austin - Texas,United States,885400
+Indianapolis - Indiana,United States,843393
+Jacksonville - Florida,United States,842583
+San Francisco - California,United States,837442
+Columbus - Ohio,United States,822553
+Charlotte - North Carolina,United States,792862
+Fort Worth - Texas,United States,792727
+Detroit - Michigan,United States,688701
+El Paso - Texas,United States,674433
+Memphis - Tennessee,United States,653450
+Seattle - Washington,United States,652405
+Denver - Colorado,United States,649495
+Washington - District of Columbia,United States,646449
+Boston - Massachusetts,United States,645966
+Nashville-Davidson - Tennessee,United States,634464
+Baltimore - Maryland,United States,622104
+Oklahoma City - Oklahoma,United States,610613
+Louisville/Jefferson County - Kentucky,United States,609893
+Portland - Oregon,United States,609456
+Las Vegas - Nevada,United States,603488
+Milwaukee - Wisconsin,United States,599164
+Albuquerque - New Mexico,United States,556495
+Tucson - Arizona,United States,526116
+Fresno - California,United States,509924
+Sacramento - California,United States,479686
+Long Beach - California,United States,469428
+Kansas City - Missouri,United States,467007
+Mesa - Arizona,United States,457587
+Virginia Beach - Virginia,United States,448479
+Atlanta - Georgia,United States,447841
+Colorado Springs - Colorado,United States,439886
+Omaha - Nebraska,United States,434353
+Raleigh - North Carolina,United States,431746
+Miami - Florida,United States,417650
+Oakland - California,United States,406253
+Minneapolis - Minnesota,United States,400070
+Tulsa - Oklahoma,United States,398121
+Cleveland - Ohio,United States,390113
+Wichita - Kansas,United States,386552
+Arlington - Texas,United States,379577
+New Orleans - Louisiana,United States,378715
+Bakersfield - California,United States,363630
+Tampa - Florida,United States,352957
+Honolulu - Hawaii,United States,347884
+Aurora - Colorado,United States,345803
+Anaheim - California,United States,345012
+Santa Ana - California,United States,334227
+St. Louis - Missouri,United States,318416
+Riverside - California,United States,316619
+Corpus Christi - Texas,United States,316381
+Lexington-Fayette - Kentucky,United States,308428
+Pittsburgh - Pennsylvania,United States,305841
+Anchorage - Alaska,United States,300950
+Stockton - California,United States,298118
+Cincinnati - Ohio,United States,297517
+St. Paul - Minnesota,United States,294873
+Toledo - Ohio,United States,282313
+Greensboro - North Carolina,United States,279639
+Newark - New Jersey,United States,278427
+Plano - Texas,United States,274409
+Henderson - Nevada,United States,270811
+Lincoln - Nebraska,United States,268738
+Buffalo - New York,United States,258959
+Jersey City - New Jersey,United States,257342
+Chula Vista - California,United States,256780
+Fort Wayne - Indiana,United States,256496
+Orlando - Florida,United States,255483
+St. Petersburg - Florida,United States,249688
+Chandler - Arizona,United States,249146
+Laredo - Texas,United States,248142
+Norfolk - Virginia,United States,246139
+Durham - North Carolina,United States,245475
+Madison - Wisconsin,United States,243344
+Lubbock - Texas,United States,239538
+Irvine - California,United States,236716
+Winston-Salem - North Carolina,United States,236441
+Glendale - Arizona,United States,234632
+Garland - Texas,United States,234566
+Hialeah - Florida,United States,233394
+Reno - Nevada,United States,233294
+Chesapeake - Virginia,United States,230571
+Gilbert - Arizona,United States,229972
+Baton Rouge - Louisiana,United States,229426
+Irving - Texas,United States,228653
+Scottsdale - Arizona,United States,226918
+North Las Vegas - Nevada,United States,226877
+Fremont - California,United States,224922
+Boise City - Idaho,United States,214237
+Richmond - Virginia,United States,214114
+San Bernardino - California,United States,213708
+Birmingham - Alabama,United States,212113
+Spokane - Washington,United States,210721
+Rochester - New York,United States,210358
+Des Moines - Iowa,United States,207510
+Modesto - California,United States,204933
+Fayetteville - North Carolina,United States,204408
+Tacoma - Washington,United States,203446
+Oxnard - California,United States,203007
+Fontana - California,United States,203003
+Columbus - Georgia,United States,202824
+Montgomery - Alabama,United States,201332
+Moreno Valley - California,United States,201175
+Shreveport - Louisiana,United States,200327
+Aurora - Illinois,United States,199963
+Yonkers - New York,United States,199766
+Akron - Ohio,United States,198100
+Huntington Beach - California,United States,197575
+Little Rock - Arkansas,United States,197357
+Augusta-Richmond County - Georgia,United States,197350
+Amarillo - Texas,United States,196429
+Glendale - California,United States,196021
+Mobile - Alabama,United States,194899
+Grand Rapids - Michigan,United States,192294
+Salt Lake City - Utah,United States,191180
+Tallahassee - Florida,United States,186411
+Huntsville - Alabama,United States,186254
+Grand Prairie - Texas,United States,183372
+Knoxville - Tennessee,United States,183270
+Worcester - Massachusetts,United States,182544
+Newport News - Virginia,United States,182020
+Brownsville - Texas,United States,181860
+Overland Park - Kansas,United States,181260
+Santa Clarita - California,United States,179590
+Providence - Rhode Island,United States,177994
+Garden Grove - California,United States,175140
+Chattanooga - Tennessee,United States,173366
+Oceanside - California,United States,172794
+Jackson - Mississippi,United States,172638
+Fort Lauderdale - Florida,United States,172389
+Santa Rosa - California,United States,171990
+Rancho Cucamonga - California,United States,171386
+Port St. Lucie - Florida,United States,171016
+Tempe - Arizona,United States,168228
+Ontario - California,United States,167500
+Vancouver - Washington,United States,167405
+Cape Coral - Florida,United States,165831
+Sioux Falls - South Dakota,United States,164676
+Springfield - Missouri,United States,164122
+Peoria - Arizona,United States,162592
+Pembroke Pines - Florida,United States,162329
+Elk Grove - California,United States,161007
+Salem - Oregon,United States,160614
+Lancaster - California,United States,159523
+Corona - California,United States,159503
+Eugene - Oregon,United States,159190
+Palmdale - California,United States,157161
+Salinas - California,United States,155662
+Springfield - Massachusetts,United States,153703
+Pasadena - Texas,United States,152735
+Fort Collins - Colorado,United States,152061
+Hayward - California,United States,151574
+Pomona - California,United States,151348
+Cary - North Carolina,United States,151088
+Rockford - Illinois,United States,150251
+Alexandria - Virginia,United States,148892
+Escondido - California,United States,148738
+McKinney - Texas,United States,148559
+Kansas City - Kansas,United States,148483
+Joliet - Illinois,United States,147806
+Sunnyvale - California,United States,147559
+Torrance - California,United States,147478
+Bridgeport - Connecticut,United States,147216
+Lakewood - Colorado,United States,147214
+Hollywood - Florida,United States,146526
+Paterson - New Jersey,United States,145948
+Naperville - Illinois,United States,144864
+Syracuse - New York,United States,144669
+Mesquite - Texas,United States,143484
+Dayton - Ohio,United States,143355
+Savannah - Georgia,United States,142772
+Clarksville - Tennessee,United States,142357
+Orange - California,United States,139969
+Pasadena - California,United States,139731
+Fullerton - California,United States,138981
+Killeen - Texas,United States,137147
+Frisco - Texas,United States,136791
+Hampton - Virginia,United States,136699
+McAllen - Texas,United States,136639
+Warren - Michigan,United States,134873
+Bellevue - Washington,United States,133992
+West Valley City - Utah,United States,133579
+Columbia - South Carolina,United States,133358
+Olathe - Kansas,United States,131885
+Sterling Heights - Michigan,United States,131224
+New Haven - Connecticut,United States,130660
+Miramar - Florida,United States,130288
+Waco - Texas,United States,129030
+Thousand Oaks - California,United States,128731
+Cedar Rapids - Iowa,United States,128429
+Charleston - South Carolina,United States,127999
+Visalia - California,United States,127763
+Topeka - Kansas,United States,127679
+Elizabeth - New Jersey,United States,127558
+Gainesville - Florida,United States,127488
+Thornton - Colorado,United States,127359
+Roseville - California,United States,127035
+Carrollton - Texas,United States,126700
+Coral Springs - Florida,United States,126604
+Stamford - Connecticut,United States,126456
+Simi Valley - California,United States,126181
+Concord - California,United States,125880
+Hartford - Connecticut,United States,125017
+Kent - Washington,United States,124435
+Lafayette - Louisiana,United States,124276
+Midland - Texas,United States,123933
+Surprise - Arizona,United States,123546
+Denton - Texas,United States,123099
+Victorville - California,United States,121096
+Evansville - Indiana,United States,120310
+Santa Clara - California,United States,120245
+Abilene - Texas,United States,120099
+Athens-Clarke County - Georgia,United States,119980
+Vallejo - California,United States,118837
+Allentown - Pennsylvania,United States,118577
+Norman - Oklahoma,United States,118197
+Beaumont - Texas,United States,117796
+Independence - Missouri,United States,117240
+Murfreesboro - Tennessee,United States,117044
+Ann Arbor - Michigan,United States,117025
+Springfield - Illinois,United States,117006
+Berkeley - California,United States,116768
+Peoria - Illinois,United States,116513
+Provo - Utah,United States,116288
+El Monte - California,United States,115708
+Columbia - Missouri,United States,115276
+Lansing - Michigan,United States,113972
+Fargo - North Dakota,United States,113658
+Downey - California,United States,113242
+Costa Mesa - California,United States,112174
+Wilmington - North Carolina,United States,112067
+Arvada - Colorado,United States,111707
+Inglewood - California,United States,111542
+Miami Gardens - Florida,United States,111378
+Carlsbad - California,United States,110972
+Westminster - Colorado,United States,110945
+Rochester - Minnesota,United States,110742
+Odessa - Texas,United States,110720
+Manchester - New Hampshire,United States,110378
+Elgin - Illinois,United States,110145
+West Jordan - Utah,United States,110077
+Round Rock - Texas,United States,109821
+Clearwater - Florida,United States,109703
+Waterbury - Connecticut,United States,109676
+Gresham - Oregon,United States,109397
+Fairfield - California,United States,109320
+Billings - Montana,United States,109059
+Lowell - Massachusetts,United States,108861
+San Buenaventura (Ventura) - California,United States,108817
+Pueblo - Colorado,United States,108249
+High Point - North Carolina,United States,107741
+West Covina - California,United States,107740
+Richmond - California,United States,107571
+Murrieta - California,United States,107479
+Cambridge - Massachusetts,United States,107289
+Antioch - California,United States,107100
+Temecula - California,United States,106780
+Norwalk - California,United States,106589
+Centennial - Colorado,United States,106114
+Everett - Washington,United States,105370
+Palm Bay - Florida,United States,104898
+Wichita Falls - Texas,United States,104898
+Green Bay - Wisconsin,United States,104779
+Daly City - California,United States,104739
+Burbank - California,United States,104709
+Richardson - Texas,United States,104475
+Pompano Beach - Florida,United States,104410
+North Charleston - South Carolina,United States,104054
+Broken Arrow - Oklahoma,United States,103500
+Boulder - Colorado,United States,103166
+West Palm Beach - Florida,United States,102436
+Santa Maria - California,United States,102216
+El Cajon - California,United States,102211
+Davenport - Iowa,United States,102157
+Rialto - California,United States,101910
+Las Cruces - New Mexico,United States,101324
+San Mateo - California,United States,101128
+Lewisville - Texas,United States,101074
+South Bend - Indiana,United States,100886
+Lakeland - Florida,United States,100710
+Erie - Pennsylvania,United States,100671
+Tyler - Texas,United States,100223
+Pearland - Texas,United States,100065
+College Station - Texas,United States,100050
+Kenosha - Wisconsin,United States,99889
+Sandy Springs - Georgia,United States,99770
+Clovis - California,United States,99769
+Flint - Michigan,United States,99763
+Roanoke - Virginia,United States,98465
+Albany - New York,United States,98424
+Jurupa Valley - California,United States,98030
+Compton - California,United States,97877
+San Angelo - Texas,United States,97492
+Hillsboro - Oregon,United States,97368
+Lawton - Oklahoma,United States,97151
+Renton - Washington,United States,97003
+Vista - California,United States,96929
+Davie - Florida,United States,96830
+Greeley - Colorado,United States,96539
+Mission Viejo - California,United States,96346
+Portsmouth - Virginia,United States,96205
+Dearborn - Michigan,United States,95884
+South Gate - California,United States,95677
+Tuscaloosa - Alabama,United States,95334
+Livonia - Michigan,United States,95208
+New Bedford - Massachusetts,United States,95078
+Vacaville - California,United States,94275
+Brockton - Massachusetts,United States,94089
+Roswell - Georgia,United States,94034
+Beaverton - Oregon,United States,93542
+Quincy - Massachusetts,United States,93494
+Sparks - Nevada,United States,93282
+Yakima - Washington,United States,93257
+Lee's Summit - Missouri,United States,93184
+Federal Way - Washington,United States,92734
+Carson - California,United States,92599
+Santa Monica - California,United States,92472
+Hesperia - California,United States,92147
+Allen - Texas,United States,92020
+Rio Rancho - New Mexico,United States,91956
+Yuma - Arizona,United States,91923
+Westminster - California,United States,91739
+Orem - Utah,United States,91648
+Lynn - Massachusetts,United States,91589
+Redding - California,United States,91119
+Spokane Valley - Washington,United States,91113
+Miami Beach - Florida,United States,91026
+League City - Texas,United States,90983
+Lawrence - Kansas,United States,90811
+Santa Barbara - California,United States,90412
+Plantation - Florida,United States,90268
+Sandy - Utah,United States,90231
+Sunrise - Florida,United States,90116
+Macon - Georgia,United States,89981
+Longmont - Colorado,United States,89919
+Boca Raton - Florida,United States,89407
+San Marcos - California,United States,89387
+Greenville - North Carolina,United States,89130
+Waukegan - Illinois,United States,88826
+Fall River - Massachusetts,United States,88697
+Chico - California,United States,88077
+Newton - Massachusetts,United States,87971
+San Leandro - California,United States,87965
+Reading - Pennsylvania,United States,87893
+Norwalk - Connecticut,United States,87776
+Fort Smith - Arkansas,United States,87650
+Newport Beach - California,United States,87273
+Asheville - North Carolina,United States,87236
+Nashua - New Hampshire,United States,87137
+Edmond - Oklahoma,United States,87004
+Whittier - California,United States,86635
+Nampa - Idaho,United States,86518
+Bloomington - Minnesota,United States,86319
+Deltona - Florida,United States,86290
+Hawthorne - California,United States,86199
+Duluth - Minnesota,United States,86128
+Carmel - Indiana,United States,85927
+Suffolk - Virginia,United States,85728
+Clifton - New Jersey,United States,85390
+Citrus Heights - California,United States,85285
+Livermore - California,United States,85156
+Tracy - California,United States,84691
+Alhambra - California,United States,84577
+Kirkland - Washington,United States,84430
+Trenton - New Jersey,United States,84349
+Ogden - Utah,United States,84249
+Hoover - Alabama,United States,84126
+Cicero - Illinois,United States,84103
+Fishers - Indiana,United States,83891
+Sugar Land - Texas,United States,83860
+Danbury - Connecticut,United States,83684
+Meridian - Idaho,United States,83596
+Indio - California,United States,83539
+Concord - North Carolina,United States,83506
+Menifee - California,United States,83447
+Champaign - Illinois,United States,83424
+Buena Park - California,United States,82882
+Troy - Michigan,United States,82821
+O'Fallon - Missouri,United States,82809
+Johns Creek - Georgia,United States,82788
+Bellingham - Washington,United States,82631
+Westland - Michigan,United States,82578
+Bloomington - Indiana,United States,82575
+Sioux City - Iowa,United States,82459
+Warwick - Rhode Island,United States,81971
+Hemet - California,United States,81750
+Longview - Texas,United States,81443
+Farmington Hills - Michigan,United States,81295
+Bend - Oregon,United States,81236
+Lakewood - California,United States,81121
+Merced - California,United States,81102
+Mission - Texas,United States,81050
+Chino - California,United States,80988
+Redwood City - California,United States,80872
+Edinburg - Texas,United States,80836
+Cranston - Rhode Island,United States,80566
+Parma - Ohio,United States,80429
+New Rochelle - New York,United States,79446
+Lake Forest - California,United States,79312
+Napa - California,United States,79068
+Hammond - Indiana,United States,78967
+Fayetteville - Arkansas,United States,78960
+Bloomington - Illinois,United States,78902
+Avondale - Arizona,United States,78822
+Somerville - Massachusetts,United States,78804
+Palm Coast - Florida,United States,78740
+Bryan - Texas,United States,78709
+Gary - Indiana,United States,78450
+Largo - Florida,United States,78409
+Brooklyn Park - Minnesota,United States,78373
+Tustin - California,United States,78327
+Racine - Wisconsin,United States,78199
+Deerfield Beach - Florida,United States,78041
+Lynchburg - Virginia,United States,78014
+Mountain View - California,United States,77846
+Medford - Oregon,United States,77677
+Lawrence - Massachusetts,United States,77657
+Bellflower - California,United States,77593
+Melbourne - Florida,United States,77508
+St. Joseph - Missouri,United States,77147
+Camden - New Jersey,United States,76903
+St. George - Utah,United States,76817
+Kennewick - Washington,United States,76762
+Baldwin Park - California,United States,76635
+Chino Hills - California,United States,76572
+Alameda - California,United States,76419
+Albany - Georgia,United States,76185
+Arlington Heights - Illinois,United States,75994
+Scranton - Pennsylvania,United States,75806
+Evanston - Illinois,United States,75570
+Kalamazoo - Michigan,United States,75548
+Baytown - Texas,United States,75418
+Upland - California,United States,75413
+Springdale - Arkansas,United States,75229
+Bethlehem - Pennsylvania,United States,75018
+Schaumburg - Illinois,United States,74907
+Mount Pleasant - South Carolina,United States,74885
+Auburn - Washington,United States,74860
+Decatur - Illinois,United States,74710
+San Ramon - California,United States,74513
+Pleasanton - California,United States,74110
+Wyoming - Michigan,United States,74100
+Lake Charles - Louisiana,United States,74024
+Plymouth - Minnesota,United States,73987
+Bolingbrook - Illinois,United States,73936
+Pharr - Texas,United States,73790
+Appleton - Wisconsin,United States,73596
+Gastonia - North Carolina,United States,73209
+Folsom - California,United States,73098
+Southfield - Michigan,United States,73006
+Rochester Hills - Michigan,United States,72952
+New Britain - Connecticut,United States,72939
+Goodyear - Arizona,United States,72864
+Canton - Ohio,United States,72535
+Warner Robins - Georgia,United States,72531
+Union City - California,United States,72528
+Perris - California,United States,72326
+Manteca - California,United States,71948
+Iowa City - Iowa,United States,71591
+Jonesboro - Arkansas,United States,71551
+Wilmington - Delaware,United States,71525
+Lynwood - California,United States,71371
+Loveland - Colorado,United States,71334
+Pawtucket - Rhode Island,United States,71172
+Boynton Beach - Florida,United States,71097
+Waukesha - Wisconsin,United States,71016
+Gulfport - Mississippi,United States,71012
+Apple Valley - California,United States,70924
+Passaic - New Jersey,United States,70868
+Rapid City - South Dakota,United States,70812
+Layton - Utah,United States,70790
+Lafayette - Indiana,United States,70373
+Turlock - California,United States,70365
+Muncie - Indiana,United States,70316
+Temple - Texas,United States,70190
+Missouri City - Texas,United States,70185
+Redlands - California,United States,69999
+Santa Fe - New Mexico,United States,69976
+Lauderhill - Florida,United States,69813
+Milpitas - California,United States,69783
+Palatine - Illinois,United States,69350
+Missoula - Montana,United States,69122
+Rock Hill - South Carolina,United States,69103
+Jacksonville - North Carolina,United States,69079
+Franklin - Tennessee,United States,68886
+Flagstaff - Arizona,United States,68667
+Flower Mound - Texas,United States,68609
+Weston - Florida,United States,68388
+Waterloo - Iowa,United States,68366
+Union City - New Jersey,United States,68247
+Mount Vernon - New York,United States,68224
+Fort Myers - Florida,United States,68190
+Dothan - Alabama,United States,68001
+Rancho Cordova - California,United States,67911
+Redondo Beach - California,United States,67815
+Jackson - Tennessee,United States,67685
+Pasco - Washington,United States,67599
+St. Charles - Missouri,United States,67569
+Eau Claire - Wisconsin,United States,67545
+North Richland Hills - Texas,United States,67317
+Bismarck - North Dakota,United States,67034
+Yorba Linda - California,United States,67032
+Kenner - Louisiana,United States,66975
+Walnut Creek - California,United States,66900
+Frederick - Maryland,United States,66893
+Oshkosh - Wisconsin,United States,66778
+Pittsburg - California,United States,66695
+Palo Alto - California,United States,66642
+Bossier City - Louisiana,United States,66333
+Portland - Maine,United States,66318
+St. Cloud - Minnesota,United States,66297
+Davis - California,United States,66205
+South San Francisco - California,United States,66174
+Camarillo - California,United States,66086
+North Little Rock - Arkansas,United States,66075
+Schenectady - New York,United States,65902
+Gaithersburg - Maryland,United States,65690
+Harlingen - Texas,United States,65665
+Woodbury - Minnesota,United States,65656
+Eagan - Minnesota,United States,65453
+Yuba City - California,United States,65416
+Maple Grove - Minnesota,United States,65415
+Youngstown - Ohio,United States,65184
+Skokie - Illinois,United States,65176
+Kissimmee - Florida,United States,65173
+Johnson City - Tennessee,United States,65123
+Victoria - Texas,United States,65098
+San Clemente - California,United States,65040
+Bayonne - New Jersey,United States,65028
+Laguna Niguel - California,United States,64652
+East Orange - New Jersey,United States,64544
+Shawnee - Kansas,United States,64323
+Homestead - Florida,United States,64079
+Rockville - Maryland,United States,64072
+Delray Beach - Florida,United States,64072
+Janesville - Wisconsin,United States,63820
+Conway - Arkansas,United States,63816
+Pico Rivera - California,United States,63771
+Lorain - Ohio,United States,63710
+Montebello - California,United States,63495
+Lodi - California,United States,63338
+New Braunfels - Texas,United States,63279
+Marysville - Washington,United States,63269
+Tamarac - Florida,United States,63155
+Madera - California,United States,63105
+Conroe - Texas,United States,63032
+Santa Cruz - California,United States,62864
+Eden Prairie - Minnesota,United States,62603
+Cheyenne - Wyoming,United States,62448
+Daytona Beach - Florida,United States,62316
+Alpharetta - Georgia,United States,62298
+Hamilton - Ohio,United States,62258
+Waltham - Massachusetts,United States,62227
+Coon Rapids - Minnesota,United States,62103
+Haverhill - Massachusetts,United States,62088
+Council Bluffs - Iowa,United States,61969
+Taylor - Michigan,United States,61817
+Utica - New York,United States,61808
+Ames - Iowa,United States,61792
+La Habra - California,United States,61653
+Encinitas - California,United States,61588
+Bowling Green - Kentucky,United States,61488
+Burnsville - Minnesota,United States,61434
+Greenville - South Carolina,United States,61397
+West Des Moines - Iowa,United States,61255
+Cedar Park - Texas,United States,61238
+Tulare - California,United States,61170
+Monterey Park - California,United States,61085
+Vineland - New Jersey,United States,61050
+Terre Haute - Indiana,United States,61025
+North Miami - Florida,United States,61007
+Mansfield - Texas,United States,60872
+West Allis - Wisconsin,United States,60697
+Bristol - Connecticut,United States,60568
+Taylorsville - Utah,United States,60519
+Malden - Massachusetts,United States,60509
+Meriden - Connecticut,United States,60456
+Blaine - Minnesota,United States,60407
+Wellington - Florida,United States,60202
+Cupertino - California,United States,60189
+Springfield - Oregon,United States,60177
+Rogers - Arkansas,United States,60112
+St. Clair Shores - Michigan,United States,60070
+Gardena - California,United States,59957
+Pontiac - Michigan,United States,59887
+National City - California,United States,59834
+Grand Junction - Colorado,United States,59778
+Rocklin - California,United States,59738
+Chapel Hill - North Carolina,United States,59635
+Casper - Wyoming,United States,59628
+Broomfield - Colorado,United States,59471
+Petaluma - California,United States,59440
+South Jordan - Utah,United States,59366
+Springfield - Ohio,United States,59357
+Great Falls - Montana,United States,59351
+Lancaster - Pennsylvania,United States,59325
+North Port - Florida,United States,59212
+Lakewood - Washington,United States,59097
+Marietta - Georgia,United States,59089
+San Rafael - California,United States,58994
+Royal Oak - Michigan,United States,58946
+Des Plaines - Illinois,United States,58918
+Huntington Park - California,United States,58879
+La Mesa - California,United States,58642
+Orland Park - Illinois,United States,58590
+Auburn - Alabama,United States,58582
+Lakeville - Minnesota,United States,58562
+Owensboro - Kentucky,United States,58416
+Moore - Oklahoma,United States,58414
+Jupiter - Florida,United States,58298
+Idaho Falls - Idaho,United States,58292
+Dubuque - Iowa,United States,58253
+Bartlett - Tennessee,United States,58226
+Rowlett - Texas,United States,58043
+Novi - Michigan,United States,57960
+White Plains - New York,United States,57866
+Arcadia - California,United States,57639
+Redmond - Washington,United States,57530
+Lake Elsinore - California,United States,57525
+Ocala - Florida,United States,57468
+Tinley Park - Illinois,United States,57282
+Port Orange - Florida,United States,57203
+Medford - Massachusetts,United States,57170
+Oak Lawn - Illinois,United States,57073
+Rocky Mount - North Carolina,United States,56954
+Kokomo - Indiana,United States,56895
+Coconut Creek - Florida,United States,56792
+Bowie - Maryland,United States,56759
+Berwyn - Illinois,United States,56758
+Midwest City - Oklahoma,United States,56756
+Fountain Valley - California,United States,56707
+Buckeye - Arizona,United States,56683
+Dearborn Heights - Michigan,United States,56620
+Woodland - California,United States,56590
+Noblesville - Indiana,United States,56540
+Valdosta - Georgia,United States,56481
+Diamond Bar - California,United States,56449
+Manhattan - Kansas,United States,56143
+Santee - California,United States,56105
+Taunton - Massachusetts,United States,56069
+Sanford - Florida,United States,56002
+Kettering - Ohio,United States,55870
+New Brunswick - New Jersey,United States,55831
+Decatur - Alabama,United States,55816
+Chicopee - Massachusetts,United States,55717
+Anderson - Indiana,United States,55670
+Margate - Florida,United States,55456
+Weymouth Town - Massachusetts,United States,55419
+Hempstead - New York,United States,55361
+Corvallis - Oregon,United States,55298
+Eastvale - California,United States,55191
+Porterville - California,United States,55174
+West Haven - Connecticut,United States,55046
+Brentwood - California,United States,55000
+Paramount - California,United States,54980
+Grand Forks - North Dakota,United States,54932
+Georgetown - Texas,United States,54898
+St. Peters - Missouri,United States,54842
+Shoreline - Washington,United States,54790
+Mount Prospect - Illinois,United States,54771
+Hanford - California,United States,54686
+Normal - Illinois,United States,54664
+Rosemead - California,United States,54561
+Lehi - Utah,United States,54382
+Pocatello - Idaho,United States,54350
+Highland - California,United States,54291
+Novato - California,United States,54194
+Port Arthur - Texas,United States,54135
+Carson City - Nevada,United States,54080
+San Marcos - Texas,United States,54076
+Hendersonville - Tennessee,United States,54068
+Elyria - Ohio,United States,53956
+Revere - Massachusetts,United States,53756
+Pflugerville - Texas,United States,53752
+Greenwood - Indiana,United States,53665
+Bellevue - Nebraska,United States,53663
+Wheaton - Illinois,United States,53648
+Smyrna - Georgia,United States,53438
+Sarasota - Florida,United States,53326
+Blue Springs - Missouri,United States,53294
+Colton - California,United States,53243
+Euless - Texas,United States,53224
+Castle Rock - Colorado,United States,53063
+Cathedral City - California,United States,52977
+Kingsport - Tennessee,United States,52962
+Lake Havasu City - Arizona,United States,52844
+Pensacola - Florida,United States,52703
+Hoboken - New Jersey,United States,52575
+Yucaipa - California,United States,52536
+Watsonville - California,United States,52477
+Richland - Washington,United States,52413
+Delano - California,United States,52403
+Hoffman Estates - Illinois,United States,52398
+Florissant - Missouri,United States,52363
+Placentia - California,United States,52206
+West New York - New Jersey,United States,52122
+Dublin - California,United States,52105
+Oak Park - Illinois,United States,52066
+Peabody - Massachusetts,United States,52044
+Perth Amboy - New Jersey,United States,51982
+Battle Creek - Michigan,United States,51848
+Bradenton - Florida,United States,51763
+Gilroy - California,United States,51701
+Milford - Connecticut,United States,51644
+Albany - Oregon,United States,51583
+Ankeny - Iowa,United States,51567
+La Crosse - Wisconsin,United States,51522
+Burlington - North Carolina,United States,51510
+DeSoto - Texas,United States,51483
+Harrisonburg - Virginia,United States,51395
+Minnetonka - Minnesota,United States,51368
+Elkhart - Indiana,United States,51265
+Lakewood - Ohio,United States,51143
+Glendora - California,United States,51074
+Southaven - Mississippi,United States,50997
+Charleston - West Virginia,United States,50821
+Joplin - Missouri,United States,50789
+Enid - Oklahoma,United States,50725
+Palm Beach Gardens - Florida,United States,50699
+Brookhaven - Georgia,United States,50603
+Plainfield - New Jersey,United States,50588
+Grand Island - Nebraska,United States,50550
+Palm Desert - California,United States,50508
+Huntersville - North Carolina,United States,50458
+Tigard - Oregon,United States,50444
+Lenexa - Kansas,United States,50344
+Saginaw - Michigan,United States,50303
+Kentwood - Michigan,United States,50233
+Doral - Florida,United States,50213
+Apple Valley - Minnesota,United States,50201
+Grapevine - Texas,United States,50195
+Aliso Viejo - California,United States,50175
+Sammamish - Washington,United States,50169
+Casa Grande - Arizona,United States,50111
+Pinellas Park - Florida,United States,49998
+Troy - New York,United States,49974
+West Sacramento - California,United States,49891
+Burien - Washington,United States,49858
+Commerce City - Colorado,United States,49799
+Monroe - Louisiana,United States,49761
+Cerritos - California,United States,49707
+Downers Grove - Illinois,United States,49670
+Coral Gables - Florida,United States,49631
+Wilson - North Carolina,United States,49628
+Niagara Falls - New York,United States,49468
+Poway - California,United States,49417
+Edina - Minnesota,United States,49376
+Cuyahoga Falls - Ohio,United States,49267
+Rancho Santa Margarita - California,United States,49228
+Harrisburg - Pennsylvania,United States,49188
+Huntington - West Virginia,United States,49177
+La Mirada - California,United States,49133
+Cypress - California,United States,49087
+Caldwell - Idaho,United States,48957
+Logan - Utah,United States,48913
+Galveston - Texas,United States,48733
+Sheboygan - Wisconsin,United States,48725
+Middletown - Ohio,United States,48630
+Murray - Utah,United States,48612
+Roswell - New Mexico,United States,48611
+Parker - Colorado,United States,48608
+Bedford - Texas,United States,48592
+East Lansing - Michigan,United States,48554
+Methuen - Massachusetts,United States,48514
+Covina - California,United States,48508
+Alexandria - Louisiana,United States,48426
+Olympia - Washington,United States,48338
+Euclid - Ohio,United States,48139
+Mishawaka - Indiana,United States,47989
+Salina - Kansas,United States,47846
+Azusa - California,United States,47842
+Newark - Ohio,United States,47777
+Chesterfield - Missouri,United States,47749
+Leesburg - Virginia,United States,47673
+Dunwoody - Georgia,United States,47591
+Hattiesburg - Mississippi,United States,47556
+Roseville - Michigan,United States,47555
+Bonita Springs - Florida,United States,47547
+Portage - Michigan,United States,47523
+St. Louis Park - Minnesota,United States,47411
+Collierville - Tennessee,United States,47333
+Middletown - Connecticut,United States,47333
+Stillwater - Oklahoma,United States,47186
+East Providence - Rhode Island,United States,47149
+Lawrence - Indiana,United States,47135
+Wauwatosa - Wisconsin,United States,47134
+Mentor - Ohio,United States,46979
+Ceres - California,United States,46714
+Cedar Hill - Texas,United States,46663
+Mansfield - Ohio,United States,46454
+Binghamton - New York,United States,46444
+Coeur d'Alene - Idaho,United States,46402
+San Luis Obispo - California,United States,46377
+Minot - North Dakota,United States,46321
+Palm Springs - California,United States,46281
+Pine Bluff - Arkansas,United States,46094
+Texas City - Texas,United States,46081
+Summerville - South Carolina,United States,46074
+Twin Falls - Idaho,United States,45981
+Jeffersonville - Indiana,United States,45929
+San Jacinto - California,United States,45851
+Madison - Alabama,United States,45799
+Altoona - Pennsylvania,United States,45796
+Columbus - Indiana,United States,45775
+Beavercreek - Ohio,United States,45712
+Apopka - Florida,United States,45587
+Elmhurst - Illinois,United States,45556
+Maricopa - Arizona,United States,45508
+Farmington - New Mexico,United States,45426
+Glenview - Illinois,United States,45417
+Cleveland Heights - Ohio,United States,45394
+Draper - Utah,United States,45285
+Lincoln - California,United States,45237
+Sierra Vista - Arizona,United States,45129
+Lacey - Washington,United States,44919
+Biloxi - Mississippi,United States,44820
+Strongsville - Ohio,United States,44730
+Barnstable Town - Massachusetts,United States,44641
+Wylie - Texas,United States,44575
+Sayreville - New Jersey,United States,44412
+Kannapolis - North Carolina,United States,44359
+Charlottesville - Virginia,United States,44349
+Littleton - Colorado,United States,44275
+Titusville - Florida,United States,44206
+Hackensack - New Jersey,United States,44113
+Newark - California,United States,44096
+Pittsfield - Massachusetts,United States,44057
+York - Pennsylvania,United States,43935
+Lombard - Illinois,United States,43907
+Attleboro - Massachusetts,United States,43886
+DeKalb - Illinois,United States,43849
+Blacksburg - Virginia,United States,43609
+Dublin - Ohio,United States,43607
+Haltom City - Texas,United States,43580
+Lompoc - California,United States,43509
+El Centro - California,United States,43363
+Danville - California,United States,43341
+Jefferson City - Missouri,United States,43330
+Cutler Bay - Florida,United States,43328
+Oakland Park - Florida,United States,43286
+North Miami Beach - Florida,United States,43250
+Freeport - New York,United States,43167
+Moline - Illinois,United States,43116
+Coachella - California,United States,43092
+Fort Pierce - Florida,United States,43074
+Smyrna - Tennessee,United States,43060
+Bountiful - Utah,United States,43023
+Fond du Lac - Wisconsin,United States,42970
+Everett - Massachusetts,United States,42935
+Danville - Virginia,United States,42907
+Keller - Texas,United States,42907
+Belleville - Illinois,United States,42895
+Bell Gardens - California,United States,42889
+Cleveland - Tennessee,United States,42774
+North Lauderdale - Florida,United States,42757
+Fairfield - Ohio,United States,42635
+Salem - Massachusetts,United States,42544
+Rancho Palos Verdes - California,United States,42448
+San Bruno - California,United States,42443
+Concord - New Hampshire,United States,42419
+Burlington - Vermont,United States,42284
+Apex - North Carolina,United States,42214
+Midland - Michigan,United States,42181
+Altamonte Springs - Florida,United States,42150
+Hutchinson - Kansas,United States,41889
+Buffalo Grove - Illinois,United States,41778
+Urbandale - Iowa,United States,41776
+State College - Pennsylvania,United States,41757
+Urbana - Illinois,United States,41752
+Plainfield - Illinois,United States,41734
+Manassas - Virginia,United States,41705
+Bartlett - Illinois,United States,41679
+Kearny - New Jersey,United States,41664
+Oro Valley - Arizona,United States,41627
+Findlay - Ohio,United States,41512
+Rohnert Park - California,United States,41398
+Westfield - Massachusetts,United States,41301
+Linden - New Jersey,United States,41301
+Sumter - South Carolina,United States,41190
+Wilkes-Barre - Pennsylvania,United States,41108
+Woonsocket - Rhode Island,United States,41026
+Leominster - Massachusetts,United States,41002
+Shelton - Connecticut,United States,40999
+Brea - California,United States,40963
+Covington - Kentucky,United States,40956
+Rockwall - Texas,United States,40922
+Meridian - Mississippi,United States,40921
+Riverton - Utah,United States,40921
+St. Cloud - Florida,United States,40918
+Quincy - Illinois,United States,40915
+Morgan Hill - California,United States,40836
+Warren - Ohio,United States,40768
+Edmonds - Washington,United States,40727
+Burleson - Texas,United States,40714
+Beverly - Massachusetts,United States,40664
+Mankato - Minnesota,United States,40641
+Hagerstown - Maryland,United States,40612
+Prescott - Arizona,United States,40590
+Campbell - California,United States,40584
+Cedar Falls - Iowa,United States,40566
+Beaumont - California,United States,40481
+La Puente - California,United States,40435
+Crystal Lake - Illinois,United States,40388
+Fitchburg - Massachusetts,United States,40383
+Carol Stream - Illinois,United States,40379
+Hickory - North Carolina,United States,40361
+Streamwood - Illinois,United States,40351
+Norwich - Connecticut,United States,40347
+Coppell - Texas,United States,40342
+San Gabriel - California,United States,40275
+Holyoke - Massachusetts,United States,40249
+Bentonville - Arkansas,United States,40167
+Florence - Alabama,United States,40059
+Peachtree Corners - Georgia,United States,40059
+Brentwood - Tennessee,United States,40021
+Bozeman - Montana,United States,39860
+New Berlin - Wisconsin,United States,39834
+Goose Creek - South Carolina,United States,39823
+Huntsville - Texas,United States,39795
+Prescott Valley - Arizona,United States,39791
+Maplewood - Minnesota,United States,39765
+Romeoville - Illinois,United States,39650
+Duncanville - Texas,United States,39605
+Atlantic City - New Jersey,United States,39551
+Clovis - New Mexico,United States,39508
+The Colony - Texas,United States,39458
+Culver City - California,United States,39428
+Marlborough - Massachusetts,United States,39414
+Hilton Head Island - South Carolina,United States,39412
+Moorhead - Minnesota,United States,39398
+Calexico - California,United States,39389
+Bullhead City - Arizona,United States,39383
+Germantown - Tennessee,United States,39375
+La Quinta - California,United States,39331
+Lancaster - Ohio,United States,39325
+Wausau - Wisconsin,United States,39309
+Sherman - Texas,United States,39296
+Ocoee - Florida,United States,39172
+Shakopee - Minnesota,United States,39167
+Woburn - Massachusetts,United States,39083
+Bremerton - Washington,United States,39056
+Rock Island - Illinois,United States,38877
+Muskogee - Oklahoma,United States,38863
+Cape Girardeau - Missouri,United States,38816
+Annapolis - Maryland,United States,38722
+Greenacres - Florida,United States,38696
+Ormond Beach - Florida,United States,38661
+Hallandale Beach - Florida,United States,38632
+Stanton - California,United States,38623
+Puyallup - Washington,United States,38609
+Pacifica - California,United States,38606
+Hanover Park - Illinois,United States,38510
+Hurst - Texas,United States,38448
+Lima - Ohio,United States,38355
+Marana - Arizona,United States,38290
+Carpentersville - Illinois,United States,38241
+Oakley - California,United States,38194
+Huber Heights - Ohio,United States,38142
+Lancaster - Texas,United States,38071
+Montclair - California,United States,38027
+Wheeling - Illinois,United States,38015
+Brookfield - Wisconsin,United States,37999
+Park Ridge - Illinois,United States,37839
+Florence - South Carolina,United States,37792
+Roy - Utah,United States,37733
+Winter Garden - Florida,United States,37711
+Chelsea - Massachusetts,United States,37670
+Valley Stream - New York,United States,37659
+Spartanburg - South Carolina,United States,37647
+Lake Oswego - Oregon,United States,37610
+Friendswood - Texas,United States,37587
+Westerville - Ohio,United States,37530
+Northglenn - Colorado,United States,37499
+Phenix City - Alabama,United States,37498
+Grove City - Ohio,United States,37490
+Texarkana - Texas,United States,37442
+Addison - Illinois,United States,37385
+Dover - Delaware,United States,37366
+Lincoln Park - Michigan,United States,37313
+Calumet City - Illinois,United States,37240
+Muskegon - Michigan,United States,37213
+Aventura - Florida,United States,37199
+Martinez - California,United States,37165
+Greenfield - Wisconsin,United States,37159
+Apache Junction - Arizona,United States,37130
+Monrovia - California,United States,37101
+Weslaco - Texas,United States,37093
+Keizer - Oregon,United States,37064
+Spanish Fork - Utah,United States,36956
+Beloit - Wisconsin,United States,36888
+Panama City - Florida,United States,36877
+Sao Paulo,Brazil,10021295
+Rio De Janeiro,Brazil,6023699
+Salvador,Brazil,2711840
+Fortaleza,Brazil,2400000
+Belo Horizonte,Brazil,2373224
+Brasilia,Brazil,2207718
+Curitiba,Brazil,1718421
+Manaus,Brazil,1598210
+Recife,Brazil,1478098
+Belem,Brazil,1407737
+Porto Alegre,Brazil,1372741
+Goiania,Brazil,1171195
+Guarulhos,Brazil,1169577
+Campinas,Brazil,1031554
+Nova Iguacu,Brazil,1002118
+Maceio,Brazil,954991
+Sao Luis,Brazil,917237
+Duque De Caxias,Brazil,818329
+Natal,Brazil,763043
+Teresina,Brazil,744512
+Sao Bernardo Do Campo,Brazil,743372
+Campo Grande,Brazil,729151
+Jaboatao,Brazil,702621
+Osasco,Brazil,677856
+Santo Andre,Brazil,662373
+Joao Pessoa,Brazil,650883
+Jaboatao Dos Guararapes,Brazil,630008
+Contagem,Brazil,627123
+Ribeirao Preto,Brazil,619746
+Sao Jose Dos Campos,Brazil,613764
+Uberlandia,Brazil,563536
+Sorocaba,Brazil,558862
+Cuiaba,Brazil,521934
+Aparecida De Goiania,Brazil,510770
+Aracaju,Brazil,490175
+Feira De Santana,Brazil,481911
+Londrina,Brazil,471832
+Juiz De Fora,Brazil,470193
+Belford Roxo,Brazil,466096
+Joinville,Brazil,461304
+Niteroi,Brazil,456456
+Sao Joao De Meriti,Brazil,454849
+Ananindeua,Brazil,433956
+Florianopolis,Brazil,412724
+Santos,Brazil,411403
+Ribeirao Das Neves,Brazil,406802
+Vila Velha,Brazil,394930
+Serra,Brazil,394153
+Diadema,Brazil,390633
+Campos Dos Goytacazes,Brazil,387417
+Maua,Brazil,386069
+Betim,Brazil,384000
+Caxias Do Sul,Brazil,381270
+Sao Jose Do Rio Preto,Brazil,374699
+Olinda,Brazil,366754
+Carapicuiba,Brazil,361112
+Campina Grande,Brazil,348936
+Piracicaba,Brazil,342209
+Macapa,Brazil,338936
+Itaquaquecetuba,Brazil,336679
+Bauru,Brazil,335024
+Montes Claros,Brazil,332379
+Canoas,Brazil,328291
+Mogi Das Cruzes,Brazil,325746
+Sao Vicente,Brazil,324457
+Jundiai,Brazil,321589
+Pelotas,Brazil,320674
+Anapolis,Brazil,319587
+Vitoria,Brazil,312656
+Maringa,Brazil,311724
+Guaruja,Brazil,310424
+Porto Velho,Brazil,306180
+Franca,Brazil,305041
+Blumenau,Brazil,293949
+Foz Do Iguacu,Brazil,293523
+Ponta Grossa,Brazil,292177
+Paulista,Brazil,289971
+Limeira,Brazil,289665
+Viamao,Brazil,285269
+Suzano,Brazil,283314
+Caucaia,Brazil,275019
+Petropolis,Brazil,272691
+Uberaba,Brazil,260843
+Rio Branco,Brazil,257642
+Cascavel,Brazil,257172
+Novo Hamburgo,Brazil,253841
+Vitoria Da Conquista,Brazil,253137
+Barueri,Brazil,251994
+Taubate,Brazil,251641
+Governador Valadares,Brazil,250878
+Praia Grande,Brazil,250027
+Varzea Grande,Brazil,249752
+Volta Redonda,Brazil,249580
+Santa Maria,Brazil,249219
+Santa Luzia,Brazil,243503
+Gravatai,Brazil,238778
+Caruaru,Brazil,235371
+Boa Vista,Brazil,235150
+Ipatinga,Brazil,228746
+Sumare,Brazil,227977
+Juazeiro Do Norte,Brazil,225230
+Embu,Brazil,221733
+Imperatriz,Brazil,218106
+Colombo,Brazil,217000
+Taboao Da Serra,Brazil,214523
+Jacarei,Brazil,213110
+Marilia,Brazil,212218
+Presidente Prudente,Brazil,209502
+Sao Leopoldo,Brazil,209229
+Itabuna,Brazil,205660
+Sao Carlos,Brazil,205035
+Hortolandia,Brazil,203533
+Mossoro,Brazil,202005
+Itapevi,Brazil,201748
+Sete Lagoas,Brazil,201334
+Sao Jose,Brazil,200000
+Palmas,Brazil,196272
+Americana,Brazil,196022
+Petrolina,Brazil,194650
+Divinopolis,Brazil,193832
+Maracanau,Brazil,193529
+Planaltina,Brazil,189412
+Santarem,Brazil,189047
+Camacari,Brazil,188758
+Santa Barbara D'oeste,Brazil,188000
+Rio Grande,Brazil,187838
+Cachoeiro De Itapemirim,Brazil,187019
+Itaborai,Brazil,182498
+Rio Claro,Brazil,180147
+Indaiatuba,Brazil,179911
+Passo Fundo,Brazil,179529
+Cotia,Brazil,174828
+Francisco Morato,Brazil,171790
+Aracatuba,Brazil,170024
+Araraquara,Brazil,168468
+Ferraz De Vasconcelos,Brazil,167900
+Arapiraca,Brazil,166562
+Lages,Brazil,164676
+Barra Mansa,Brazil,164052
+Nossa Senhora Do Socorro,Brazil,163993
+Dourados,Brazil,162202
+Criciuma,Brazil,161954
+Chapeco,Brazil,160157
+Barreiras,Brazil,158292
+Sobral,Brazil,157996
+Itajai,Brazil,155716
+Ilheus,Brazil,155499
+Angra Dos Reis,Brazil,153635
+Nova Friburgo,Brazil,153361
+Rondonopolis,Brazil,152912
+Itapecerica Da Serra,Brazil,151605
+Guarapuava,Brazil,150850
+Parnamirim,Brazil,150343
+Caxias,Brazil,148072
+Nilopolis,Brazil,147281
+Pocos De Caldas,Brazil,146588
+Maraba,Brazil,145860
+Luziania,Brazil,143601
+Cabo,Brazil,143105
+Macae,Brazil,143029
+Ibirite,Brazil,141374
+Lauro De Freitas,Brazil,141280
+Paranagua,Brazil,141013
+Parnaiba,Brazil,138008
+Itu,Brazil,137586
+Castanhal,Brazil,137406
+Sao Caetano Do Sul,Brazil,136453
+Queimados,Brazil,135741
+Pindamonhangaba,Brazil,132218
+Sapucaia,Brazil,130937
+Jaragua Do Sul,Brazil,130130
+Mogi Guacu,Brazil,128865
+Jequie,Brazil,127475
+Itapetininga,Brazil,126243
+Patos De Minas,Brazil,126234
+Braganca Paulista,Brazil,125096
+Timon,Brazil,124427
+Sao Jose Dos Pinhais,Brazil,124224
+Teresopolis,Brazil,123979
+Uruguaiana,Brazil,123480
+Porto Seguro,Brazil,123173
+Alagoinhas,Brazil,122688
+Palhoca,Brazil,122423
+Barbacena,Brazil,122211
+Cachoeirinha,Brazil,121084
+Santa Rita,Brazil,119893
+Toledo,Brazil,119313
+Jau,Brazil,119206
+Cubatao,Brazil,118410
+Pinhais,Brazil,117000
+Simoes Filho,Brazil,116662
+Varginha,Brazil,116571
+Sinop,Brazil,116013
+Pouso Alegre,Brazil,115201
+Eunapolis,Brazil,114275
+Botucatu,Brazil,113862
+Jandira,Brazil,113605
+Ribeirao Pires,Brazil,111888
+Conselheiro Lafaiete,Brazil,111596
+Resende,Brazil,111514
+Araucaria,Brazil,111302
+Atibaia,Brazil,110968
+Varzea Paulista,Brazil,110936
+Garanhuns,Brazil,110085
+Araruama,Brazil,109637
+Catanduva,Brazil,109612
+Franco Da Rocha,Brazil,108858
+Cabo Frio,Brazil,108239
+Ji Parana,Brazil,107697
+Araras,Brazil,107463
+Poa,Brazil,107432
+Vitoria De Santo Antao,Brazil,107383
+Umuarama,Brazil,107319
+Apucarana,Brazil,107085
+Santa Cruz Do Sul,Brazil,106113
+Guaratingueta,Brazil,105880
+Linhares,Brazil,105075
+Araguaina,Brazil,105019
+Esmeraldas,Brazil,103206
+Birigui,Brazil,102277
+Assis,Brazil,101597
+Barretos,Brazil,101220
+Colatina,Brazil,101190
+Teofilo Otoni,Brazil,101170
+Guaiba,Brazil,101024
+Guarapari,Brazil,100925
+Coronel Fabriciano,Brazil,100916
+Itaguai,Brazil,100752
+Rio Das Ostras,Brazil,100000
+Itabira,Brazil,99496
+Votorantim,Brazil,99390
+Sertaozinho,Brazil,99211
+Santana De Parnaiba,Brazil,98989
+Bage,Brazil,98940
+Passos,Brazil,98752
+Salto,Brazil,98387
+Uba,Brazil,97828
+Ourinhos,Brazil,97799
+Trindade,Brazil,97521
+Arapongas,Brazil,97512
+Araguari,Brazil,96565
+Corumba,Brazil,96520
+Erechim,Brazil,96087
+Japeri,Brazil,95101
+Vespasiano,Brazil,94749
+Campo Largo,Brazil,94668
+Tatui,Brazil,93580
+Patos,Brazil,92575
+Timoteo,Brazil,91722
+Muriae,Brazil,91173
+Cambe,Brazil,91080
+Bayeux,Brazil,91056
+Bento Goncalves,Brazil,90852
+Caraguatatuba,Brazil,90843
+Itanhaem,Brazil,90385
+Santana Do Livramento,Brazil,89694
+Almirante Tamandare,Brazil,89499
+Planaltina,Brazil,88853
+Crato,Brazil,88786
+Valinhos,Brazil,88630
+Sao Lourenco Da Mata,Brazil,88416
+Nova Lima,Brazil,88399
+Brusque,Brazil,88284
+Barra Do Pirai,Brazil,87668
+Alegrete,Brazil,87236
+Caieiras,Brazil,87188
+Barra Do Corda,Brazil,86662
+Igarassu,Brazil,86457
+Paulo Afonso,Brazil,85350
+Ituiutaba,Brazil,85345
+Esteio,Brazil,84902
+Sarandi,Brazil,84697
+Itaperuna,Brazil,84435
+Santana,Brazil,83927
+Jardim Paulista,Brazil,83667
+Codo,Brazil,83288
+Araxa,Brazil,82595
+Abreu E Lima,Brazil,81959
+Itajuba,Brazil,81870
+Lavras,Brazil,81472
+Avare,Brazil,81285
+Formosa,Brazil,81232
+Leme,Brazil,81209
+Cruzeiro Do Sul,Brazil,79819
+Itumbiara,Brazil,79582
+Marica,Brazil,79551
+Ubatuba,Brazil,79007
+Tres Lagoas,Brazil,78712
+Sao Joao Del Rei,Brazil,78592
+Mogi Mirim,Brazil,78244
+Abaetetuba,Brazil,78050
+Sao Bento Do Sul,Brazil,77597
+Itauna,Brazil,77400
+Sao Mateus,Brazil,77117
+Jatai,Brazil,76547
+Sao Joao Da Boa Vista,Brazil,76540
+Lorena,Brazil,76506
+Santa Cruz Do Capibaribe,Brazil,76450
+Sao Sebastiao,Brazil,76367
+Tucurui,Brazil,76337
+Embu Guacu,Brazil,76310
+Sapiranga,Brazil,76051
+Para De Minas,Brazil,75786
+Campo Mourao,Brazil,75401
+Cachoeira Do Sul,Brazil,74694
+Santo Antonio De Jesus,Brazil,73957
+Paranavai,Brazil,72848
+Joao Monlevade,Brazil,72762
+Matao,Brazil,72468
+Bacabal,Brazil,72372
+Cacapava,Brazil,72340
+Aruja,Brazil,72077
+Cruzeiro,Brazil,72022
+Patrocinio,Brazil,71963
+Tres Rios,Brazil,71944
+Bebedouro,Brazil,71862
+Sao Cristovao,Brazil,71539
+Alfenas,Brazil,71406
+Ijui,Brazil,71202
+Altamira,Brazil,70888
+Paracatu,Brazil,70753
+Carpina,Brazil,70689
+Iguatu,Brazil,70380
+Votuporanga,Brazil,69863
+Paragominas,Brazil,69613
+Lins,Brazil,69451
+Jaboticabal,Brazil,69394
+Vicosa,Brazil,68680
+Sao Sebastiao Do Paraiso,Brazil,68654
+Balsas,Brazil,68056
+Itatiba,Brazil,67934
+Santa Ines,Brazil,67424
+Tubarao,Brazil,67245
+Pato Branco,Brazil,65754
+Paulinia,Brazil,65595
+Lajeado,Brazil,65407
+Cruz Alta,Brazil,65275
+Aquiraz,Brazil,65116
+Itacoatiara,Brazil,64937
+Gurupi,Brazil,64789
+Itaituba,Brazil,64756
+Santo Angelo,Brazil,64606
+Parintins,Brazil,64428
+Curvelo,Brazil,63954
+Itabaiana,Brazil,63888
+Cacador,Brazil,63726
+Ouro Preto,Brazil,63678
+Caldas Novas,Brazil,63675
+Irece,Brazil,63626
+Catalao,Brazil,63544
+Tres Coracoes,Brazil,63457
+Rio Largo,Brazil,63387
+Vilhena,Brazil,63231
+Valenca,Brazil,63231
+Peruibe,Brazil,63030
+Itapeva,Brazil,62957
+Cataguases,Brazil,62618
+Saquarema,Brazil,62056
+Tupa,Brazil,62035
+Fernandopolis,Brazil,61931
+Senador Canedo,Brazil,61800
+Itapira,Brazil,61607
+Gravata,Brazil,61249
+Valenca,Brazil,61144
+Pirassununga,Brazil,60413
+Unai,Brazil,60202
+Caratinga,Brazil,60066
+Itapetinga,Brazil,59721
+Mococa,Brazil,59654
+Sao Borja,Brazil,59613
+Carazinho,Brazil,59417
+Santa Rosa,Brazil,58957
+Telemaco Borba,Brazil,58880
+Guanambi,Brazil,58877
+Aracruz,Brazil,58271
+Ariquemes,Brazil,58096
+Farroupilha,Brazil,57650
+Francisco Beltrao,Brazil,57618
+Picos,Brazil,57495
+Lencois Paulista,Brazil,57375
+Arcoverde,Brazil,57163
+Braganca,Brazil,57163
+Vacaria,Brazil,56765
+Cajamar,Brazil,56682
+Janauba,Brazil,56572
+Vinhedo,Brazil,56492
+Formiga,Brazil,56404
+Cianorte,Brazil,55994
+Nova Vicosa,Brazil,55980
+Itapipoca,Brazil,55784
+Ponta Pora,Brazil,55763
+Estancia,Brazil,55654
+Cacoal,Brazil,55560
+Sao Gabriel,Brazil,55434
+Concordia,Brazil,55367
+Pacatuba,Brazil,55291
+Viana,Brazil,55122
+Sao Pedro Da Aldeia,Brazil,55014
+Caico,Brazil,54934
+Seropedica,Brazil,54846
+Sydney,Australia,4627345
+Melbourne,Australia,4246375
+Brisbane,Australia,2189878
+Perth,Australia,1896548
+Adelaide,Australia,1225235
+Gold Coast,Australia,591473
+Canberra,Australia,367752
+Newcastle,Australia,308308
+Wollongong,Australia,292190
+Logan City,Australia,282673
+Geelong,Australia,226034
+Hobart,Australia,216656
+Townsville,Australia,196219
+Cairns,Australia,153075
+Toowoomba,Australia,131258
+Darwin,Australia,129062
+Rockingham,Australia,108022
+Launceston,Australia,106153
+Bendigo,Australia,100617
+Ballarat,Australia,97937
+Mandurah,Australia,83294
+Mackay,Australia,74219
+Bundaberg,Australia,70826
+Bunbury,Australia,68248
+Maitland,Australia,67132
+Armadale,Australia,62296
+Rockhampton,Australia,61724
+Adelaide Hills,Australia,60394
+South Brisbane,Australia,60000
+Hervey Bay,Australia,52230
+Reservoir,Australia,47637
+Tamworth,Australia,47597
+Wagga Wagga,Australia,46913
+Albury,Australia,45627
+Berwick,Australia,44779
+Port Macquarie,Australia,41491
+Queanbeyan,Australia,40661
+Orange,Australia,39329
+Blacktown,Australia,39000
+Shepparton,Australia,38773
+Caloundra,Australia,38706
+Hoppers Crossing,Australia,38108
+Werribee,Australia,37737
+Melton,Australia,35490
+Castle Hill,Australia,35389
+Saint Albans,Australia,35091
+Nowra,Australia,34479
+Frankston,Australia,34457
+Frankston East,Australia,34457
+Rowville,Australia,34145
+Warrnambool,Australia,33982
+Baulkham Hills,Australia,33945
+Albany,Australia,33650
+Mount Waverley,Australia,33611
+St Albans,Australia,33511
+Auburn,Australia,33122
+Bathurst,Australia,33110
+Pakenham South,Australia,32911
+Point Cook,Australia,32413
+Dubbo,Australia,32327
+Epping,Australia,32200
+Wodonga,Australia,31605
+Kalgoorlie,Australia,31107
+Bankstown,Australia,30572
+Mill Park,Australia,30517
+Gladstone,Australia,30489
+Kwinana,Australia,30433
+Lismore,Australia,30086
+Mildura,Australia,30016
+Preston,Australia,29925
+Sunbury,Australia,29925
+Hurstville,Australia,29822
+Narre Warren South,Australia,28594
+Noble Park,Australia,28377
+Southport,Australia,28315
+Kellyville,Australia,27971
+Port Stephens,Australia,27531
+Banora Point,Australia,27368
+Doncaster East,Australia,27047
+Croydon,Australia,26946
+Geraldton,Australia,26872
+Maroubra,Australia,26538
+Coffs Harbour,Australia,26353
+Mosman,Australia,26236
+Richmond,Australia,26121
+Narre Warren,Australia,25882
+Randwick,Australia,25819
+Strathfield,Australia,25813
+Bundoora,Australia,25709
+Alice Springs,Australia,25186
+Quakers Hill,Australia,25017
+Endeavour Hills,Australia,25000
+Palmerston,Australia,25000
+Coburg,Australia,24977
+Dandenong,Australia,24919
+Fremantle,Australia,24835
+Ferntree Gully,Australia,24724
+Campsie,Australia,24541
+Kew,Australia,23876
+Hampton Park,Australia,23767
+Canning Vale,Australia,23289
+Glen Iris,Australia,23270
+Mount Gambier,Australia,23209
+Marrickville,Australia,23161
+Northcote,Australia,22920
+Granville,Australia,22889
+Mount Isa,Australia,22785
+Keysborough,Australia,22700
+Armidale,Australia,22673
+Morphett Vale,Australia,22602
+Dianella,Australia,22521
+Forest Lake,Australia,22426
+Mornington,Australia,22421
+Thornlie,Australia,22265
+Ashfield,Australia,22000
+Traralgon,Australia,21960
+Dandenong North,Australia,21910
+Busselton,Australia,21898
+Cabramatta,Australia,21783
+Greystanes,Australia,21703
+Tarneit,Australia,21690
+Maryborough,Australia,21501
+Caboolture,Australia,21478
+Kirwan,Australia,21416
+Langwarrin,Australia,21371
+Carlingford,Australia,21364
+Liverpool,Australia,21317
+Caringbah,Australia,21283
+Brighton,Australia,21257
+Glenferrie,Australia,21177
+Hawthorn,Australia,21177
+Hawthorn South,Australia,21177
+Goulburn,Australia,20940
+Boronia,Australia,20825
+Woodridge,Australia,20650
+Booval,Australia,20540
+Thomastown,Australia,20331
+Cheltenham,Australia,20292
+Punchbowl,Australia,20236
+Prospect,Australia,20217
+Greensborough,Australia,20214
+Gawler,Australia,20006
+Burnie,Australia,19972
+Balwyn North,Australia,19968
+Lalor,Australia,19873
+Brunswick,Australia,19867
+Hornsby,Australia,19863
+St Clair,Australia,19837
+Springvale,Australia,19771
+Wheelers Hill,Australia,19753
+Craigieburn,Australia,19728
+Whyalla,Australia,19645
+Glenroy,Australia,19644
+Camberwell,Australia,19637
+Malvern East,Australia,19593
+Murray Bridge,Australia,19577
+Echuca,Australia,19457
+Devonport,Australia,19317
+Roxburgh Park,Australia,19235
+Glenmore Park,Australia,19200
+Epping,Australia,18969
+Ballajura,Australia,18952
+Essendon,Australia,18852
+Cherrybrook,Australia,18778
+Altona Meadows,Australia,18746
+Cranbourne,Australia,18622
+Katoomba,Australia,18593
+Surfers Paradise,Australia,18501
+Parramatta,Australia,18448
+Broken Hill,Australia,18430
+Doncaster,Australia,18359
+Eltham,Australia,18162
+Fairfield,Australia,18081
+Morayfield,Australia,18020
+Engadine,Australia,17937
+Eastwood,Australia,17865
+Saint Kilda,Australia,17795
+Highton,Australia,17793
+Mulgrave,Australia,17647
+Forster,Australia,17591
+Wantirna South,Australia,17477
+Dee Why,Australia,17463
+Thornbury,Australia,17434
+Wahroonga,Australia,17371
+Frankston South,Australia,17360
+Wyndham Vale,Australia,17304
+Gosnells,Australia,17277
+Mount Eliza,Australia,17248
+Willetton,Australia,17243
+Carrum Downs,Australia,17213
+North Ryde,Australia,17208
+Mount Martha,Australia,17087
+Wangaratta,Australia,16845
+Sunnybank Hills,Australia,16830
+Cronulla,Australia,16754
+Sunshine West,Australia,16743
+Taree,Australia,16621
+Earlwood,Australia,16564
+Sunnybank,Australia,16442
+South Grafton,Australia,16399
+Cessnock,Australia,16393
+Hillside,Australia,16326
+Westmead,Australia,16309
+Carnegie,Australia,16299
+Nerang,Australia,16256
+Narangba,Australia,16223
+Deer Park,Australia,16204
+Taylors Lakes,Australia,16095
+Deception Bay,Australia,16090
+Umina,Australia,16059
+Seaford,Australia,16033
+Burwood,Australia,16030
+Yagoona,Australia,16003
+West Pennant Hills,Australia,15967
+Paralowie,Australia,15872
+Lilydale,Australia,15649
+Moe,Australia,15582
+Clayton,Australia,15543
+Lara,Australia,15520
+Griffith,Australia,15455
+Bracken Ridge,Australia,15355
+Eight Mile Plains,Australia,15322
+Parafield Gardens,Australia,15317
+Prestons,Australia,15313
+Buderim,Australia,15228
+Brighton East,Australia,15167
+Carindale,Australia,15135
+Port Hedland,Australia,15044
+Duncraig,Australia,15026
+Pascoe Vale,Australia,15000
+Rochedale South,Australia,14996
+Coorparoo,Australia,14944
+Meadow Heights,Australia,14843
+Mitcham,Australia,14811
+Casula,Australia,14696
+Bossley Park,Australia,14585
+Cranbourne North,Australia,14570
+Caulfield North,Australia,14554
+Lakemba,Australia,14468
+Kingston,Australia,14371
+Grovedale,Australia,14308
+Horsham,Australia,14285
+Bentleigh,Australia,14271
+Ballina,Australia,14242
+Kingsford,Australia,14232
+Lidcombe,Australia,14161
+Carlton,Australia,14104
+Wantirna,Australia,13978
+Manly,Australia,13949
+Ingleburn,Australia,13902
+Burleigh Waters,Australia,13868
+Elwood,Australia,13785
+Cleveland,Australia,13776
+Victoria Point,Australia,13755
+Yarraville,Australia,13747
+Singleton,Australia,13665
+Bongaree,Australia,13649
+Raymond Terrace,Australia,13606
+Mount Druitt,Australia,13582
+Bacchus Marsh,Australia,13575
+Newtown,Australia,13552
+Moonee Ponds,Australia,13532
+Palm Beach,Australia,13494
+Ascot Vale,Australia,13475
+Morwell,Australia,13399
+Port Melbourne,Australia,13293
+Yeppoon,Australia,13285
+Keilor East,Australia,13259
+Port Augusta,Australia,13257
+Port Pirie,Australia,13206
+Footscray,Australia,13203
+Williamstown,Australia,13203
+Sale,Australia,13186
+Coogee,Australia,13179
+Templestowe Lower,Australia,13152
+Brunswick West,Australia,13148
+Hawthorn East,Australia,13133
+Surrey Hills,Australia,13133
+Port Lincoln,Australia,13044
+Doonside,Australia,13031
+Concord,Australia,13008
+Toongabbie,Australia,13003
+Dulwich Hill,Australia,12981
+Balwyn,Australia,12944
+Miranda,Australia,12903
+Toorak,Australia,12871
+Beaumaris,Australia,12829
+Port Kennedy,Australia,12816
+Broome,Australia,12766
+Fawkner,Australia,12596
+Scarborough,Australia,12593
+St Kilda East,Australia,12576
+Inala,Australia,12568
+Warwick,Australia,12562
+Rosebud,Australia,12501
+Hampton,Australia,12482
+Como,Australia,12425
+Ashwood,Australia,12420
+Chadstone,Australia,12357
+Marsfield,Australia,12347
+Kiama,Australia,12286
+Mayfield,Australia,12248
+Leichhardt,Australia,12248
+Springvale South,Australia,12184
+Goonellabah,Australia,12137
+Port Augusta West,Australia,12133
+Geelong West,Australia,12121
+Lavington,Australia,12032
+Doreen,Australia,12000
+Newport,Australia,11987
+Greenvale,Australia,11969
+Blackburn,Australia,11958
+Burwood,Australia,11886
+West Ryde,Australia,11867
+Kingswood Park,Australia,11813
+Penrith,Australia,11813
+Varsity Lakes,Australia,11796
+Donvale,Australia,11795
+Muswellbrook,Australia,11791
+Taylors Hill,Australia,11785
+Bateau Bay,Australia,11759
+North Melbourne,Australia,11755
+Wynnum West,Australia,11745
+Karratha,Australia,11728
+Charlestown,Australia,11725
+Wynnum,Australia,11719
+Penshurst,Australia,11692
+Mentone,Australia,11667
+Paddington,Australia,11661
+Caringbah South,Australia,11605
+Clayton South,Australia,11600
+Happy Valley,Australia,11531
+Diamond Creek,Australia,11504
+Redfern,Australia,11482
+North Fitzroy,Australia,11473
+Warnbro,Australia,11421
+Vermont South,Australia,11416
+Sandy Bay,Australia,11334
+East Maitland,Australia,11310
+South Perth,Australia,11301
+Lithgow,Australia,11298
+Bayswater,Australia,11240
+Manly West,Australia,11195
+Parkdale,Australia,11185
+Caulfield South,Australia,11113
+Gympie,Australia,11027
+Bairnsdale,Australia,11005
+Bowen,Australia,10983
+Nunawading,Australia,10947
+Samford Valley,Australia,10931
+Wanneroo,Australia,10931
+Mount Gravatt East,Australia,10891
+Altona North,Australia,10886
+Caroline Springs,Australia,10880
+Bulleen,Australia,10868
+Kensington,Australia,10847
+Gladesville,Australia,10835
+Menai,Australia,10781
+Bondi Beach,Australia,10748
+Wellington Point,Australia,10713
+Mount Lawley,Australia,10703
+Annerley,Australia,10664
+Tewantin,Australia,10660
+Box Hill North,Australia,10649
+Sunshine North,Australia,10637
+Yokine,Australia,10613
+Batemans Bay,Australia,10557
+Camp Hill,Australia,10533
+Marangaroo,Australia,10519
+Dapto,Australia,10478
+Maylands,Australia,10447
+Drummoyne,Australia,10385
+Melton West,Australia,10381
+Bondi,Australia,10373
+Sydenham,Australia,10323
+Keilor Downs,Australia,10307
+Neutral Bay,Australia,10276
+Highett,Australia,10263
+West Footscray,Australia,10222
+Nambour,Australia,10221
+Rutherford,Australia,10182
+Maribyrnong,Australia,10165
+Hallam,Australia,10162
+Hillarys,Australia,10160
+Burwood East,Australia,10141
+Blackburn South,Australia,10129
+Darlinghurst,Australia,10128
+Hamilton,Australia,10104
+Dingley Village,Australia,10072
+Glenorchy,Australia,10062
+Forest Hill,Australia,10052
+Kilsyth,Australia,10043
+Parkes,Australia,10026
+Nedlands,Australia,10020
+Moranbah,Australia,10000
+Broadmeadows,Australia,9985
+Grafton,Australia,9955
+Altona,Australia,9918
+Vermont,Australia,9902
+Dalby,Australia,9847
+Mumbai,India,12691836
+Delhi,India,10927986
+Bengaluru,India,5104047
+Kolkata,India,4631392
+Chennai,India,4328063
+Ahmedabad,India,3719710
+Hyderabad,India,3597816
+Pune,India,2935744
+Surat,India,2894504
+Kanpur,India,2823249
+Jaipur,India,2711758
+Navi Mumbai,India,2600000
+Lucknow,India,2472011
+Nagpur,India,2228018
+Indore,India,1837041
+Patna,India,1599920
+Bhopal,India,1599914
+Ludhiana,India,1545368
+Tirunelveli,India,1435844
+Agra,India,1430055
+Vadodara,India,1409476
+Gorakhpur,India,1324570
+Nashik,India,1289497
+Pimpri,India,1284606
+Kalyan,India,1262255
+Thane,India,1261517
+Meerut,India,1223184
+Nowrangapur,India,1220946
+Faridabad,India,1220229
+Ghaziabad,India,1199191
+Dombivli,India,1193000
+Rajkot,India,1177362
+Varanasi,India,1164404
+Amritsar,India,1092450
+Allahabad,India,1073438
+Visakhapatnam,India,1063178
+Teni,India,1034724
+Jabalpur,India,1030168
+Haora,India,1027672
+Aurangabad,India,1016441
+Shivaji Nagar,India,1000000
+Solapur,India,997281
+Srinagar,India,975857
+Chandigarh,India,960787
+Coimbatore,India,959823
+Jodhpur,India,921476
+Madurai,India,909908
+Guwahati,India,899094
+Gwalior,India,882458
+Vijayawada,India,874587
+Mysore,India,868313
+Ranchi,India,846454
+Hubli,India,840214
+Jalandhar,India,785178
+Thiruvananthapuram,India,784153
+Salem,India,778396
+Tiruchirappalli,India,775484
+Kota,India,763088
+Bhubaneshwar,India,762243
+Aligarh,India,753207
+Bareilly,India,745435
+Moradabad,India,721139
+Bhiwandi,India,707035
+Raipur,India,679995
+Gorakhpur,India,674246
+Bhilai,India,625138
+Jamshedpur,India,616338
+Borivli,India,609617
+Cochin,India,604696
+Amravati,India,603837
+Sangli,India,601214
+Cuttack,India,580000
+Bikaner,India,576015
+Warangal,India,557802
+Bhavnagar,India,554978
+Nanded,India,550564
+Raurkela,India,536450
+Guntur,India,530577
+Dehra Dun,India,522081
+Bhayandar,India,520301
+Durgapur,India,518872
+Ajmer,India,517911
+Ulhasnagar,India,516584
+Kolhapur,India,516142
+Shiliguri,India,515574
+Bilimora,India,510879
+Karol Bagh,India,505241
+Asansol,India,504271
+Jamnagar,India,492056
+Saharanpur,India,484873
+Gulbarga,India,483615
+Bhatpara,India,483129
+Jammu,India,465567
+Kurnool,India,460184
+Ujjain,India,457346
+Ramgundam,India,452261
+Shyamnagar,India,441956
+Nangi,India,440894
+Kozhikode,India,439922
+Malegaon,India,435362
+Davangere,India,435128
+Jalgaon,India,429298
+Akola,India,428857
+Belgaum,India,428720
+Gaya,India,423692
+Udaipur,India,422784
+Korba,India,419146
+Bokaro,India,418533
+Mangalore,India,417387
+Jhansi,India,412927
+Thoothukudi,India,410760
+Nellore,India,404158
+Tiruppur,India,397521
+Kollam,India,394163
+Panihati,India,378705
+Ahmadnagar,India,367140
+Dhulia,India,366980
+Bhagalpur,India,361548
+Punasa,India,350000
+Muzaffarnagar,India,349706
+Latur,India,348967
+Kukatpalli,India,341709
+Ambattur,India,341049
+Bellary,India,336681
+Muzaffarpur,India,333200
+Kamarhati,India,332965
+Mathura,India,330511
+Patiala,India,329224
+Chanda,India,328351
+Bhilwara,India,326431
+Trichur,India,325110
+Brahmapur,India,324726
+Shahjanpur,India,320434
+Shimoga,India,319550
+New Delhi,India,317797
+Rohtak,India,317245
+Tumkur,India,307359
+Firozabad,India,306409
+Nizamabad,India,305438
+Kulti,India,305405
+Rajahmundry,India,304804
+Barddhaman,India,301725
+Barasat,India,298127
+Bali,India,296973
+Hisar,India,296436
+Rampur,India,296418
+Noida,India,293908
+Greater Noida,India,293908
+Kakinada,India,292923
+Panipat,India,292808
+Parbhani,India,289629
+Darbhanga,India,287150
+Alwar,India,283228
+Bilaspur,India,282705
+Ichalkaranji,India,274383
+Bijapur,India,271064
+Aizawl,India,265331
+Jalna,India,262034
+Lal Bahadur Nagar,India,261987
+Dewas,India,261218
+Baranagar,India,260072
+Gajuwaka,India,258944
+Satna,India,257778
+Etawah,India,257448
+Durg,India,255283
+Naihati,India,253221
+Tirupati,India,250821
+Sonipat,India,250521
+Avadi,India,250044
+Tiruvottiyur,India,248059
+Saugor,India,247333
+Mau,India,246050
+Bihar Sharif,India,244230
+Hapur,India,242920
+Bathinda,India,242800
+Farrukhabad,India,241152
+Anantapur,India,240442
+Barasat,India,237783
+Ratlam,India,236843
+Ramagundam,India,235000
+Ganganagar,India,231838
+Bharatpur,India,229384
+Karimnagar,India,228745
+Puducherry,India,227411
+Shrirampur,India,226317
+Raichur,India,225962
+Quthbullapur,India,225816
+Karnal,India,225049
+Arrah,India,223676
+Imphal,India,223523
+Gosaba,India,222764
+Mirzapur,India,220029
+Kharagpur,India,219665
+Dhanbad,India,219636
+Tanjore,India,219571
+Amarnath,India,217780
+Nagercoil,India,213858
+Pali,India,210103
+Yamunanagar,India,208931
+Rewa,India,208461
+Secunderabad,India,204182
+Bidar,India,204071
+Agartala,India,203264
+Monghyr,India,203163
+Burhanpur,India,202695
+Nadiad,India,202067
+Chapra,India,201597
+Dindigul,India,200797
+Panchkula,India,200000
+Sikar,India,199932
+Bulandshahr,India,198612
+Purnia,India,198453
+Hospet,India,197846
+Gurgaon,India,197340
+Sambhal,India,196109
+Gandhinagar,India,195985
+Murwara,India,195856
+Nangloi Jat,India,194363
+Machilipatnam,India,192827
+Katihar,India,192555
+Bhiwani,India,190855
+Kultali,India,187942
+Raebareli,India,186433
+Haridwar,India,186079
+Singrauli,India,185580
+Junagadh,India,184447
+Sujangarh,India,183808
+Ellore,India,183387
+Bhusaval,India,183001
+Khandwa,India,182841
+Bahraigh,India,182218
+Sirsa,India,181639
+Chandannagar,India,180623
+Baharampur,India,180547
+Surendranagar,India,179628
+Vizianagaram,India,179358
+Proddatur,India,177797
+Vellore,India,177081
+Hugli,India,177005
+Alleppey,India,176783
+Amroha,India,176253
+Tambaram,India,174787
+Pathankot,India,174306
+Bhind,India,174035
+Shimla,India,173503
+Ongole,India,172872
+Gadag Betageri,India,172813
+Puri,India,170841
+Haldia,India,170695
+Khammam,India,170503
+Raiganj,India,170252
+Ingraj Bazar,India,170039
+Jaunpur,India,169572
+Fatehpur,India,166480
+Gandhidham,India,166388
+Nandyal,India,165337
+Udupi,India,165000
+Loni,India,164810
+Sitapur,India,164435
+Shivpuri,India,164215
+Bhadravati,India,163903
+Adoni,India,163631
+Veraval,India,163326
+Sambalpur,India,162887
+Gadag,India,162569
+Unnao,India,161671
+Budaun,India,161555
+Jind,India,161260
+Madhyamgram,India,161126
+Jamuria,India,160242
+Jaigaon,India,158664
+Cuddalore,India,158569
+Orai,India,158265
+Hoshiarpur,India,158142
+Pallavaram,India,157145
+Hanumangarh,India,155687
+Kanchipuram,India,155029
+Alandur,India,153775
+Guna,India,153689
+Bahadurgarh,India,153613
+Bharuch,India,153528
+Medinipur,India,153349
+Fyzabad,India,153047
+Dinapore,India,152940
+Silchar,India,152393
+Banda,India,152218
+Morena,India,152004
+Tonk,India,151331
+Raj Nandgaon,India,150755
+Serilingampalle,India,150525
+Virar,India,150357
+Malkajgiri,India,150000
+Shantipur,India,149983
+Barakpur,India,148174
+Erode,India,147270
+Ambala,India,146787
+Krishnanagar,India,145926
+Saharsa,India,145764
+Batala,India,145468
+Bhimavaram,India,142967
+Balurghat,India,141404
+Kaithal,India,140604
+Lakhimpur,India,140223
+Hazaribagh,India,140063
+Vidisha,India,140045
+Haldwani,India,139497
+Habra,India,139297
+Kumbakonam,India,139264
+Porbandar,India,138872
+Chitradurga,India,138587
+Thanesar,India,138279
+Tiruvannamalai,India,138243
+Anand,India,138009
+Kanchrapara,India,136954
+Mahbubnagar,India,136135
+Dimapur,India,135860
+Robertsonpet,India,135218
+Chhindwara,India,134847
+Mandya,India,134845
+Bankura,India,133966
+Hajipur,India,133606
+Gonda City,India,133583
+Bhuj,India,133459
+Hindupur,India,133298
+Shillong,India,132842
+Palghat,India,132728
+Godhra,India,131913
+Kishangarh,India,131749
+Raniganj,India,131261
+Pilibhit,India,131008
+Beawar,India,130777
+Abohar,India,130603
+Moga,India,130549
+Dehri,India,129938
+Deoria,India,129570
+Hassan,India,128531
+Khardah,India,128346
+Yavatmal,India,128175
+Halisahar,India,128172
+Panvel,India,128046
+Titagarh,India,127751
+Cuddapah,India,127010
+Bettiah,India,127008
+Hathras,India,126882
+Lalitpur,India,126475
+Kolar,India,126441
+Mandsaur,India,124988
+Gondia,India,124897
+Rajapalaiyam,India,124168
+Darjiling,India,123797
+Mohali,India,123484
+Palanpur,India,123294
+Dam Dam,India,122719
+Hardoi,India,122635
+Puruliya,India,122533
+Dibrugarh,India,122155
+Palwal,India,121965
+Nalgonda,India,121826
+Bhadreswar,India,121662
+Vejalpur,India,121610
+Chikmagalur,India,121484
+Raigarh,India,121278
+Guntakal Junction,India,120964
+Gangapur,India,120115
+Deoli,India,120000
+Siwan,India,119181
+Damoh,India,118776
+Adilabad,India,118526
+Chicacole,India,118299
+Uppal Kalan,India,118259
+Jetpur,India,118068
+Morbi,India,118022
+Patan,India,117863
+Khanna,India,117137
+Botad,India,117053
+Rishra,India,117014
+Azamgarh,India,116644
+Yelahanka,India,116447
+Gudivada,India,116161
+Baidyabati,India,115504
+Basti,India,115115
+Balasore,India,114321
+Dharmavaram,India,114050
+Maler Kotla,India,113840
+Wardha,India,113759
+Jhunjhunun,India,113193
+Satara,India,112793
+Chanduasi,India,112635
+Mothihari,India,112144
+Chas,India,112141
+Pudukkottai,India,112118
+Rewari,India,112079
+Port Blair,India,112050
+Suriapet,India,111729
+Bangaon,India,111693
+Chhatarpur,India,111594
+Ashoknagar Kalyangarh,India,111475
+Achalpur,India,111278
+Navadwip,India,111123
+Barsi,India,110983
+Buenos Aires,Argentina,13076300
+Cordoba,Argentina,1428214
+Rosario,Argentina,1173533
+Mendoza,Argentina,876884
+San Miguel De Tucuman,Argentina,781023
+La Plata,Argentina,694167
+Mar Del Plata,Argentina,553935
+Quilmes,Argentina,518788
+Salta,Argentina,512686
+Santa Fe De La Vera Cruz,Argentina,489505
+San Juan,Argentina,447048
+Resistencia,Argentina,387158
+Santiago Del Estero,Argentina,354692
+Corrientes,Argentina,339067
+Posadas,Argentina,323739
+Moron,Argentina,319934
+San Salvador De Jujuy,Argentina,305891
+Bahia Blanca,Argentina,276546
+Parana,Argentina,262295
+Neuquen,Argentina,242092
+Pilar,Argentina,226517
+Formosa,Argentina,221383
+San Fernando Del Valle De Catamarca,Argentina,188812
+San Luis,Argentina,183982
+Berazategui,Argentina,167498
+La Rioja,Argentina,162620
+Rio Cuarto,Argentina,153757
+Balvanera,Argentina,152198
+Concordia,Argentina,145210
+Comodoro Rivadavia,Argentina,140850
+Belgrano,Argentina,138942
+San Nicolas De Los Arroyos,Argentina,127742
+Villa Lugano,Argentina,114000
+Santa Rosa,Argentina,111424
+San Rafael,Argentina,109163
+Tandil,Argentina,104325
+Villa Mercedes,Argentina,96781
+San Carlos De Bariloche,Argentina,95394
+Trelew,Argentina,93442
+Villa Maria,Argentina,92453
+Reconquista,Argentina,90184
+Zarate,Argentina,88781
+Rafaela,Argentina,88713
+Pergamino,Argentina,87652
+Olavarria,Argentina,86320
+Rio Gallegos,Argentina,85700
+Junin,Argentina,85007
+San Martin,Argentina,82549
+Presidencia Roque Saenz Pena,Argentina,81879
+Lujan,Argentina,81749
+Campana,Argentina,81612
+Necochea,Argentina,80478
+Gualeguaychu,Argentina,78676
+Barracas,Argentina,77474
+Cipolletti,Argentina,75078
+Gobernador Galvez,Argentina,74650
+San Ramon De La Nueva Oran,Argentina,74059
+Chimbas,Argentina,73829
+General Roca,Argentina,73212
+Venado Tuerto,Argentina,72340
+Goya,Argentina,70245
+Villa Carlos Paz,Argentina,69451
+Concepcion Del Uruguay,Argentina,67895
+Puerto Madryn,Argentina,64555
+Tartagal,Argentina,60819
+Santo Tome,Argentina,59072
+San Francisco,Argentina,59062
+San Pedro,Argentina,58430
+Ushuaia,Argentina,58028
+Punta Alta,Argentina,57209
+General Pico,Argentina,57029
+Colegiales,Argentina,57000
+Obera,Argentina,56528
+Chivilcoy,Argentina,54514
+Puerto Eldorado,Argentina,54189
+Azul,Argentina,53941
+Rio Tercero,Argentina,53389
+Mercedes,Argentina,52949
+Rio Grande,Argentina,52681
+Barranqueras,Argentina,50823
+Yerba Buena,Argentina,50783
+Libertador General San Martin,Argentina,49267
+Viedma,Argentina,48940
+Tafi Viejo,Argentina,48459
+Boedo,Argentina,48231
+Palpala,Argentina,48199
+San Lorenzo,Argentina,47626
+San Pedro,Argentina,47452
+Cutral Co,Argentina,47380
+Tres Arroyos,Argentina,47136
+San Isidro,Argentina,45190
+Villa Constitucion,Argentina,44271
+Paso De Los Libres,Argentina,43805
+Santa Lucia,Argentina,43565
+Villa Angela,Argentina,43511
+Chilecito,Argentina,42248
+Lincoln,Argentina,41808
+Pocito,Argentina,40969
+Alta Gracia,Argentina,40384
+Retiro,Argentina,38635
+Alderetes,Argentina,38466
+San Vicente,Argentina,38247
+Castelli,Argentina,36588
+Curuzu Cuatia,Argentina,36390
+Caleta Olivia,Argentina,36077
+Canada De Gomez,Argentina,36000
+Esperanza,Argentina,35885
+Bell Ville,Argentina,35105
+Nueve De Julio,Argentina,34718
+Chacabuco,Argentina,34587
+Villa Santa Rita,Argentina,34000
+Caucete,Argentina,33609
+Pontevedra,Argentina,33515
+Gualeguay,Argentina,33120
+Aguilares,Argentina,32494
+Granadero Baigorria,Argentina,32427
+Quitilipi,Argentina,32083
+Puerto Iguazu,Argentina,32038
+Villaguay,Argentina,32027
+Casilda,Argentina,32002
+General Jose De San Martin,Argentina,31758
+Zapala,Argentina,31534
+Villa Regina,Argentina,31209
+Tigre,Argentina,31106
+Famailla,Argentina,30951
+Chajari,Argentina,30655
+Mercedes,Argentina,30649
+Centenario,Argentina,28956
+Garupa,Argentina,28814
+Gobernador Ingeniero Valentin Virasoro,Argentina,28756
+Esquel,Argentina,28486
+Adrogue,Argentina,28265
+Cruz Del Eje,Argentina,28166
+Machagai,Argentina,28070
+Villa Dolores,Argentina,28009
+Termas De Rio Hondo,Argentina,27838
+Charata,Argentina,27813
+Capitan Bermudez,Argentina,27060
+Coronel Suarez,Argentina,27000
+Las Brenas,Argentina,26955
+Jesus Maria,Argentina,26825
+Fontana,Argentina,26745
+Esquina,Argentina,26399
+Rawson,Argentina,26335
+Allen,Argentina,26083
+Dolores,Argentina,25190
+Plottier,Argentina,25186
+Victoria,Argentina,25139
+Jardin America,Argentina,24905
+La Calera,Argentina,24796
+Tres Isletas,Argentina,24747
+La Paz,Argentina,24716
+Monte Caseros,Argentina,24671
+Veinticinco De Mayo,Argentina,24668
+Perez,Argentina,24436
+Marcos Juarez,Argentina,24226
+Embarcacion,Argentina,23961
+Monteros,Argentina,23771
+San Pedro,Argentina,23736
+San Martin De Los Andes,Argentina,23519
+Villa Gesell,Argentina,23257
+Avellaneda,Argentina,23077
+Santo Tome,Argentina,22634
+Villa Ortuzar,Argentina,22500
+Montecarlo,Argentina,22229
+San Justo,Argentina,21809
+Villa Allende,Argentina,21683
+San Jose De Jachal,Argentina,21018
+Aristobulo Del Valle,Argentina,20683
+Albardon,Argentina,20413
+Anatuya,Argentina,20261
+Dean Funes,Argentina,20164
+Arroyo Seco,Argentina,20008
+Laboulaye,Argentina,19908
+Cinco Saltos,Argentina,19819
+General Enrique Mosconi,Argentina,19811
+Vera,Argentina,19797
+Arroyito,Argentina,19577
+El Soberbio,Argentina,19571
+Diamante,Argentina,19545
+Joaquin V. Gonzalez,Argentina,19185
+Pirane,Argentina,19124
+Villa Ocampo,Argentina,19101
+Villa Paula De Sarmiento,Argentina,19092
+Cosquin,Argentina,19070
+Sunchales,Argentina,18757
+Santa Elena,Argentina,18410
+Galvez,Argentina,18374
+Rufino,Argentina,18361
+Saladas,Argentina,18349
+Crespo,Argentina,18296
+Firmat,Argentina,18294
+Rio Segundo,Argentina,18155
+Puerto Rico,Argentina,17491
+Coronda,Argentina,16975
+San Antonio Oeste,Argentina,16966
+San Jorge,Argentina,16873
+Villa Nueva,Argentina,16841
+Rio Ceballos,Argentina,16632
+Federal,Argentina,16333
+General Villegas,Argentina,16270
+Embalse,Argentina,15900
+General Pinedo,Argentina,15741
+Carcarana,Argentina,15619
+San Javier,Argentina,15606
+Puerto Esperanza,Argentina,15579
+El Bolson,Argentina,15537
+Wanda,Argentina,15529
+Unquillo,Argentina,15369
+San Luis Del Palmar,Argentina,15347
+Catriel,Argentina,15169
+Morteros,Argentina,15129
+Bella Vista,Argentina,15126
+La Falda,Argentina,15112
+La Punta,Argentina,15000
+Clorinda,Argentina,15000
+Pico Truncado,Argentina,14985
+La Quiaca,Argentina,14751
+Funes,Argentina,14750
+Las Varillas,Argentina,14649
+Dos De Mayo,Argentina,14544
+Tinogasta,Argentina,14509
+Fray Luis A. Beltran,Argentina,14390
+San Cristobal,Argentina,14286
+Recreo,Argentina,14204
+Andalgala,Argentina,14068
+Santa Lucia,Argentina,14056
+Tostado,Argentina,14000
+Rosario Del Tala,Argentina,13807
+Federacion,Argentina,13789
+Arauco,Argentina,13720
+Fraile Pintado,Argentina,13682
+Chamical,Argentina,13383
+Ceres,Argentina,13063
+Recreo,Argentina,12798
+Las Rosas,Argentina,12793
+El Colorado,Argentina,12780
+Oncativo,Argentina,12660
+General Acha,Argentina,12536
+Pilar,Argentina,12488
+Roldan,Argentina,12468
+Plaza Huincul,Argentina,12273
+Laguna Paiva,Argentina,12250
+Presidencia De La Plaza,Argentina,12231
+Campo Grande,Argentina,12040
+Villa Berthet,Argentina,12029
+Veinticinco De Mayo,Argentina,11928
+Las Toscas,Argentina,11811
+Cafayate,Argentina,11785
+Chos Malal,Argentina,11721
+Coronel Dorrego,Argentina,11644
+Oliva,Argentina,11629
+San Salvador,Argentina,11626
+Pampa Del Indio,Argentina,11588
+La Carlota,Argentina,11490
+Humahuaca,Argentina,11369
+Las Parejas,Argentina,11317
+San Clemente Del Tuyu,Argentina,11174
+Merlo,Argentina,11159
+San Jose De Feliciano,Argentina,11137
+San Bernardo,Argentina,11101
+Candelaria,Argentina,11039
+Quimili,Argentina,10959
+Bernardo De Irigoyen,Argentina,10889
+El Trebol,Argentina,10871
+Campo Largo,Argentina,10743
+Junin De Los Andes,Argentina,10592
+Almafuerte,Argentina,10534
+Hernando,Argentina,10486
+Corzuela,Argentina,10470
+San Carlos Centro,Argentina,10465
+Armstrong,Argentina,10388
+Ingeniero Guillermo N. Juarez,Argentina,10357
+Las Lomitas,Argentina,10354
+General Cabrera,Argentina,10351
+El Quebrachal,Argentina,10243
+Puerto Deseado,Argentina,10237
+Calchaqui,Argentina,10221
+San Martin,Argentina,10140
+Campo Ramon,Argentina,10088
+La Leonesa,Argentina,10067
+Leones,Argentina,9971
+Corral De Bustos,Argentina,9882
+Eduardo Castex,Argentina,9861
+Choele Choel,Argentina,9791
+El Carril,Argentina,9780
+Puerto Tirol,Argentina,9767
+Justo Daract,Argentina,9680
+Totoras,Argentina,9587
+Santa Rosa De Calamuchita,Argentina,9504
+Abra Pampa,Argentina,9425
+Malagueno,Argentina,9364
+Villa Elisa,Argentina,9334
+Villa Canas,Argentina,9328
+Las Heras,Argentina,9303
+Campo Viera,Argentina,9228
+Las Lajitas,Argentina,9151
+Coronel Du Graty,Argentina,9140
+Capilla Del Monte,Argentina,9085
+Clodomira,Argentina,9043
+Santa Sylvina,Argentina,9040
+Mburucuya,Argentina,9012
+Vicuna Mackenna,Argentina,8994
+Viale,Argentina,8939
+Ibarreta,Argentina,8687
+Huinca Renanco,Argentina,8637
+Malvinas Argentinas,Argentina,8628
+General Ramirez,Argentina,8614
+Apolinario Saravia,Argentina,8595
+La Cruz,Argentina,8591
+Puerto Piray,Argentina,8557
+Taco Pozo,Argentina,8470
+Chicoana,Argentina,8468
+Puerto Vilelas,Argentina,8455
+Colonia Aurora,Argentina,8407
+El Galpon,Argentina,8357
+Canals,Argentina,8343
+Santa Rosa,Argentina,8330
+Sarmiento,Argentina,8292
+Garuhape,Argentina,8259
+Brinkmann,Argentina,8237
+Calingasta,Argentina,8176
+Pampa Del Infierno,Argentina,8176
+Coronel Moldes,Argentina,8104
+Fiambala,Argentina,8061
+El Calafate,Argentina,8000
+Urdinarrain,Argentina,7992
+Bovril,Argentina,7977
+Simoca,Argentina,7939
+Alvear,Argentina,7917
+Itati,Argentina,7902
+Lamarque,Argentina,7819
+Huillapima,Argentina,7779
+Yuto,Argentina,7732
+Nueve De Julio,Argentina,7652
+Nuestra Senora Del Rosario De Caa Cati,Argentina,7573
+Villa La Angostura,Argentina,7526
+Hermoso Campo,Argentina,7435
+Justiniano Posse,Argentina,7406
+Concepcion De La Sierra,Argentina,7398
+San Miguel,Argentina,7396
+Villa De Soto,Argentina,7303
+Sampacho,Argentina,7238
+La Cumbre,Argentina,7235
+Realico,Argentina,7151
+Laguna Larga,Argentina,7137
+Villa Del Totoral,Argentina,7110
+Villa Maria Grande,Argentina,7101
+La Cocha,Argentina,7066
+Malabrigo,Argentina,7026
+Intendente Alvear,Argentina,6990
+Sierra Grande,Argentina,6978
+Veinticinco De Mayo,Argentina,6962
+Arias,Argentina,6928
+Monte Maiz,Argentina,6920
+Monte Cristo,Argentina,6914
+San Agustin De Valle Fertil,Argentina,6864
+Cruz Alta,Argentina,6862
+Icano,Argentina,6857
+Mina Clavero,Argentina,6855
+Avia Terai,Argentina,6821
+General Fernandez Oro,Argentina,6813
+Santa Rosa De Rio Primero,Argentina,6788
+San Benito,Argentina,6771
+La Toma,Argentina,6663
+Trancas,Argentina,6658
+Alba Posse,Argentina,6652
+Rio Turbio,Argentina,6650
+Yacimiento Rio Turbio,Argentina,6650
+Los Frentones,Argentina,6610
+Victorica,Argentina,6565
+Ingeniero Luis A. Huergo,Argentina,6483
+San Jose,Argentina,6452
+Berrotaran,Argentina,6446
+Adelia Maria,Argentina,6434
+Los Altos,Argentina,6421
+Salsipuedes,Argentina,6411
+Fray Luis Beltran,Argentina,6401
+Trevelin,Argentina,6395
+Senillosa,Argentina,6394
+Capayan,Argentina,6358
+Gobernador Roca,Argentina,6315
+Rada Tilly,Argentina,6208
+Larroque,Argentina,6200
+San Julian,Argentina,6143
+Puerto Libertad,Argentina,6143
+Mocoreta,Argentina,6088
+Suncho Corral,Argentina,6087
+Panambi,Argentina,5970
+Villa General Belgrano,Argentina,5888
+Capiovi,Argentina,5860
+Villa Ojo De Agua,Argentina,5832
+Concepcion Del Bermejo,Argentina,5830
+Paso De La Patria,Argentina,5818
+Macia,Argentina,5806
+Ingeniero Jacobacci,Argentina,5785
+Gaiman,Argentina,5753
+Perugorria,Argentina,5685
+Comandante Fontana,Argentina,5655
+Despenaderos,Argentina,5645
+Almaty,Kazakhstan,2000900
+Karagandy,Kazakhstan,451800
+Shymkent,Kazakhstan,414032
+Taraz,Kazakhstan,358153
+Astana,Kazakhstan,345604
+Pavlodar,Kazakhstan,329002
+Ust Kamenogorsk,Kazakhstan,319067
+Kyzyl Orda,Kazakhstan,300000
+Kyzylorda,Kazakhstan,300000
+Semey,Kazakhstan,292780
+Aktobe,Kazakhstan,262457
+Kostanay,Kazakhstan,210000
+Petropavl,Kazakhstan,200920
+Oral,Kazakhstan,200000
+Atyrau,Kazakhstan,180000
+Temirtau,Kazakhstan,170600
+Aktau,Kazakhstan,147443
+Kokshetau,Kazakhstan,124444
+Rudnyy,Kazakhstan,124000
+Ekibastuz,Kazakhstan,121470
+Taldykorgan,Kazakhstan,116558
+Zhezqazghan,Kazakhstan,104357
+Zhanaozen,Kazakhstan,103598
+Turkestan,Kazakhstan,97360
+Balqash,Kazakhstan,81364
+Sarkand,Kazakhstan,76919
+Baikonur,Kazakhstan,70000
+Kentau,Kazakhstan,57408
+Ridder,Kazakhstan,52664
+Qulsary,Kazakhstan,51216
+Shchuchinsk,Kazakhstan,47290
+Stepnogorsk,Kazakhstan,46736
+Zyryanovsk,Kazakhstan,44929
+Aksu,Kazakhstan,44808
+Dzhetygara,Kazakhstan,43104
+Soran,Kazakhstan,42552
+Talghar,Kazakhstan,42194
+Kapshagay,Kazakhstan,42167
+Arkalyk,Kazakhstan,42000
+Shakhtinsk,Kazakhstan,41602
+Lisakovsk,Kazakhstan,40000
+Chu,Kazakhstan,39785
+Karatau,Kazakhstan,37881
+Arys,Kazakhstan,36285
+Ayteke Bi,Kazakhstan,35883
+Abay,Kazakhstan,35454
+Aqsay,Kazakhstan,34799
+Atbasar,Kazakhstan,34797
+Zharkent,Kazakhstan,34422
+Zhangatas,Kazakhstan,33492
+Ayagoz,Kazakhstan,33479
+Aral,Kazakhstan,33017
+Esik,Kazakhstan,32995
+Shieli,Kazakhstan,29832
+Kandyagash,Kazakhstan,28196
+Shalqar,Kazakhstan,27399
+Shalkar,Kazakhstan,27072
+Tekeli,Kazakhstan,26678
+Belyye Vody,Kazakhstan,26115
+Chardara,Kazakhstan,25356
+Saryaghash,Kazakhstan,25139
+Khromtau,Kazakhstan,23715
+Georgievka,Kazakhstan,22047
+Yanykurgan,Kazakhstan,21339
+Lenger,Kazakhstan,21238
+Burunday,Kazakhstan,20996
+Ush Tyube,Kazakhstan,20492
+Shemonaikha,Kazakhstan,20087
+Zhosaly,Kazakhstan,20065
+Balykshi,Kazakhstan,19260
+Otegen Batyra,Kazakhstan,18864
+Embi,Kazakhstan,18760
+Turar Ryskulov,Kazakhstan,18421
+Makinsk,Kazakhstan,17711
+Zaysan,Kazakhstan,17600
+Akkol',Kazakhstan,16773
+Tasboget,Kazakhstan,16455
+Merke,Kazakhstan,15934
+Mikhaylovka,Kazakhstan,15132
+Urzhar,Kazakhstan,14826
+Leninskoye,Kazakhstan,14737
+Beyneu,Kazakhstan,14245
+Dzhalagash,Kazakhstan,14226
+Yermentau,Kazakhstan,14169
+Maqat,Kazakhstan,14082
+Saryozek,Kazakhstan,13930
+Derzhavinsk,Kazakhstan,13856
+Qarazhal,Kazakhstan,13807
+Chemolgan,Kazakhstan,13616
+Esil,Kazakhstan,13504
+Priozersk,Kazakhstan,13457
+Shakhan,Kazakhstan,13273
+Inderbor,Kazakhstan,13254
+Atasu,Kazakhstan,13184
+Taiynsha,Kazakhstan,13148
+Lugovoye,Kazakhstan,13128
+Turgen,Kazakhstan,13000
+Atakent,Kazakhstan,12895
+Temirlanovka,Kazakhstan,12245
+Yeraliyev,Kazakhstan,11836
+Shetpe,Kazakhstan,11836
+Balpyk Bi,Kazakhstan,11810
+Shubarkuduk,Kazakhstan,11733
+Zhetibay,Kazakhstan,11731
+Asyqata,Kazakhstan,11378
+Glubokoye,Kazakhstan,11192
+Moyynkum,Kazakhstan,10923
+Chulakkurgan,Kazakhstan,10836
+Kurchatov,Kazakhstan,10747
+Lugovoy,Kazakhstan,10422
+Qashar,Kazakhstan,10285
+Kantagi,Kazakhstan,10186
+Kegen,Kazakhstan,9993
+Aktau,Kazakhstan,9977
+Belousovka,Kazakhstan,9948
+Aktas,Kazakhstan,9888
+Bulayevo,Kazakhstan,9886
+Komsomolets,Kazakhstan,9838
+Georgiyevka,Kazakhstan,9821
+Oytal,Kazakhstan,9821
+Myrzakent,Kazakhstan,9752
+Aqadyr,Kazakhstan,9710
+Terenozek,Kazakhstan,9661
+Borovskoy,Kazakhstan,9659
+Tyuratam,Kazakhstan,9548
+Chayan,Kazakhstan,9536
+Dossor,Kazakhstan,9526
+Aktau,Kazakhstan,9500
+Sekseuil,Kazakhstan,9296
+Irtyshsk,Kazakhstan,9216
+Shar,Kazakhstan,9087
+Qashyr,Kazakhstan,8931
+Qaraton,Kazakhstan,8905
+Makhambet,Kazakhstan,8905
+Zhezkent,Kazakhstan,8896
+Sergeyevka,Kazakhstan,8845
+Kurchum,Kazakhstan,8800
+Shubarshi,Kazakhstan,8651
+Leninskiy,Kazakhstan,8646
+Aksu,Kazakhstan,8543
+Maloye Ganyushkino,Kazakhstan,8387
+Fyodorovka,Kazakhstan,8317
+Zhanibek,Kazakhstan,8212
+Qarqaraly,Kazakhstan,8195
+Qusmuryn,Kazakhstan,8049
+Pervomayka,Kazakhstan,7874
+Martuk,Kazakhstan,7756
+Mayqayyng,Kazakhstan,7695
+Qazaly,Kazakhstan,7686
+Bayganin,Kazakhstan,7657
+Osakarovka,Kazakhstan,7305
+Bestobe,Kazakhstan,7189
+Tobol,Kazakhstan,7155
+Kievka,Kazakhstan,7037
+Shortandy,Kazakhstan,6980
+Tasqala,Kazakhstan,6980
+Bakanas,Kazakhstan,6965
+Zholymbet,Kazakhstan,6876
+Zhumysker,Kazakhstan,6834
+Sastobe,Kazakhstan,6827
+Kzyltu,Kazakhstan,6779
+Aksuat,Kazakhstan,6696
+Tughyl,Kazakhstan,6696
+Burabay,Kazakhstan,6500
+Astrakhan,Kazakhstan,6459
+Dzhambeyty,Kazakhstan,6262
+Chingirlau,Kazakhstan,6218
+Miyaly,Kazakhstan,6213
+Balkashino,Kazakhstan,6147
+Ust' Talovka,Kazakhstan,6122
+Novoishimskiy,Kazakhstan,6062
+Zavodskoy,Kazakhstan,6043
+Zhanga Buqtyrma,Kazakhstan,6026
+Chapaev,Kazakhstan,6000
+Dzhangala,Kazakhstan,5954
+Borodulikha,Kazakhstan,5931
+Smirnovo,Kazakhstan,5742
+Bayanaul,Kazakhstan,5700
+Batamshinskiy,Kazakhstan,5668
+Asubulaq,Kazakhstan,5644
+Ashchysay,Kazakhstan,5635
+Shantobe,Kazakhstan,5626
+Bishkul,Kazakhstan,5423
+Kalkaman,Kazakhstan,5415
+Lepsy,Kazakhstan,5350
+Fedorovka,Kazakhstan,5338
+Torghay,Kazakhstan,5277
+Qarauyl,Kazakhstan,5261
+Zhelezinka,Kazakhstan,5225
+Fort Shevchenko,Kazakhstan,5213
+Novodolinskiy,Kazakhstan,5167
+Kokpekty,Kazakhstan,5165
+Zhaqsy,Kazakhstan,5001
+Algiers,Algeria,1977663
+Boumerdas,Algeria,786499
+Oran,Algeria,645984
+Tebessa,Algeria,634332
+Constantine,Algeria,450097
+Biskra,Algeria,307987
+Setif,Algeria,288461
+Batna,Algeria,280798
+Bab Ezzouar,Algeria,275630
+Annaba,Algeria,206570
+Sidi Bel Abbes,Algeria,191769
+Blida,Algeria,182447
+Tiaret,Algeria,178915
+Chlef,Algeria,178616
+Bordj Bou Arreridj,Algeria,168346
+Ech Chettia,Algeria,167955
+Bejaia,Algeria,164103
+Skikda,Algeria,162702
+El Achir,Algeria,158333
+Souk Ahras,Algeria,156745
+Djelfa,Algeria,154265
+Mascara,Algeria,150000
+Jijel,Algeria,148000
+Medea,Algeria,147707
+Tizi Ouzou,Algeria,144000
+Bechar,Algeria,143382
+El Oued,Algeria,134699
+Tlemcen,Algeria,132341
+Relizane,Algeria,130094
+Mostaganem,Algeria,130000
+Ouargla,Algeria,129402
+El Eulma,Algeria,128351
+Saida,Algeria,127497
+Guelma,Algeria,123590
+Bordj El Kiffan,Algeria,123246
+Ain Oussera,Algeria,118687
+Khenchela,Algeria,117000
+Laghouat,Algeria,113872
+Ain Beida,Algeria,105765
+Baraki,Algeria,105402
+Oum El Bouaghi,Algeria,100821
+M'sila,Algeria,100000
+Messaad,Algeria,99485
+Barika,Algeria,98846
+Ghardaia,Algeria,93423
+Beni Mered,Algeria,92749
+Aflou,Algeria,84683
+El Khroub,Algeria,83746
+Rouissat,Algeria,80784
+Berrouaghia,Algeria,80573
+Ksar El Boukhari,Algeria,77166
+Khemis Miliana,Algeria,75865
+Azzaba,Algeria,75317
+Tamanrasset,Algeria,73128
+Ain Touta,Algeria,72280
+Cheria,Algeria,72095
+Birkhadem,Algeria,71722
+Chelghoum El Aid,Algeria,71660
+Sidi Aissa,Algeria,69740
+Larbaa,Algeria,69298
+Mila,Algeria,68831
+Bir El Ater,Algeria,68703
+Sougueur,Algeria,68654
+Ain Fakroun,Algeria,68433
+Tolga,Algeria,68246
+Es Senia,Algeria,68084
+Bir El Djir,Algeria,68032
+Akbou,Algeria,66654
+Besbes,Algeria,66287
+El Bayadh,Algeria,64632
+Sidi Khaled,Algeria,64476
+Ain Sefra,Algeria,63420
+Frenda,Algeria,63319
+Bougara,Algeria,63155
+Hamma Bouziane,Algeria,63012
+Reguiba,Algeria,62185
+Tissemsilt,Algeria,61155
+Meftah,Algeria,59990
+Oued Rhiou,Algeria,59864
+Boufarik,Algeria,59742
+Sig,Algeria,58877
+Ksar Chellala,Algeria,58478
+Sidi Moussa,Algeria,57928
+Ain Temouchent,Algeria,57354
+Ras El Oued,Algeria,56726
+Lakhdaria,Algeria,56719
+Drean,Algeria,55147
+Reghaia,Algeria,54962
+Boghni,Algeria,54666
+Dar Chioukh,Algeria,54022
+Sedrata,Algeria,53318
+Hassi Messaoud,Algeria,53000
+Djamaa,Algeria,52882
+Bouira,Algeria,52500
+Mansoura,Algeria,52285
+Ain Defla,Algeria,52276
+Telerghma,Algeria,51708
+Remchi,Algeria,51224
+Birine,Algeria,51209
+Sour El Ghozlane,Algeria,50204
+Metlili Chaamba,Algeria,50117
+Khemis El Khechna,Algeria,49757
+Timimoun,Algeria,49237
+I N Salah,Algeria,49223
+Touggourt,Algeria,49044
+Merouana,Algeria,47646
+Kerkera,Algeria,46747
+El Hadjar,Algeria,46656
+Beni Saf,Algeria,46382
+Tindouf,Algeria,45966
+'Ain El Turk,Algeria,45323
+Boudouaou,Algeria,45153
+Berriane,Algeria,44580
+Oued Fodda,Algeria,44523
+Bou Arfa,Algeria,44143
+Adrar,Algeria,43903
+El Attaf,Algeria,43837
+El Affroun,Algeria,42627
+`Ain El Hadjel,Algeria,42527
+Hennaya,Algeria,41959
+Tazoult Lambese,Algeria,41636
+Draa El Mizan,Algeria,41263
+Timizart,Algeria,41158
+Sebdou,Algeria,41146
+Tebesbest,Algeria,41091
+Souma,Algeria,40745
+Azazga,Algeria,40623
+Rouached,Algeria,40263
+Heliopolis,Algeria,40139
+Chetouane,Algeria,39913
+'Ain El Melh,Algeria,39798
+El Hadjira,Algeria,39744
+El Abiodh Sidi Cheikh,Algeria,39283
+Mehdia Daira De Meghila,Algeria,39271
+El Idrissia,Algeria,38714
+Bougaa,Algeria,38597
+Draa Ben Khedda,Algeria,37443
+Dar El Beida,Algeria,37311
+Ain El Bya,Algeria,37241
+Nedroma,Algeria,36995
+Debila,Algeria,36834
+Arris,Algeria,36641
+'Ain Deheb,Algeria,36146
+Hammam Bou Hadjar,Algeria,35896
+Sidi Ech Chahmi,Algeria,35512
+El Kala,Algeria,35449
+Ain Arnat,Algeria,35088
+Sidi Okba,Algeria,34985
+Makouda,Algeria,34515
+'Ain Merane,Algeria,34413
+Ras El Aioun,Algeria,34167
+Bordj Ghdir,Algeria,34136
+Ouled Mimoun,Algeria,33888
+Beni Douala,Algeria,33611
+Babor Ville,Algeria,33000
+Mouzaia,Algeria,32981
+Reggane,Algeria,32974
+El Aouinet,Algeria,32971
+Tamalous,Algeria,32579
+Ain Kercha,Algeria,32497
+Djidiouia,Algeria,31996
+Barbacha,Algeria,31983
+'Ain El Bell,Algeria,31916
+El Hed,Algeria,31890
+Kolea,Algeria,31816
+Megarine,Algeria,31711
+'Ain Benian,Algeria,31102
+Sfizef,Algeria,31081
+Freha,Algeria,31068
+L'arbaa Nait Irathen,Algeria,30609
+Oued Sly,Algeria,30504
+Robbah,Algeria,30446
+Bouinan,Algeria,30271
+Meskiana,Algeria,30071
+Lardjem,Algeria,30000
+Sidi Amrane,Algeria,29734
+Mekla,Algeria,29560
+'Ain Abid,Algeria,29486
+Ain Bessem,Algeria,29461
+Ain Smara,Algeria,28968
+El Abadia,Algeria,28724
+Hammamet,Algeria,28536
+Ben Mehidi,Algeria,28398
+'Ain El Hammam,Algeria,28029
+Tizi Gheniff,Algeria,27974
+Cheraga,Algeria,27835
+Charef,Algeria,27700
+Theniet El Had,Algeria,27687
+Bou Hanifia El Hamamat,Algeria,27576
+Hadjout,Algeria,27549
+Douera,Algeria,26926
+Boukadir,Algeria,26662
+Sidi Akkacha,Algeria,26558
+El Amria,Algeria,26407
+Dellys,Algeria,26384
+Tirmitine,Algeria,26261
+Bou Tlelis,Algeria,26144
+El Kseur,Algeria,26050
+Amizour,Algeria,25825
+Didouche Mourad,Algeria,25764
+Melouza,Algeria,25701
+Tipasa,Algeria,25225
+Sidi Merouane,Algeria,25129
+Aoulef,Algeria,24812
+Abou El Hassan,Algeria,24022
+Arhribs,Algeria,23958
+Sidi Abdelli,Algeria,23543
+Salah Bey,Algeria,23339
+Chiffa,Algeria,23218
+Zeribet El Oued,Algeria,23187
+Boumahra Ahmed,Algeria,23022
+Ammi Moussa,Algeria,23001
+Oued El Abtal,Algeria,22819
+Bou Ismail,Algeria,22411
+Tizi N Tleta,Algeria,22404
+Mazouna,Algeria,22366
+Mansourah,Algeria,22117
+Ain Taya,Algeria,21815
+Zemoura,Algeria,21770
+Feraoun,Algeria,21700
+Chemini,Algeria,21585
+Bensekrane,Algeria,21283
+Oued El Alleug,Algeria,21146
+Tadmait,Algeria,20952
+Rouiba,Algeria,20742
+Boudjima,Algeria,20557
+Chorfa,Algeria,20556
+El Tarf,Algeria,20300
+Mers El Kebir,Algeria,20178
+Chebli,Algeria,19901
+Seddouk,Algeria,19884
+Beni Mester,Algeria,19808
+Bordj Zemoura,Algeria,19782
+Chabet El Ameur,Algeria,19522
+El Malah,Algeria,19415
+Berrahal,Algeria,19294
+Brezina,Algeria,19084
+Beni Amrane,Algeria,18414
+Tizi Rached,Algeria,17872
+Zeralda,Algeria,17563
+Arbatache,Algeria,17481
+Saoula,Algeria,16812
+'Ain El Berd,Algeria,16548
+Thenia,Algeria,16180
+Naciria,Algeria,15387
+Ighram,Algeria,15030
+Ouled Moussa,Algeria,13474
+'Ain El Hadjar,Algeria,12996
+'Ain Boucif,Algeria,11989
+Oumache,Algeria,10424
+Boumagueur,Algeria,8474
+Naama,Algeria,8390
+Sidi Senoussi Sydy Snwsy,Algeria,7500
+Illizi,Algeria,6629
+Kinshasa,DR Congo,7785965
+Lubumbashi,DR Congo,1373770
+Mbuji Mayi,DR Congo,874761
+Kisangani,DR Congo,539158
+Masina,DR Congo,485167
+Kananga,DR Congo,463546
+Likasi,DR Congo,422414
+Kolwezi,DR Congo,418000
+Tshikapa,DR Congo,267462
+Beni,DR Congo,232000
+Bukavu,DR Congo,225389
+Mwene Ditu,DR Congo,189177
+Kikwit,DR Congo,186991
+Mbandaka,DR Congo,184185
+Matadi,DR Congo,180109
+Uvira,DR Congo,170391
+Boma,DR Congo,162521
+Butembo,DR Congo,154621
+Gandajika,DR Congo,154425
+Kalemie,DR Congo,146974
+Goma,DR Congo,144124
+Kindu,DR Congo,135698
+Isiro,DR Congo,127076
+Bandundu,DR Congo,118211
+Gemena,DR Congo,117639
+Ilebo,DR Congo,107093
+Bunia,DR Congo,96764
+Bumba,DR Congo,95520
+Mbanza Ngungu,DR Congo,86356
+Kamina,DR Congo,73557
+Lisala,DR Congo,70087
+Lodja,DR Congo,68244
+Kipushi,DR Congo,62332
+Kabinda,DR Congo,59004
+Kasongo,DR Congo,55118
+Mweka,DR Congo,50675
+Gbadolite,DR Congo,50493
+Buta,DR Congo,50130
+Moanda,DR Congo,50000
+Bulungu,DR Congo,48344
+Basoko,DR Congo,43709
+Lubao,DR Congo,43068
+Lusambo,DR Congo,41416
+Nioki,DR Congo,40695
+Inongo,DR Congo,40113
+Tshela,DR Congo,38845
+Bukama,DR Congo,38770
+Mangai,DR Congo,37188
+Kabare,DR Congo,37034
+Kampene,DR Congo,37034
+Kambove,DR Congo,36702
+Yangambi,DR Congo,35531
+Luebo,DR Congo,35183
+Aketi,DR Congo,35161
+Mushie,DR Congo,33062
+Boende,DR Congo,32091
+Kongolo,DR Congo,31943
+Kabalo,DR Congo,29833
+Businga,DR Congo,28919
+Kasangulu,DR Congo,27961
+Bolobo,DR Congo,27862
+Libenge,DR Congo,27053
+Watsa,DR Congo,24516
+Demba,DR Congo,22263
+Kasongo Lunda,DR Congo,20060
+Bondo,DR Congo,17860
+Wamba,DR Congo,17373
+Sake,DR Congo,17151
+Lukolela,DR Congo,15000
+Bosobolo,DR Congo,14553
+Aappilattoq,Greenland,149
+Aasiaat,Greenland,3069
+Akunnaaq,Greenland,66
+Alluitsup Paa,Greenland,202
+Arsuk,Greenland,73
+Atammik,Greenland,196
+Attu,Greenland,203
+Ikamiut,Greenland,86
+Ikerasaarsuk,Greenland,90
+Ikerasak,Greenland,233
+Illoqqortoormiut,Greenland,345
+Illorsuit,Greenland,0
+Ilulissat,Greenland,4670
+Innaarsuit,Greenland,180
+Itilleq,Greenland,89
+Kangaamiut,Greenland,293
+Kangaatsiaq,Greenland,520
+Kangerlussuaq,Greenland,508
+Kangersuatsiaq,Greenland,130
+Kullorsuaq,Greenland,453
+Kulusuk,Greenland,241
+Kuummiut,Greenland,248
+Maniitsoq,Greenland,2534
+Nanortalik,Greenland,1185
+Narsaq,Greenland,1346
+Narsarsuaq,Greenland,123
+Niaqornaarsuk,Greenland,249
+Nuugaatsiaq,Greenland,0
+Nuuk,Greenland,18326
+Nuussuaq,Greenland,181
+Paamiut,Greenland,1308
+Pituffik,Greenland,62
+Qaanaaq,Greenland,646
+Qaarsut,Greenland,174
+Qaqortoq,Greenland,3050
+Qasigiannguit,Greenland,1081
+Qeqertaq,Greenland,114
+Qeqertarsuaq,Greenland,839
+Qeqertarsuatsiaat,Greenland,169
+Saattut,Greenland,226
+Saqqaq,Greenland,132
+Sarfannguit,Greenland,96
+Sermiligaaq,Greenland,209
+Sisimiut,Greenland,5582
+Tasiilaq,Greenland,1985
+Tasiusaq,Greenland,252
+Tiniteqilaaq,Greenland,96
+Ukkusissat,Greenland,154
+Upernavik,Greenland,1092
+Upernavik Kujalleq,Greenland,201
+Uummannaq,Greenland,1407
+Riyadh,Saudi Arabia,4205961
+Jeddah,Saudi Arabia,2867446
+Mecca,Saudi Arabia,1323624
+Medina,Saudi Arabia,1300000
+Sultanah,Saudi Arabia,946697
+Dammam,Saudi Arabia,768602
+Ta'if,Saudi Arabia,530848
+Tabuk,Saudi Arabia,455450
+Al Kharj,Saudi Arabia,425300
+Buraydah,Saudi Arabia,391336
+Khamis Mushait,Saudi Arabia,387553
+Al Hufuf,Saudi Arabia,293179
+Al Mubarraz,Saudi Arabia,290802
+Hafar Al Batin,Saudi Arabia,271642
+Ha'il,Saudi Arabia,267005
+Najran,Saudi Arabia,258573
+Al Jubayl,Saudi Arabia,237274
+Abha,Saudi Arabia,210886
+Yanbu,Saudi Arabia,200161
+Khobar,Saudi Arabia,165799
+Arar,Saudi Arabia,148540
+Sakakah,Saudi Arabia,128332
+Jizan,Saudi Arabia,105198
+Qurayyat,Saudi Arabia,102903
+Dhahran,Saudi Arabia,99540
+Al Qatif,Saudi Arabia,98259
+Al Bahah,Saudi Arabia,88419
+Tarut,Saudi Arabia,85371
+Qal`at Bishah,Saudi Arabia,81828
+Ar Rass,Saudi Arabia,81728
+Ash Shafa,Saudi Arabia,72190
+Sayhat,Saudi Arabia,66702
+Al Mithnab,Saudi Arabia,60870
+Al Khafji,Saudi Arabia,54857
+Ad Dawadimi,Saudi Arabia,54474
+Sabya,Saudi Arabia,54108
+Az Zulfi,Saudi Arabia,53144
+Abu `Arish,Saudi Arabia,49171
+Safwa,Saudi Arabia,45876
+Afif,Saudi Arabia,45525
+Rabigh,Saudi Arabia,41759
+Rahimah,Saudi Arabia,41188
+Turaif,Saudi Arabia,40819
+Tubarjal,Saudi Arabia,40019
+Ad Dilam,Saudi Arabia,35371
+Umm Lajj,Saudi Arabia,33874
+Al `Ula,Saudi Arabia,32413
+Abqaiq,Saudi Arabia,29474
+Badr Hunayn,Saudi Arabia,27257
+Samitah,Saudi Arabia,26945
+Al Wajh,Saudi Arabia,26636
+Al Bukayriyah,Saudi Arabia,25153
+An Nimas,Saudi Arabia,24153
+As Sulayyil,Saudi Arabia,24097
+Turabah,Saudi Arabia,23235
+Al Jumum,Saudi Arabia,22207
+Duba,Saudi Arabia,22000
+At Taraf,Saudi Arabia,21386
+Qaisumah,Saudi Arabia,20685
+Al Battaliyah,Saudi Arabia,16606
+Al Munayzilah,Saudi Arabia,16296
+Adh Dhibiyah,Saudi Arabia,15000
+Al Majaridah,Saudi Arabia,14830
+Tanumah,Saudi Arabia,13594
+Al Qurayn,Saudi Arabia,12013
+Umm As Sahik,Saudi Arabia,11813
+Sajir,Saudi Arabia,11717
+Al Awjam,Saudi Arabia,11460
+Farasan,Saudi Arabia,10527
+Al Mindak,Saudi Arabia,9218
+Al Artawiyah,Saudi Arabia,9152
+Al Jubayl,Saudi Arabia,9108
+Al Qarah,Saudi Arabia,9106
+Marat,Saudi Arabia,8885
+Al Jafr,Saudi Arabia,8715
+Suwayr,Saudi Arabia,8515
+Tumayr,Saudi Arabia,8246
+At Tubi,Saudi Arabia,7740
+Al Jaradiyah,Saudi Arabia,7396
+Al Muwayh,Saudi Arabia,7364
+As Saffaniyah,Saudi Arabia,7014
+Al Hada,Saudi Arabia,6885
+Al Markaz,Saudi Arabia,6464
+Misliyah,Saudi Arabia,6117
+Al Mutayrifi,Saudi Arabia,5962
+Mizhirah,Saudi Arabia,5529
+Ad Darb,Saudi Arabia,5378
+Julayjilah,Saudi Arabia,5359
+Mulayjah,Saudi Arabia,5247
+Al Fuwayliq,Saudi Arabia,5205
+Tabalah,Saudi Arabia,5151
+Mexico City,Mexico,12294193
+Iztapalapa,Mexico,1815786
+Ecatepec De Morelos,Mexico,1655015
+Guadalajara,Mexico,1495182
+Puebla,Mexico,1434062
+Juarez,Mexico,1321004
+Tijuana,Mexico,1300983
+Leon De Los Aldama,Mexico,1238962
+Gustavo Adolfo Madero,Mexico,1185772
+Zapopan,Mexico,1142483
+Monterrey,Mexico,1135512
+Nezahualcoyotl City,Mexico,1104585
+Chihuahua,Mexico,809232
+Naucalpan De Juarez,Mexico,792211
+Merida,Mexico,777615
+Alvaro Obregon,Mexico,726664
+San Luis Potosi,Mexico,722772
+Aguascalientes,Mexico,722250
+Hermosillo,Mexico,715061
+Saltillo,Mexico,709671
+Mexicali,Mexico,689775
+Culiacan,Mexico,675773
+Guadeloupe,Mexico,673616
+Acapulco De Juarez,Mexico,673479
+Tlalnepantla,Mexico,653410
+Cancun,Mexico,628306
+Santiago De Queretaro,Mexico,626495
+Coyoacan,Mexico,620416
+Santa Maria Chimalhuacan,Mexico,612383
+Keep,Mexico,608836
+Morelia,Mexico,597511
+Reynosa,Mexico,589466
+Tlaquepaque,Mexico,575942
+Tlalpan,Mexico,574577
+Tuxtla,Mexico,537102
+Cuauhtemoc,Mexico,531831
+Durango Victory,Mexico,518709
+Toluca,Mexico,489333
+City Lopez Mateos,Mexico,489160
+Cuautitlan Izcalli,Mexico,484573
+Apodaca City,Mexico,467157
+Heroic Matamoros,Mexico,449815
+San nicolas de los heros,Mexico,443273
+Venustiano Carranza,Mexico,430978
+Veracruz,Mexico,428323
+Xalapa De Enriquez,Mexico,424755
+Azcapotzalco,Mexico,414711
+Tonala,Mexico,408759
+Xochimilco,Mexico,407885
+Benito Juarez,Mexico,385439
+Iztacalco,Mexico,384326
+Mazatlan,Mexico,381583
+Irapuato,Mexico,380941
+Nuevo Laredo,Mexico,373725
+Miguel Hidalgo,Mexico,372889
+Xico,Mexico,356352
+Benito Juarez,Mexico,355017
+Beautiful villa,Mexico,353577
+General Escobedo City,Mexico,352444
+Celaya,Mexico,340387
+Cuernavaca,Mexico,338650
+Tepic,Mexico,332863
+Ixtapaluca,Mexico,322271
+Tampico,Mexico,309003
+Victoria City,Mexico,305155
+Tlahuac,Mexico,305076
+Obregon City,Mexico,298625
+Nicolas Romero,Mexico,281799
+Cove,Mexico,279765
+Coacalco,Mexico,277959
+St. Catarina,Mexico,268347
+Uruapan,Mexico,264439
+Gomez Palacio,Mexico,257352
+Los Mochis,Mexico,256613
+Pachuca De Soto,Mexico,256584
+Oaxaca,Mexico,255029
+Soledad De Graciano Sanchez,Mexico,255015
+Colonia Del Valle,Mexico,250000
+Tehuacan,Mexico,248716
+Waterhole,Mexico,242272
+Magdalena Contreras,Mexico,238431
+Coatzacoalcos,Mexico,235983
+Campeche,Mexico,220389
+Monclova,Mexico,215271
+Peace,Mexico,215178
+Nogales,Mexico,212533
+Good view,Mexico,206081
+Vallarta Port,Mexico,203342
+Tapachula,Mexico,202672
+Madero City,Mexico,197216
+Chilpancingo,Mexico,187251
+Poza Rica De Hidalgo,Mexico,185242
+Chicoloapan,Mexico,172919
+Carmen City,Mexico,169466
+Chalco,Mexico,168720
+Jiutepec,Mexico,162427
+Cuajimalpa De Morelos Delegation,Mexico,160491
+Salamanca,Mexico,160169
+San Luis Rio Colorado,Mexico,158089
+San Cristóbal de las Casas,Mexico,158027
+San Pablo De Las Salinas,Mexico,156191
+Cuautla,Mexico,154358
+City Benito Juarez,Mexico,151893
+Chetumal,Mexico,151243
+Piedras Negras,Mexico,150178
+Carmen beach,Mexico,149923
+Zamora,Mexico,141627
+Cordova,Mexico,140896
+San Juan Del Rio,Mexico,138878
+Colima,Mexico,137383
+Acuna City,Mexico,134233
+Manzanillo,Mexico,130035
+Zacatecas,Mexico,129011
+Huixquilucan,Mexico,124846
+Valles City,Mexico,124644
+Guadeloupe,Mexico,124623
+San Pedro Garza Garcia,Mexico,122627
+San Pedro Garza Garcia,Mexico,122009
+Fresnillo,Mexico,120944
+Orizaba,Mexico,120844
+Miramar,Mexico,118614
+Iguala De La Independencia,Mexico,118468
+Delicias City,Mexico,118071
+City Of Villa De Alvarez,Mexico,117600
+Cuauhtemoc,Mexico,114007
+Navojoa,Mexico,113836
+Heroic Guaymas,Mexico,113082
+Minatitlan,Mexico,112046
+Cuautitlan,Mexico,108449
+Texcoco De Mora,Mexico,105165
+Parral,Mexico,104836
+Tepexpan,Mexico,102667
+Tulancingo,Mexico,102406
+Tuxtepec,Mexico,101810
+Colonia Lindavista,Mexico,100000
+Apatzingan,Mexico,99010
+Lakes of Moreno,Mexico,98206
+Temixco,Mexico,97788
+Guzman City,Mexico,97750
+Comitan,Mexico,97537
+Rio Bravo City,Mexico,95647
+Garcia,Mexico,93641
+Tepatitlan De Morelos,Mexico,91959
+Cardenas,Mexico,91558
+Cholula,Mexico,87897
+Hacienda Santa Fe,Mexico,86935
+Atlixco,Mexico,86690
+Tecoman,Mexico,85689
+The Acaquilpan Kings,Mexico,85359
+City Mante,Mexico,84787
+Tuxpam By Rodriguez Cano,Mexico,84750
+Tlaxcala,Mexico,84670
+Heroic Zitacuaro,Mexico,84307
+Ocotlan,Mexico,83769
+The piety,Mexico,83323
+City Lerdo,Mexico,79669
+City Lazaro Cardenas,Mexico,79200
+Matehuala,Mexico,77328
+Agua Prieta,Mexico,77254
+Kanasin,Mexico,77240
+Cozumel,Mexico,77236
+Amozoc De Mota,Mexico,77106
+Salina cruz,Mexico,76596
+San Martin Texmelucan De Labastida,Mexico,75518
+Juchitan De Zaragoza,Mexico,74825
+Silao,Mexico,74242
+Valley Fountains,Mexico,74087
+Guanajuato,Mexico,72237
+El Pueblito,Mexico,71254
+Guasave,Mexico,71196
+San Francisco Del Rincon,Mexico,71139
+San Miguel de Allende,Mexico,69811
+San Jose del Cabo,Mexico,69788
+Border,Mexico,69462
+Cabo San Lucas,Mexico,68463
+Cadereyta Jimenez,Mexico,68111
+Santiago Valley,Mexico,68058
+Cadereyta,Mexico,67994
+San Mateo Atenco,Mexico,67890
+Ixtapa Zihuatanejo,Mexico,67408
+Santa Cruz Xoxocotlan,Mexico,67086
+Ramos Arizpe,Mexico,66554
+Tultepec,Mexico,65338
+Rosarito,Mexico,65278
+Tecate,Mexico,64764
+Sahuayo De Morelos,Mexico,64431
+Guamuchil,Mexico,63743
+Linares,Mexico,63104
+Tesistan,Mexico,62397
+San Andres Tuxtla,Mexico,61769
+Cortazar,Mexico,61658
+San Salvador Tizatlalli,Mexico,61367
+Hidalgo City,Mexico,60542
+Martinez De La Torre,Mexico,60074
+Villa Vicente Guerrero,Mexico,60001
+Colonia Nativitas,Mexico,60000
+Heroic Caborca,Mexico,59922
+Altamira,Mexico,59536
+Dolores Hidalgo Birthplace Of National Independence,Mexico,59240
+Teziutlan,Mexico,58699
+Acambaro,Mexico,57972
+Jacona De Plancarte,Mexico,56934
+Puerto Penasco,Mexico,56756
+Huauchinango,Mexico,56206
+New Big Houses,Mexico,55553
+Patzcuaro,Mexico,55298
+Sabinas,Mexico,54905
+San Bernardino Tlaxcalancingo,Mexico,54517
+Zinacantepec,Mexico,54220
+Jardines De La Silla (Gardens),Mexico,53742
+Santiago Teyahualco,Mexico,53684
+Coatepec,Mexico,53621
+Papantla De Olarte,Mexico,53546
+Green River,Mexico,53128
+City Of Huajuapan De Leon,Mexico,53043
+Zacapu,Mexico,52806
+Matamoros,Mexico,52233
+Taxco De Alarcon,Mexico,52217
+Arandas,Mexico,52175
+Huamantla,Mexico,51996
+Uriangato,Mexico,51382
+Teoloyucan,Mexico,51255
+Acayucan,Mexico,50934
+Zumpango,Mexico,50742
+Zacapu,Mexico,50112
+Polanco,Mexico,50000
+San Luis De La Paz,Mexico,49914
+Apizaco,Mexico,49506
+Emiliano Zapata,Mexico,49193
+Valladolid,Mexico,48973
+beautiful valley,Mexico,48918
+Saint Peter,Mexico,48746
+San Juan de Los Lagos,Mexico,48684
+Colonia Del Sol,Mexico,48032
+Santa Ana Chiautempan,Mexico,48030
+White land,Mexico,47824
+Tlapa De Comonfort,Mexico,46975
+Tizimin,Mexico,46971
+Autlan De Navarro,Mexico,45382
+Mazatlan,Mexico,45108
+Chiapa De Corzo,Mexico,45077
+Saint Bonaventure,Mexico,44761
+Purisima De Bustos,Mexico,43512
+Tizayuca,Mexico,43250
+Moroleon,Mexico,43200
+Jerez De Garcia Salinas,Mexico,43064
+Jesus Maria,Mexico,43012
+Palenque,Mexico,42947
+Izucar De Matamoros,Mexico,42936
+Yautepec,Mexico,42731
+The Choapas,Mexico,42693
+Splice,Mexico,42516
+Cintalapa De Figueroa,Mexico,42467
+Juventino Rosas,Mexico,42264
+Santo Domingo Tehuantepec,Mexico,42082
+Ocosingo,Mexico,41878
+Comalcalco,Mexico,41458
+Saint Peter,Mexico,41165
+Constitution City,Mexico,40935
+Panuco,Mexico,40754
+White River,Mexico,40611
+Camargo,Mexico,40221
+Penjamo,Mexico,40070
+Huejutla De Reyes,Mexico,40015
+San Andres Cholula,Mexico,39964
+Xicotepec De Juarez,Mexico,39803
+Uman,Mexico,39611
+The Kings Of Salgado,Mexico,39209
+Ocozocoautla De Espinosa,Mexico,39180
+hope,Mexico,38969
+Melchor Ocampo,Mexico,38599
+Zacatelco,Mexico,38466
+New Rosita,Mexico,38158
+Tepotzotlan,Mexico,38119
+Macaws,Mexico,37980
+But,Mexico,37516
+Progress,Mexico,37369
+Villaflores,Mexico,37237
+Salvatierra,Mexico,37203
+Santa Teresa,Mexico,36845
+Santiago,Mexico,36840
+San Jeronimo Four Winds,Mexico,36778
+Ameca,Mexico,36156
+Sweet water,Mexico,36079
+Xalisco,Mexico,35702
+Coyotepec,Mexico,35677
+Mendoza City,Mexico,35641
+Felling,Mexico,35396
+San Martin Azcatepec,Mexico,35390
+Tlapacoyan,Mexico,35338
+Tonala,Mexico,35322
+The boat,Mexico,35219
+San Pablo Autopan,Mexico,35141
+Melchor Muzquiz City,Mexico,35060
+Ixmiquilpan,Mexico,34814
+Real Palmas subdivision,Mexico,34636
+San Miguel Topilejo,Mexico,34603
+Maravatio De Ocampo,Mexico,34381
+Jose Mariano Jimenez,Mexico,34281
+Porticos De San Antonio,Mexico,34234
+Tepeji Del Rio De Ocampo,Mexico,34151
+Coatzintla,Mexico,34036
+Parras De La Fuente,Mexico,33817
+San Isidro,Mexico,33737
+Zacatlan,Mexico,33736
+Calpulalpan,Mexico,33263
+Sabinas Hidalgo City,Mexico,33068
+Rio Grande,Mexico,32944
+Ticul,Mexico,32796
+Jaltipan De Morelos,Mexico,32778
+Victor rosales,Mexico,32721
+Tenosique,Mexico,32579
+New Italy De Ruiz,Mexico,32467
+Zapotlanejo,Mexico,32376
+Macuspana,Mexico,32225
+La Soledad Family Center,Mexico,32159
+Huixtla,Mexico,32033
+Fernandez City,Mexico,32006
+Amecameca,Mexico,31687
+Cananea,Mexico,31560
+Loma Bonita,Mexico,31485
+Huatusco,Mexico,31305
+San Jose Guadalupe Otzacatipan,Mexico,31299
+Chilapa De Alvarez,Mexico,31157
+Jimenez,Mexico,31054
+Champoton,Mexico,30881
+Miguel Aleman (The Twelve),Mexico,30869
+Escuinapa,Mexico,30790
+Tantoyuca,Mexico,30587
+Cosamaloapan,Mexico,30577
+Puruandiro,Mexico,30571
+Huatabampo,Mexico,30475
+Nicolas R Casillas,Mexico,30424
+Tlajomulco De Zuniga,Mexico,30273
+Tequisquiapan,Mexico,29799
+San Miguel Ajusco,Mexico,29781
+Coyula,Mexico,29674
+National Pinotepa,Mexico,29604
+Escarcega,Mexico,29477
+Ivory,Mexico,29375
+Saint Elizabeth,Mexico,29311
+Actopan,Mexico,29223
+Tequila,Mexico,29203
+San Fernando,Mexico,29171
+Navolato,Mexico,29153
+Ixtapa,Mexico,29036
+Tecamachalco,Mexico,28679
+Arteaga Pavilion,Mexico,28633
+Tula De Allende,Mexico,28577
+Sahagun City,Mexico,28556
+San Felipe,Mexico,28452
+Metepec,Mexico,28205
+Saint Sebastian the Great,Mexico,28138
+New Mexico,Mexico,28135
+Berriozabal,Mexico,28128
+Ajalpan,Mexico,28031
+Tultitlan By Mariano Escobedo,Mexico,28017
+Apaseo El Alto,Mexico,27991
+Rincon De Romos,Mexico,27988
+San Francisco Acuautla,Mexico,27960
+Sanctorum,Mexico,27936
+Catemaco,Mexico,27615
+Contla,Mexico,27610
+Leyva Solano,Mexico,27536
+Tuxpan,Mexico,27523
+Tepeaca,Mexico,27449
+Abasolo,Mexico,27389
+Huimanguillo,Mexico,27344
+Moyotzingo,Mexico,27137
+Villagran,Mexico,27079
+Atotonilco El Alto,Mexico,26874
+Rancho La Gloria,Mexico,26860
+Misantla,Mexico,26827
+Sayula,Mexico,26789
+Apan,Mexico,26642
+Francisco I. Madero,Mexico,26632
+Magdalena De Kino,Mexico,26605
+Teapa,Mexico,26548
+Las Pintitas,Mexico,26500
+Rio De Teapa,Mexico,26500
+Magdalena Atlicpac,Mexico,26429
+Island,Mexico,26287
+San Jeronimo Chicahualco,Mexico,26281
+Reform,Mexico,26257
+Ixtaczoquitlan,Mexico,26187
+Apaseo The Great,Mexico,26121
+Santiago Papasquiaro,Mexico,26121
+Allende City,Mexico,26065
+Ocoyoacac,Mexico,26015
+hidden port,Mexico,25902
+Acatzingo,Mexico,25811
+Tecax,Mexico,25751
+Felipe Carrillo Puerto,Mexico,25744
+Valente Diaz,Mexico,25700
+Huejotzingo,Mexico,25684
+Tacambaro De Codallos,Mexico,25665
+Tejupilco De Hidalgo,Mexico,25631
+Bravo Valley,Mexico,25554
+Mixquiahuala De Juarez,Mexico,25510
+Ixtepec,Mexico,25381
+Jakarta,Indonesia,8540121
+Surabaya,Indonesia,2374658
+Medan,Indonesia,1750971
+Bandung,Indonesia,1699719
+Bekasi,Indonesia,1520119
+Palembang,Indonesia,1441500
+Tangerang,Indonesia,1372124
+Makassar,Indonesia,1321717
+South Tangerang,Indonesia,1303569
+Semarang,Indonesia,1288084
+Depok,Indonesia,1198129
+Batam,Indonesia,1164352
+Padang,Indonesia,840352
+Denpasar,Indonesia,834881
+Bandar Lampung,Indonesia,800348
+Bogor,Indonesia,800000
+Malang,Indonesia,746716
+Pekanbaru,Indonesia,703956
+City Of Balikpapan,Indonesia,700000
+Yogyakarta,Indonesia,636660
+Situbondo,Indonesia,600000
+Banjarmasin,Indonesia,572837
+Surakarta,Indonesia,555308
+Cimahi,Indonesia,493698
+Pontianak,Indonesia,455173
+Manado,Indonesia,451893
+Balikpapan,Indonesia,433866
+Jambi City,Indonesia,420323
+Ambon,Indonesia,355596
+Samarinda,Indonesia,355160
+Mataram,Indonesia,318674
+Percut,Indonesia,311063
+Bengkulu,Indonesia,309712
+Jember,Indonesia,298585
+Palu,Indonesia,282431
+Kupang,Indonesia,282396
+Sukabumi,Indonesia,276414
+Tasikmalaya,Indonesia,271143
+Pekalongan,Indonesia,257945
+Cirebon,Indonesia,254298
+Banda Aceh,Indonesia,250757
+Tegal,Indonesia,237084
+Kediri,Indonesia,235143
+Binjai,Indonesia,228763
+Purwokerto,Indonesia,217222
+Purwakarta,Indonesia,215803
+Loa Janan,Indonesia,212816
+Pematangsiantar,Indonesia,209614
+Ciputat,Indonesia,207858
+Ciampea,Indonesia,207212
+Cileungsir,Indonesia,202190
+Rengasdengklok,Indonesia,201463
+Sumedang,Indonesia,200000
+Kendari,Indonesia,195006
+Parung,Indonesia,193898
+Tanjung Pinang,Indonesia,192493
+Curug,Indonesia,191406
+Labuan Bajo,Indonesia,188724
+Cibinong,Indonesia,188663
+Madiun,Indonesia,186099
+Pemalang,Indonesia,184149
+Lembang,Indonesia,183130
+Probolinggo,Indonesia,181656
+Pamulang,Indonesia,174557
+Cikupa,Indonesia,174041
+Salatiga,Indonesia,172645
+Plumbon,Indonesia,167105
+Banjaran,Indonesia,164952
+Serang,Indonesia,164767
+Lawang,Indonesia,159380
+Pasuruan,Indonesia,158600
+Sunggal,Indonesia,157914
+Perbaungan,Indonesia,157174
+Pasarkemis,Indonesia,154234
+Soreang,Indonesia,150932
+Purwodadi,Indonesia,150206
+Metro,Indonesia,149526
+Lubuklinggau,Indonesia,148243
+Palangkaraya,Indonesia,148139
+Astanajapura,Indonesia,148047
+Cikampek,Indonesia,145620
+Gorontalo,Indonesia,144195
+Dumai,Indonesia,143760
+Tanjungbalai,Indonesia,142506
+Parepare,Indonesia,140000
+Sidoarjo,Indonesia,139189
+Weru,Indonesia,139004
+Jayapura,Indonesia,134895
+Baturaja,Indonesia,134759
+Adiwerna,Indonesia,134188
+Singaraja,Indonesia,133784
+Blitar,Indonesia,132416
+Martapura,Indonesia,131449
+Kisaran,Indonesia,129911
+Palopo,Indonesia,129273
+Teluknaga,Indonesia,128275
+Ungaran,Indonesia,127812
+Rangkasbitung,Indonesia,126910
+Klaten,Indonesia,126831
+Jombang,Indonesia,126465
+Paseh,Indonesia,126181
+Pangkalpinang,Indonesia,125933
+Sorong,Indonesia,125535
+Padalarang,Indonesia,124946
+Ciamis,Indonesia,123637
+Lumajang,Indonesia,123626
+Indramayu,Indonesia,123263
+Pati,Indonesia,122785
+Payakumbuh,Indonesia,121572
+Bangil,Indonesia,120000
+Sepatan,Indonesia,118439
+Tebingtinggi,Indonesia,117530
+Kedungwuni,Indonesia,117249
+Batang,Indonesia,115537
+Pamanukan,Indonesia,114290
+Sawangan,Indonesia,114069
+Mojokerto,Indonesia,112557
+Cileunyi,Indonesia,111476
+Magelang,Indonesia,111461
+Kresek,Indonesia,110182
+Citeureup,Indonesia,110155
+Banyuwangi,Indonesia,108166
+Cikarang,Indonesia,106479
+Arjawinangun,Indonesia,105845
+Depok,Indonesia,104527
+Prabumulih,Indonesia,103470
+Rantauprapat,Indonesia,103009
+Belawan,Indonesia,102707
+Singkawang,Indonesia,101838
+Ternate,Indonesia,101731
+Bontang,Indonesia,101691
+Grogol,Indonesia,100613
+Padangsidempuan,Indonesia,100561
+Sumedang Utara,Indonesia,100000
+Bukittinggi,Indonesia,98746
+Dukuhturi,Indonesia,98074
+Tarakan,Indonesia,97478
+Sungai Penuh,Indonesia,95913
+Sumber,Indonesia,93420
+Wonosobo,Indonesia,92990
+Palimanan,Indonesia,92600
+Pamekasan,Indonesia,92447
+Pandeglang,Indonesia,92316
+Pariaman,Indonesia,92183
+Kudus,Indonesia,92156
+Caringin,Indonesia,91845
+Banjar,Indonesia,89040
+Lhokseumawe,Indonesia,88974
+Cicurug,Indonesia,88965
+Kartasura,Indonesia,88927
+Klangenan,Indonesia,88378
+Majalengka,Indonesia,87732
+Bojonegoro,Indonesia,86568
+Kasihan,Indonesia,86234
+Sumenep,Indonesia,84656
+Ambarawa,Indonesia,84379
+Margahayukencana,Indonesia,83119
+Galesong,Indonesia,83050
+Watampone,Indonesia,81629
+Kedungwaru,Indonesia,80257
+Serpong,Indonesia,80193
+Sibolga,Indonesia,79714
+Genteng,Indonesia,79652
+Gedangan,Indonesia,79230
+Ponorogo,Indonesia,79026
+Ciranjang Hilir,Indonesia,77758
+Ende,Indonesia,77205
+Tuban,Indonesia,76242
+Kebomas,Indonesia,75982
+Karangsembung,Indonesia,75856
+Tarub,Indonesia,75739
+Batu,Indonesia,75631
+Sungailiat,Indonesia,74719
+Gresik,Indonesia,73629
+Sewon,Indonesia,73585
+Jatibarang,Indonesia,73010
+Kuningan,Indonesia,72085
+Sragen,Indonesia,71522
+Pagar Alam,Indonesia,70386
+Mertoyudan,Indonesia,69871
+Bondowoso,Indonesia,69783
+Nganjuk,Indonesia,69011
+Melati,Indonesia,67090
+Bima,Indonesia,66970
+Sokaraja,Indonesia,66482
+Gamping Lor,Indonesia,66110
+Sampit,Indonesia,66053
+Lahat,Indonesia,65906
+Tulungagung,Indonesia,65262
+Muncar,Indonesia,64537
+Tulangan Utara,Indonesia,63889
+Godean,Indonesia,63164
+Tanjung Pandan,Indonesia,62374
+Abepura,Indonesia,62248
+Bangkalan,Indonesia,62178
+Slawi,Indonesia,61206
+Pecangaan,Indonesia,61046
+Kertosono,Indonesia,60782
+Barabai,Indonesia,60192
+Boyolali,Indonesia,59851
+Sengkang,Indonesia,59523
+Lamongan,Indonesia,59224
+Baki,Indonesia,58909
+Bantul,Indonesia,58653
+Weleri,Indonesia,58448
+Polewali,Indonesia,58190
+Jatiwangi,Indonesia,57973
+Baekrajan,Indonesia,57920
+Singosari,Indonesia,57793
+Kabanjahe,Indonesia,57159
+Purbalingga,Indonesia,56903
+Pare,Indonesia,56699
+Balaipungut,Indonesia,56452
+Mendaha,Indonesia,56268
+Sleman,Indonesia,56215
+Pandak,Indonesia,56043
+Amuntai,Indonesia,55560
+Besuki,Indonesia,55465
+Wedi,Indonesia,55300
+Cepu,Indonesia,55055
+Langsa,Indonesia,54465
+Sampang,Indonesia,53269
+Manokwari,Indonesia,53190
+Tanjungagung,Indonesia,53117
+Sumbawa Besar,Indonesia,52654
+Terbanggi Besar,Indonesia,52566
+Kepanjen,Indonesia,51919
+Blora,Indonesia,51811
+Comal,Indonesia,51092
+Karanganom,Indonesia,50670
+Kawalu,Indonesia,50541
+Jatiroto,Indonesia,50059
+Labuhan Deli,Indonesia,49668
+Gampengrejo,Indonesia,49118
+Dompu,Indonesia,49000
+Gatak,Indonesia,48959
+Singaparna,Indonesia,48882
+Waingapu,Indonesia,48828
+Banyumas,Indonesia,48378
+Solok,Indonesia,48372
+Pameungpeuk,Indonesia,48294
+Buduran,Indonesia,48152
+Luwuk,Indonesia,47778
+Sungai Raya,Indonesia,47735
+Amahai,Indonesia,47653
+Balung,Indonesia,47631
+Maumere,Indonesia,47598
+Poso,Indonesia,47110
+Singkil,Indonesia,46800
+Curup,Indonesia,46245
+Candi Prambanan,Indonesia,44925
+Muntilan,Indonesia,44859
+Berastagi,Indonesia,44765
+Bambanglipuro,Indonesia,44713
+Ketanggungan,Indonesia,44288
+Rembangan,Indonesia,44030
+Nabire,Indonesia,43898
+Gebog,Indonesia,43756
+Kencong,Indonesia,43046
+Pelabuhanratu,Indonesia,43001
+Panji,Indonesia,42789
+Katabu,Indonesia,42750
+Baturaden,Indonesia,42394
+Kotabumi,Indonesia,42366
+Diwek,Indonesia,41719
+Kijang,Indonesia,41344
+Sinjai,Indonesia,40797
+Rantepao,Indonesia,40438
+Reuleuet,Indonesia,40393
+Juwana,Indonesia,40177
+Pekan Bahapal,Indonesia,40000
+Rajapolah,Indonesia,39840
+Tual,Indonesia,39502
+Wiradesa,Indonesia,39407
+Majenang,Indonesia,38897
+Buaran,Indonesia,38770
+Krian,Indonesia,38603
+Wonopringgo,Indonesia,38429
+Pangkalanbuun,Indonesia,38057
+Majene,Indonesia,37715
+Jekulo,Indonesia,37521
+Banjar,Indonesia,37263
+Simpang,Indonesia,36652
+Srono,Indonesia,36260
+Sofifi,Indonesia,36197
+Atambua,Indonesia,35793
+Kualakapuas,Indonesia,35632
+Wangon,Indonesia,35530
+Sumberpucung,Indonesia,35285
+Praya,Indonesia,35183
+Meulaboh,Indonesia,35062
+Ruteng,Indonesia,34569
+Manggar,Indonesia,34520
+Pandaan,Indonesia,34184
+Pemangkat,Indonesia,34029
+Kuala Tungkal,Indonesia,33683
+Tabanan,Indonesia,33667
+Lebaksiu,Indonesia,33606
+Labuan,Indonesia,33576
+Mlonggo,Indonesia,33542
+Tondano,Indonesia,33317
+Negara,Indonesia,33191
+Tanggulangin,Indonesia,32866
+Jaten,Indonesia,32378
+Boyolangu,Indonesia,32287
+Gombong,Indonesia,31965
+Amlapura City,Indonesia,31869
+Amlapura,Indonesia,31869
+Bandar,Indonesia,31442
+Kutoarjo,Indonesia,31352
+Karangampel,Indonesia,31234
+Panarukan,Indonesia,30749
+Sidareja,Indonesia,30313
+Pakisaji,Indonesia,30213
+Selogiri,Indonesia,30180
+Kuta,Indonesia,30012
+Maros,Indonesia,30000
+Srandakan,Indonesia,29529
+Kefamenanu,Indonesia,29490
+Singojuruh,Indonesia,29418
+Wongsorejo,Indonesia,29193
+Trenggalek,Indonesia,29083
+Lasem,Indonesia,28948
+Ceper,Indonesia,28646
+Randudongkal,Indonesia,28532
+Balapulang,Indonesia,28483
+Ubud,Indonesia,28373
+Kraksaan,Indonesia,28248
+Jogonalan,Indonesia,28114
+Mranggen,Indonesia,28026
+Deli Tua,Indonesia,27940
+Klungkung,Indonesia,27836
+Margasari,Indonesia,27814
+Sijunjung,Indonesia,27786
+Soe,Indonesia,27717
+Tomohon,Indonesia,27624
+Bulakamba,Indonesia,27367
+Demak,Indonesia,27251
+Paciran,Indonesia,27072
+Babat,Indonesia,27038
+Stabat,Indonesia,26862
+Driyorejo,Indonesia,26827
+Muntok,Indonesia,26709
+Tayu,Indonesia,26413
+Ngunut,Indonesia,26297
+Colomadu,Indonesia,26274
+Wanaraja,Indonesia,26240
+Welahan,Indonesia,26163
+Bireun,Indonesia,25793
+Pangkalan Brandan,Indonesia,25542
+Soko,Indonesia,25494
+Teluk Nibung,Indonesia,25146
+Tanjungtiram,Indonesia,25118
+Seririt,Indonesia,25000
+Sabang,Indonesia,24519
+Delanggu,Indonesia,24440
+Prigen,Indonesia,24164
+Pundong,Indonesia,24081
+Kalianget,Indonesia,23897
+Ngemplak,Indonesia,23750
+Trucuk,Indonesia,23584
+Mojoagung,Indonesia,23534
+Kroya,Indonesia,23255
+Dampit,Indonesia,23094
+Ngoro,Indonesia,22871
+Gambiran Satu,Indonesia,22525
+Kamal,Indonesia,22515
+Gongdanglegi Kulon,Indonesia,22468
+Ngawi,Indonesia,22412
+Kebonarun,Indonesia,21745
+Manismata,Indonesia,18888
+Sigli,Indonesia,17504
+Tongging,Indonesia,16000
+Mamuju,Indonesia,15000
+Sinabang,Indonesia,15000
+Legian,Indonesia,10000
+Lembar,Indonesia,10000
+Labuan Lombok,Indonesia,10000
+Tobelo,Indonesia,10000
+Parapat,Indonesia,10000
+Tomok Bolon,Indonesia,10000
+Laikit,Indonesia,8000
+Bejubang Dua,Indonesia,7957
+Munduk,Indonesia,6200

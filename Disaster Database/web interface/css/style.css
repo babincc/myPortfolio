@@ -1,0 +1,166 @@
+p {
+	margin-bottom:24px;
+}
+
+* {
+	box-sizing:border-box;
+}
+
+body {
+	font:1em/1.5 sans-serif;
+	color:#111;
+	margin:0;
+	padding-top:250px;
+	background-color:#ff7000;
+}
+
+header {
+	height:300px;
+	padding-top:50px;
+	z-index:-11;
+	text-align:center;
+	background:#ff7000;
+}
+
+.main-nav,
+.main {
+	position:relative; 
+}
+
+.main-nav {
+	background:#fff;
+	height:80px;
+	z-index:150;
+	margin-bottom:-80px;
+	box-shadow:0 2px 3px rgba(0,0,0,.4);
+}
+
+#NavBG{
+	float:right;	
+}
+
+header,
+.main-nav-scrolled {
+	position:fixed;
+	width:100%;
+	top:0;
+}
+
+.tblHead-scrolled {
+	position:fixed;
+	top:80px;
+}
+
+#logo{
+	margin-top:-30px;
+	width:200px;
+}
+
+active{
+	border-top:3px solid #79081c;
+	padding-top:3px;
+}
+
+.main {
+	background:#ff9e01;
+	padding:110px 50px 50px;
+	width:100%;
+	overflow:hidden;
+}
+
+.main-nav a:hover{
+	color:#79081c;
+	border-top:3px solid #79081c;
+	padding-top:1px;
+}
+
+.main-nav{
+	text-align:center;
+}
+
+.main-nav  a {
+    font-size:.9em; 
+    text-decoration:none;
+    font-weight:bold;
+    text-transform:uppercase;
+    color:#444135;
+    display:inline-block;
+    margin:24px 12px;
+	padding-top:5px;
+}
+
+#cmd {
+	clear:both;
+	width:100%;
+	text-align:center;
+}
+
+#cmd textarea {
+	width:100%;
+	min-height:200px;
+	max-height:1000px;
+	height:200px;
+	resize:vertical;
+}
+
+#cmd #pin::-webkit-outer-spin-button,
+#cmd #pin::-webkit-inner-spin-button {
+	-webkit-appearance: none;
+	margin: 0;
+}
+#cmd #pin[type=number] {
+	-moz-appearance: textfield;
+}
+
+.btn {
+	background:linear-gradient(to bottom, #de97a4 5%, #79081d 100%);
+	background-color:#de97a4;
+	border-radius:6px;
+	border:none;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:Arial;
+	font-size:15px;
+	font-weight:bold;
+	padding:7px 26px;
+	text-decoration:none;
+	margin:5px auto;
+}
+
+.btn:hover {
+	background:linear-gradient(to bottom, #79081d 5%, #de97a4 100%);
+	background-color:#79081d;
+}
+
+.btn:active {
+	position:relative;
+	top:1px;
+}
+
+.btn:focus {
+	outline:0;
+}
+
+p.note {
+	width:50%;
+	margin:5px auto;
+	font-style: italic;
+	color:#777;
+	opacity: 0.35;
+}
+
+a:hover, a:active {
+	cursor:pointer;
+}
+
+footer{
+	background-color:#ffbf58;
+	text-align:center;
+	font-size:small;
+	color:#777;
+	line-height:30px;
+}
+
+footer img{
+	width:8px;
+}

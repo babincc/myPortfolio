@@ -1,0 +1,501 @@
+ID,Vehicle Type,Passengers (excluding driver),Killed,Permanent Injury,Less Severe Injury,Date - Time,Location,Weather Conditions,Cause
+VC-4000000,Station Wagon,0,0,0,0,"Sep. 2, 1985 - 03:54:40","23.674072, 74.293612",cloudy,Unforeseeable accident
+VC-4000001,Station Wagon,4,1,0,1,"May 26, 1960 - 17:50:08","-41.200971, -62.864657",clear,Unforeseeable accident
+VC-4000002,Minivan,0,0,0,0,"Jun. 13, 1985 - 12:08:53","33.024531, 100.866561",stormy,Humnan negligence
+VC-4000003,Van,4,0,0,0,"Apr. 7, 1953 - 20:16:39","34.612721, 118.069851",clear,Unforeseeable accident
+VC-4000004,Station Wagon,2,0,0,1,"Apr. 11, 2015 - 16:55:53","19.862299, 4.695649",clear,Humnan negligence
+VC-4000005,Pickup Truck,2,0,1,1,"Feb. 13, 1958 - 11:07:01","-0.608594, 118.414339",clear,Mechanical failure
+VC-4000006,Minivan,2,0,0,0,"Dec. 27, 2012 - 07:47:42","-30.683112, 136.282298",foggy,Humnan negligence
+VC-4000007,Hatchback,0,0,0,0,"Feb. 24, 1985 - 17:21:38","28.304972, 81.900727",rainy,Humnan negligence
+VC-4000008,RV,0,0,0,1,"Apr. 30, 1954 - 09:27:00","25.272375, 78.910138",cloudy,Humnan negligence
+VC-4000009,Hatchback,2,2,1,0,"Dec. 19, 1962 - 21:27:15","-22.112634, -69.069541",cloudy,Mechanical failure
+VC-4000010,Station Wagon,2,0,0,0,"Dec. 2, 1997 - 12:18:50","18.224796, 53.432737",cloudy,Mechanical failure
+VC-4000011,Minivan,4,1,1,1,"Nov. 11, 1953 - 04:01:26","-4.122892, 12.868825",cloudy,Unforeseeable accident
+VC-4000012,Sedan,2,1,1,0,"Aug. 19, 2007 - 10:55:39","-33.345078, -68.69895",foggy,Unforeseeable accident
+VC-4000013,RV,0,0,0,0,"Jun. 16, 1964 - 21:19:57","-1.111267, -51.560677",stormy,Mechanical failure
+VC-4000014,RV,6,0,0,1,"Jul. 6, 1979 - 12:17:39","54.147879, 56.414851",clear,Mechanical failure
+VC-4000015,18-Wheeler,0,0,0,0,"Aug. 3, 1978 - 15:53:21","-9.972119, 102.823331",stormy,Humnan negligence
+VC-4000016,Micro Car,1,0,0,0,"Mar. 20, 2016 - 10:22:52","-31.015974, -64.692888",stormy,Humnan negligence
+VC-4000017,Pickup Truck,2,0,0,0,"Apr. 6, 2010 - 10:05:17","73.441957, 134.744928",clear,Mechanical failure
+VC-4000018,Motorcycle,0,0,1,0,"Aug. 31, 2001 - 01:43:22","-38.664845, 133.480395",clear,Unforeseeable accident
+VC-4000019,Convertible,1,0,0,0,"Sep. 25, 1977 - 18:29:01","38.854358, -75.320301",foggy,Humnan negligence
+VC-4000020,Convertible,0,0,0,0,"Jul. 4, 1975 - 06:15:20","-10.453512, 22.88529",rainy,Mechanical failure
+VC-4000021,RV,6,1,1,1,"Mar. 22, 1970 - 13:05:37","-30.765856, -60.724985",foggy,Mechanical failure
+VC-4000022,Micro Car,1,0,0,0,"Jan. 14, 1982 - 23:22:28","77.205889, -50.689363",stormy,Humnan negligence
+VC-4000023,Micro Car,0,0,0,0,"Jun. 23, 1984 - 20:31:37","43.304218, 75.939937",foggy,Humnan negligence
+VC-4000024,18-Wheeler,0,0,0,0,"Feb. 21, 2001 - 04:10:08","48.419139, -97.793175",cloudy,Mechanical failure
+VC-4000025,Motorcycle,0,0,0,0,"Dec. 21, 1991 - 09:32:35","19.576678, -6.889749",clear,Mechanical failure
+VC-4000026,Minivan,2,0,0,1,"Jul. 13, 1994 - 18:32:56","25.373074, 7.088922",foggy,Mechanical failure
+VC-4000027,Hatchback,3,0,0,0,"Mar. 6, 2019 - 04:14:48","-12.134786, 15.687317",stormy,Mechanical failure
+VC-4000028,SUV,5,0,0,0,"Sep. 7, 2006 - 09:35:12","28.472693, 6.592556",stormy,Humnan negligence
+VC-4000029,Motorcycle,1,0,0,0,"Jan. 1, 1957 - 10:07:54","61.577407, 176.75292",rainy,Mechanical failure
+VC-4000030,Motorcycle,0,0,0,0,"Oct. 5, 2005 - 20:24:32","-37.173584, 135.871983",clear,Mechanical failure
+VC-4000031,Supercar,0,0,0,0,"Jun. 7, 1957 - 23:03:18","21.838498, 46.217006",clear,Mechanical failure
+VC-4000032,Minivan,3,0,0,0,"Apr. 4, 1987 - 20:59:15","50.736532, -127.655991",clear,Mechanical failure
+VC-4000033,School Bus,35,22,6,8,"May 10, 1950 - 11:16:42","-26.211517, -68.855238",clear,Mechanical failure
+VC-4000034,Convertible,1,0,0,1,"Oct. 4, 1992 - 01:44:38","-2.353405, 112.154567",stormy,Unforeseeable accident
+VC-4000035,SUV,2,1,1,1,"Dec. 9, 1960 - 23:59:51","24.71661, 7.630865",foggy,Humnan negligence
+VC-4000036,Station Wagon,2,0,0,0,"Jun. 8, 1994 - 03:53:03","25.40762, 49.797292",foggy,Mechanical failure
+VC-4000037,Hatchback,1,0,0,1,"Apr. 12, 2011 - 17:23:30","-0.735768, -39.01809",stormy,Humnan negligence
+VC-4000038,Supercar,0,0,0,0,"Jun. 22, 1971 - 22:14:06","17.024861, -100.340319",clear,Mechanical failure
+VC-4000039,Station Wagon,4,0,0,0,"Sep. 2, 1988 - 22:29:34","-21.696421, 124.597888",foggy,Mechanical failure
+VC-4000040,SUV,4,2,1,1,"Sep. 21, 1954 - 15:36:49","30.112684, -115.173081",stormy,Unforeseeable accident
+VC-4000041,Hatchback,1,0,0,0,"Jul. 18, 1995 - 04:51:42","-20.040564, -54.476216",clear,Humnan negligence
+VC-4000042,Minivan,0,0,0,0,"Apr. 7, 1972 - 04:59:27","23.435416, 110.03301",rainy,Mechanical failure
+VC-4000043,Coupe,1,0,0,0,"Aug. 16, 1953 - 08:04:40","16.906054, 82.948778",rainy,Unforeseeable accident
+VC-4000044,RV,1,0,0,0,"Apr. 23, 1980 - 05:33:26","24.832658, -113.396091",rainy,Mechanical failure
+VC-4000045,Motorcycle,1,0,0,0,"Nov. 1, 1975 - 02:40:25","67.090221, -74.041745",clear,Unforeseeable accident
+VC-4000046,18-Wheeler,1,1,0,0,"Jul. 29, 2009 - 02:23:45","-5.576979, -55.172471",stormy,Humnan negligence
+VC-4000047,Convertible,0,0,0,0,"Nov. 5, 1967 - 10:25:42","17.806181, 73.635387",rainy,Unforeseeable accident
+VC-4000048,Motorcycle,0,0,0,1,"Sep. 17, 1957 - 12:39:48","36.49546, -4.394945",stormy,Mechanical failure
+VC-4000049,Coupe,3,1,1,1,"May 29, 1959 - 22:22:19","5.611078, 101.753334",stormy,Unforeseeable accident
+VC-4000050,Sports Car,0,0,0,0,"Oct. 5, 2001 - 13:46:37","30.103566, -97.619861",cloudy,Terrorism
+VC-4000051,Convertible,1,1,0,0,"Jul. 22, 1971 - 00:15:42","34.211734, 109.283769",clear,Humnan negligence
+VC-4000052,Convertible,1,0,0,0,"Aug. 2, 1959 - 08:58:00","-20.874202, -64.6444",foggy,Humnan negligence
+VC-4000053,RV,7,5,1,1,"May 31, 2011 - 13:55:20","33.33821, -105.71562",stormy,Humnan negligence
+VC-4000054,RV,2,0,0,0,"Dec. 14, 2019 - 13:36:51","35.912007, 110.177165",foggy,Humnan negligence
+VC-4000055,School Bus,31,0,0,0,"Dec. 20, 2013 - 14:05:22","-18.924501, 118.71973",rainy,Mechanical failure
+VC-4000056,Hatchback,1,0,0,0,"Aug. 16, 1967 - 22:37:54","-37.108946, -59.107591",stormy,Mechanical failure
+VC-4000057,18-Wheeler,0,0,0,0,"Feb. 13, 2002 - 05:54:15","28.407023, 48.694668",rainy,Unforeseeable accident
+VC-4000058,18-Wheeler,0,0,0,0,"Apr. 14, 2008 - 10:27:17","63.708975, -76.158597",foggy,Unforeseeable accident
+VC-4000059,Coupe,3,1,0,1,"Jun. 27, 2019 - 11:35:16","-35.541084, -58.585542",cloudy,Mechanical failure
+VC-4000060,Micro Car,1,0,0,0,"Dec. 26, 2018 - 02:20:15","-7.033585, 132.37125",rainy,Unforeseeable accident
+VC-4000061,Coupe,1,0,0,0,"Aug. 31, 1953 - 06:03:22","66.7982, 82.182551",clear,Humnan negligence
+VC-4000062,School Bus,31,17,7,7,"Feb. 1, 1985 - 14:59:55","36.075325, 103.665103",rainy,Mechanical failure
+VC-4000063,Station Wagon,4,1,1,2,"Feb. 11, 1951 - 09:13:05","54.139042, -78.840392",stormy,Humnan negligence
+VC-4000064,Convertible,1,2,0,0,"Oct. 2, 2019 - 21:18:19","25.973511, 0.714652",clear,Humnan negligence
+VC-4000065,Sedan,3,4,0,0,"Jun. 28, 1978 - 16:02:03","30.731499, -117.797927",rainy,Humnan negligence
+VC-4000066,Micro Car,0,0,0,0,"Feb. 4, 1995 - 16:23:16","24.05444, -87.554749",rainy,Humnan negligence
+VC-4000067,Motorcycle,1,0,0,0,"Sep. 28, 1977 - 02:38:10","-2.836111, -53.889086",rainy,Unforeseeable accident
+VC-4000068,Station Wagon,3,0,0,0,"Oct. 25, 1957 - 03:15:55","-29.433154, 123.667372",stormy,Unforeseeable accident
+VC-4000069,RV,0,0,0,1,"Jan. 14, 1992 - 09:06:13","0.195493, -61.827477",clear,Humnan negligence
+VC-4000070,Minivan,5,5,1,0,"Oct. 10, 1954 - 11:41:42","18.834044, 47.543095",clear,Humnan negligence
+VC-4000071,Convertible,0,0,0,0,"Dec. 23, 1988 - 03:45:45","-1.947048, -46.052003",rainy,Unforeseeable accident
+VC-4000072,SUV,0,0,0,0,"Dec. 30, 1997 - 09:40:54","-40.99064, -61.922341",foggy,Humnan negligence
+VC-4000073,Minivan,0,0,0,0,"Feb. 25, 1978 - 12:58:46","63.678391, -40.436216",rainy,Mechanical failure
+VC-4000074,Station Wagon,0,0,0,0,"Jul. 7, 1993 - 19:47:26","58.807473, 170.136181",stormy,Unforeseeable accident
+VC-4000075,Minivan,0,0,0,0,"Feb. 10, 1965 - 19:54:33","37.965004, -108.057728",foggy,Unforeseeable accident
+VC-4000076,18-Wheeler,1,1,0,0,"Aug. 18, 2017 - 19:58:16","60.910754, -46.308688",rainy,Humnan negligence
+VC-4000077,Sedan,0,0,0,0,"Aug. 23, 2001 - 15:11:19","30.398337, 47.266908",rainy,Unforeseeable accident
+VC-4000078,Supercar,0,0,0,0,"Jul. 11, 2013 - 12:40:48","24.729023, 36.499661",clear,Unforeseeable accident
+VC-4000079,Van,9,5,2,3,"Feb. 5, 1973 - 00:29:18","17.089685, 72.713356",stormy,Mechanical failure
+VC-4000080,Motorcycle,0,0,0,0,"Jan. 28, 1956 - 09:16:07","18.046953, 52.076126",cloudy,Mechanical failure
+VC-4000081,18-Wheeler,1,0,0,0,"Aug. 2, 1965 - 08:27:43","-31.655004, 128.137674",cloudy,Mechanical failure
+VC-4000082,Motorcycle,1,1,0,0,"Oct. 6, 1968 - 21:00:38","-16.864344, 113.692488",stormy,Humnan negligence
+VC-4000083,School Bus,27,17,5,4,"Nov. 23, 1968 - 06:54:41","20.134821, 52.173836",stormy,Unforeseeable accident
+VC-4000084,Motorcycle,1,1,0,0,"Jul. 15, 1952 - 05:57:21","47.212434, -113.496652",foggy,Unforeseeable accident
+VC-4000085,Station Wagon,0,0,0,0,"Dec. 21, 1990 - 20:36:00","-27.796242, -57.299835",rainy,Mechanical failure
+VC-4000086,Convertible,0,0,0,0,"Oct. 12, 1969 - 18:24:25","-14.692239, -70.263951",cloudy,Unforeseeable accident
+VC-4000087,SUV,4,0,0,1,"Feb. 25, 2018 - 03:05:41","77.362639, 98.121013",clear,Humnan negligence
+VC-4000088,Minivan,1,1,0,0,"Oct. 20, 1981 - 16:46:42","77.136288, -35.984505",clear,Unforeseeable accident
+VC-4000089,Hatchback,3,0,0,0,"Mar. 28, 1991 - 13:47:10","35.704598, 97.949385",stormy,Unforeseeable accident
+VC-4000090,18-Wheeler,0,0,0,1,"May 3, 1953 - 02:41:48","49.329721, 79.648954",cloudy,Unforeseeable accident
+VC-4000091,Station Wagon,2,0,0,1,"Mar. 10, 1997 - 23:14:42","49.744082, 67.772515",foggy,Humnan negligence
+VC-4000092,Motorcycle,0,0,0,0,"Nov. 4, 1982 - 23:04:59","9.828753, 81.925768",cloudy,Humnan negligence
+VC-4000093,Hatchback,1,1,0,0,"May 23, 1989 - 03:57:13","-7.560156, 25.308606",cloudy,Humnan negligence
+VC-4000094,Coupe,2,2,1,0,"Aug. 20, 1981 - 05:49:24","44.977377, -88.364826",foggy,Mechanical failure
+VC-4000095,SUV,0,0,0,0,"Sep. 13, 1994 - 07:16:37","23.25668, 3.775106",cloudy,Unforeseeable accident
+VC-4000096,Sedan,1,1,0,0,"Dec. 22, 1952 - 09:40:59","51.246844, -136.228857",foggy,Humnan negligence
+VC-4000097,SUV,3,1,1,1,"Mar. 22, 1961 - 18:13:24","33.556358, 9.442928",rainy,Humnan negligence
+VC-4000098,Coupe,3,2,0,1,"Aug. 30, 1992 - 07:46:06","71.071026, -39.613861",stormy,Mechanical failure
+VC-4000099,Motorcycle,1,0,0,0,"Jul. 1, 1994 - 20:25:25","2.024972, 23.475774",clear,Mechanical failure
+VC-4000100,School Bus,40,10,3,7,"Oct. 19, 1968 - 01:03:25","65.671257, -108.224213",rainy,Mechanical failure
+VC-4000101,Minivan,3,1,0,0,"Apr. 24, 2010 - 18:53:38","42.344518, -123.12144",stormy,Humnan negligence
+VC-4000102,Convertible,1,2,0,0,"Nov. 14, 2000 - 05:07:11","29.958281, 78.5271",cloudy,Unforeseeable accident
+VC-4000103,Supercar,0,0,0,0,"Dec. 31, 2006 - 06:28:58","69.515575, -33.986259",cloudy,Unforeseeable accident
+VC-4000104,Sedan,2,0,0,1,"Jun. 13, 2015 - 08:27:08","-6.758036, -70.896772",foggy,Mechanical failure
+VC-4000105,Station Wagon,1,0,0,0,"Jun. 7, 1985 - 05:24:27","59.793629, 113.833828",foggy,Mechanical failure
+VC-4000106,Micro Car,1,1,1,0,"Nov. 17, 1983 - 21:55:04","18.156448, 45.920275",rainy,Unforeseeable accident
+VC-4000107,Hatchback,0,0,0,0,"Apr. 9, 1970 - 13:31:54","21.881612, -90.999632",rainy,Unforeseeable accident
+VC-4000108,Station Wagon,2,0,0,0,"Oct. 8, 1987 - 02:14:30","-35.893874, 139.285424",clear,Humnan negligence
+VC-4000109,Convertible,1,0,0,0,"Dec. 10, 1952 - 05:10:49","45.4173, -116.574821",foggy,Unforeseeable accident
+VC-4000110,Pickup Truck,3,3,0,1,"Nov. 20, 1980 - 11:53:12","44.419769, -103.199442",rainy,Unforeseeable accident
+VC-4000111,Convertible,0,0,0,0,"Nov. 2, 1967 - 20:23:39","73.695584, -54.579603",stormy,Mechanical failure
+VC-4000112,SUV,0,0,0,0,"Apr. 19, 2005 - 03:59:46","76.156595, 138.385313",foggy,Humnan negligence
+VC-4000113,Motorcycle,1,0,0,0,"Feb. 18, 1974 - 12:29:35","36.318515, 112.273925",rainy,Unforeseeable accident
+VC-4000114,Micro Car,1,0,0,1,"Apr. 3, 2016 - 18:25:14","37.998651, 110.880553",cloudy,Mechanical failure
+VC-4000115,Station Wagon,1,0,0,0,"Sep. 1, 1966 - 06:56:17","27.52217, -7.943504",rainy,Mechanical failure
+VC-4000116,RV,5,3,1,1,"Jul. 19, 2016 - 09:38:48","24.979921, 41.03976",rainy,Humnan negligence
+VC-4000117,Van,9,0,0,0,"Jul. 8, 1973 - 21:21:06","25.177722, 78.828519",rainy,Unforeseeable accident
+VC-4000118,Van,14,14,1,0,"Mar. 18, 2008 - 09:02:31","23.636334, 83.295484",cloudy,Humnan negligence
+VC-4000119,Van,15,9,3,2,"Aug. 17, 1992 - 15:49:12","14.68266, 79.263754",stormy,Unforeseeable accident
+VC-4000120,Station Wagon,1,1,0,0,"Jan. 21, 1986 - 06:46:29","-12.151051, 14.956165",rainy,Humnan negligence
+VC-4000121,RV,6,4,1,1,"Nov. 16, 1969 - 07:50:25","42.983331, 70.26037",cloudy,Humnan negligence
+VC-4000122,Micro Car,0,0,0,0,"Apr. 10, 1966 - 06:28:21","65.363865, -122.034808",foggy,Mechanical failure
+VC-4000123,RV,5,0,0,0,"Jan. 13, 1996 - 15:00:57","58.371419, -70.400225",cloudy,Unforeseeable accident
+VC-4000124,Motorcycle,1,0,0,0,"Jul. 8, 2011 - 20:19:57","66.912735, 172.776763",cloudy,Unforeseeable accident
+VC-4000125,School Bus,15,0,0,0,"Jan. 27, 1983 - 15:25:05","-47.833141, -58.627258",clear,Humnan negligence
+VC-4000126,18-Wheeler,1,0,0,1,"Jul. 23, 1972 - 20:59:40","25.587772, -113.260565",foggy,Mechanical failure
+VC-4000127,Sports Car,1,1,0,0,"May 24, 1992 - 10:57:36","3.663771, -40.657672",cloudy,Unforeseeable accident
+VC-4000128,Sports Car,0,0,0,0,"Jul. 1, 2013 - 17:03:47","46.107255, 83.234728",cloudy,Mechanical failure
+VC-4000129,Minivan,4,0,0,0,"Mar. 23, 1960 - 22:50:00","34.453383, 112.787557",stormy,Mechanical failure
+VC-4000130,SUV,4,0,0,0,"Mar. 30, 1997 - 21:57:23","33.722621, -79.383616",foggy,Mechanical failure
+VC-4000131,Supercar,1,0,0,0,"Feb. 5, 1959 - 03:23:25","-0.200643, -35.381801",foggy,Unforeseeable accident
+VC-4000132,RV,3,0,0,0,"Mar. 17, 1963 - 13:50:25","23.01822, 8.065902",foggy,Mechanical failure
+VC-4000133,Convertible,1,0,0,0,"Feb. 4, 1967 - 09:42:31","17.072064, -95.894726",stormy,Humnan negligence
+VC-4000134,Coupe,3,0,0,0,"Jul. 1, 2013 - 15:19:00","71.85986, 102.941656",rainy,Humnan negligence
+VC-4000135,Convertible,1,0,0,0,"Sep. 23, 2018 - 20:46:58","42.740225, 72.735259",stormy,Unforeseeable accident
+VC-4000136,School Bus,81,28,20,31,"Sep. 15, 1950 - 05:12:41","30.339257, -101.053107",foggy,Mechanical failure
+VC-4000137,Motorcycle,1,0,0,1,"Jan. 4, 2005 - 07:43:05","24.727307, 100.892348",stormy,Humnan negligence
+VC-4000138,RV,6,1,0,2,"Sep. 11, 2019 - 01:49:04","33.316039, -2.643986",cloudy,Mechanical failure
+VC-4000139,RV,6,1,0,1,"May 10, 1986 - 15:39:15","61.800847, 163.870741",foggy,Mechanical failure
+VC-4000140,Van,13,14,0,0,"Nov. 30, 2008 - 18:37:30","-4.911405, 120.232329",cloudy,Unforeseeable accident
+VC-4000141,RV,5,0,1,1,"Nov. 2, 1967 - 15:16:47","73.906919, -24.362172",rainy,Unforeseeable accident
+VC-4000142,SUV,2,0,0,0,"Jan. 17, 1954 - 22:52:12","45.777709, 60.607232",cloudy,Unforeseeable accident
+VC-4000143,Pickup Truck,0,0,0,0,"Jul. 27, 1980 - 01:31:10","58.464493, -87.461272",clear,Humnan negligence
+VC-4000144,School Bus,31,11,6,8,"Jan. 7, 2017 - 12:33:51","-10.849025, 27.750691",stormy,Humnan negligence
+VC-4000145,Station Wagon,3,0,0,0,"Aug. 11, 2002 - 18:53:17","58.594621, -85.724663",rainy,Mechanical failure
+VC-4000146,SUV,0,0,1,0,"Feb. 9, 1989 - 10:00:55","33.681014, 106.659447",cloudy,Humnan negligence
+VC-4000147,18-Wheeler,0,0,0,0,"Feb. 6, 1991 - 07:01:32","75.484243, 83.500535",foggy,Mechanical failure
+VC-4000148,School Bus,34,1,0,0,"Oct. 23, 1976 - 05:23:51","23.54192, 98.720071",clear,Humnan negligence
+VC-4000149,Sports Car,1,2,0,0,"Aug. 12, 1970 - 23:43:29","30.604264, 50.753027",rainy,Unforeseeable accident
+VC-4000150,Micro Car,0,0,0,0,"Oct. 31, 2006 - 08:55:05","-21.58589, 134.041539",foggy,Humnan negligence
+VC-4000151,Coupe,1,1,0,1,"May 9, 1975 - 04:10:25","29.151358, -1.575123",foggy,Mechanical failure
+VC-4000152,Sports Car,1,1,0,1,"Mar. 27, 2017 - 15:48:42","-17.874406, 122.063621",rainy,Unforeseeable accident
+VC-4000153,Station Wagon,2,0,1,1,"Mar. 6, 1979 - 19:33:35","14.645735, 82.92278",foggy,Unforeseeable accident
+VC-4000154,Pickup Truck,2,3,0,0,"Jul. 24, 1969 - 05:32:23","61.019564, -40.025487",rainy,Unforeseeable accident
+VC-4000155,Convertible,0,0,0,0,"Aug. 13, 2017 - 13:17:34","50.465305, 50.851859",cloudy,Unforeseeable accident
+VC-4000156,Coupe,0,0,0,0,"Sep. 19, 1968 - 19:07:49","55.878172, 120.868813",cloudy,Mechanical failure
+VC-4000157,Sedan,0,0,0,0,"Apr. 15, 1985 - 22:14:25","-6.841566, 13.969404",cloudy,Unforeseeable accident
+VC-4000158,Coupe,3,1,1,1,"Oct. 10, 2006 - 15:25:36","-5.385854, 123.44092",rainy,Unforeseeable accident
+VC-4000159,SUV,4,0,0,0,"Feb. 27, 2002 - 09:43:01","-11.273592, -64.30538",stormy,Unforeseeable accident
+VC-4000160,Minivan,1,0,0,0,"Oct. 3, 1973 - 12:12:18","-1.726721, 17.682113",cloudy,Unforeseeable accident
+VC-4000161,School Bus,41,15,8,12,"Dec. 6, 1968 - 06:40:16","42.495007, 63.521863",rainy,Mechanical failure
+VC-4000162,Micro Car,1,0,0,0,"Feb. 20, 1960 - 23:41:44","36.611482, 114.609842",clear,Mechanical failure
+VC-4000163,Sedan,2,3,0,0,"Apr. 5, 1987 - 01:41:24","59.564145, -71.241645",rainy,Mechanical failure
+VC-4000164,RV,0,1,0,0,"Jan. 16, 2010 - 23:54:47","32.365897, -113.14121",foggy,Mechanical failure
+VC-4000165,Pickup Truck,0,0,0,0,"May 12, 1951 - 16:23:52","76.723225, 173.784522",cloudy,Mechanical failure
+VC-4000166,SUV,6,0,0,0,"Jul. 29, 1955 - 09:24:25","45.805554, -120.252377",clear,Mechanical failure
+VC-4000167,Convertible,0,0,0,0,"Dec. 3, 1986 - 05:07:55","2.057687, 17.261971",cloudy,Unforeseeable accident
+VC-4000168,Pickup Truck,2,0,1,1,"Nov. 7, 1962 - 12:10:49","65.399978, 139.544906",rainy,Mechanical failure
+VC-4000169,Supercar,0,0,0,0,"Aug. 5, 1958 - 15:33:01","13.276955, 77.894505",stormy,Mechanical failure
+VC-4000170,Sports Car,0,0,0,0,"Aug. 20, 2002 - 22:10:48","-35.597649, 152.416608",foggy,Unforeseeable accident
+VC-4000171,Pickup Truck,0,0,0,0,"Aug. 26, 1976 - 23:22:41","6.198108, 114.546913",stormy,Mechanical failure
+VC-4000172,Coupe,3,0,0,0,"Sep. 17, 1967 - 23:03:28","49.197922, -79.199399",rainy,Mechanical failure
+VC-4000173,Hatchback,3,0,0,0,"Jun. 2, 1973 - 03:06:56","-23.744535, -58.507068",rainy,Unforeseeable accident
+VC-4000174,Hatchback,0,0,0,0,"Apr. 4, 1973 - 18:41:24","8.360986, 98.169542",stormy,Mechanical failure
+VC-4000175,Pickup Truck,0,0,0,0,"Feb. 24, 1974 - 17:07:48","29.721943, 107.882818",clear,Mechanical failure
+VC-4000176,Hatchback,4,1,1,2,"Jan. 23, 2011 - 15:00:57","24.771086, 36.084629",clear,Mechanical failure
+VC-4000177,Micro Car,1,2,0,0,"Feb. 27, 2001 - 10:14:45","82.638406, -48.060289",rainy,Humnan negligence
+VC-4000178,Micro Car,1,0,0,0,"Feb. 5, 2018 - 21:33:40","-27.633148, 136.343106",cloudy,Humnan negligence
+VC-4000179,18-Wheeler,0,0,1,0,"Aug. 11, 1973 - 16:16:15","38.008568, -115.505007",cloudy,Humnan negligence
+VC-4000180,Station Wagon,4,4,0,1,"Jun. 7, 2018 - 14:48:14","21.414201, -100.263001",foggy,Unforeseeable accident
+VC-4000181,18-Wheeler,0,0,1,0,"Aug. 19, 1969 - 03:05:30","62.038502, -66.597982",rainy,Humnan negligence
+VC-4000182,Sedan,3,2,0,0,"Sep. 16, 1955 - 23:29:33","61.407291, -117.2912",cloudy,Unforeseeable accident
+VC-4000183,Sports Car,1,0,0,0,"Mar. 16, 1964 - 20:46:25","43.574167, 78.083967",foggy,Mechanical failure
+VC-4000184,Pickup Truck,4,1,1,1,"Aug. 26, 1979 - 16:19:16","-15.448168, 141.464186",cloudy,Mechanical failure
+VC-4000185,Minivan,2,0,0,1,"Feb. 25, 1972 - 03:10:40","4.763117, 115.691312",foggy,Humnan negligence
+VC-4000186,Convertible,1,0,0,0,"Jul. 8, 1984 - 10:34:40","33.496985, -1.036901",clear,Mechanical failure
+VC-4000187,Motorcycle,0,1,0,0,"Sep. 25, 2004 - 15:26:26","20.256899, -112.95974",foggy,Humnan negligence
+VC-4000188,RV,0,0,0,0,"May 3, 1965 - 15:51:21","-3.186797, 121.979007",foggy,Unforeseeable accident
+VC-4000189,SUV,6,0,0,1,"Jun. 17, 2013 - 06:02:10","-32.767125, 125.949005",rainy,Mechanical failure
+VC-4000190,Sedan,2,2,1,0,"Apr. 7, 1972 - 09:29:16","6.847252, 98.990938",stormy,Mechanical failure
+VC-4000191,RV,4,1,1,2,"Jan. 21, 1950 - 17:36:01","-6.357449, -55.770454",cloudy,Humnan negligence
+VC-4000192,Sports Car,1,2,0,0,"Jun. 15, 1961 - 20:54:43","41.86992, -93.234816",stormy,Humnan negligence
+VC-4000193,Sports Car,1,0,0,0,"Apr. 12, 1976 - 20:49:14","28.494247, -5.467218",foggy,Humnan negligence
+VC-4000194,Convertible,1,1,0,0,"Jun. 16, 1986 - 14:28:23","-38.594229, 138.14779",rainy,Humnan negligence
+VC-4000195,Supercar,0,0,0,0,"Apr. 7, 1989 - 19:14:12","48.558045, 80.16781",cloudy,Unforeseeable accident
+VC-4000196,18-Wheeler,0,0,0,0,"Jan. 1, 1978 - 12:06:25","21.9493, 100.756131",rainy,Unforeseeable accident
+VC-4000197,Minivan,2,3,0,0,"Jul. 26, 1955 - 13:39:17","43.243974, -107.226417",foggy,Humnan negligence
+VC-4000198,Convertible,1,0,0,0,"Dec. 3, 1952 - 03:00:33","54.083287, 86.207731",foggy,Humnan negligence
+VC-4000199,Coupe,3,0,0,0,"May 26, 1973 - 17:51:57","-8.184071, -48.964757",cloudy,Unforeseeable accident
+VC-4000200,Convertible,0,0,0,0,"Oct. 8, 1973 - 23:07:48","28.974194, -108.125811",rainy,Mechanical failure
+VC-4000201,Sedan,3,2,0,1,"Jul. 16, 1970 - 12:40:21","39.330962, -100.401226",foggy,Mechanical failure
+VC-4000202,Micro Car,1,1,0,0,"Mar. 7, 1994 - 07:46:52","18.997348, 43.136584",foggy,Humnan negligence
+VC-4000203,Convertible,1,2,0,0,"Sep. 16, 1981 - 06:44:52","44.335095, 57.091465",foggy,Mechanical failure
+VC-4000204,18-Wheeler,1,0,0,0,"Jul. 2, 1974 - 16:09:07","2.026066, 106.694167",foggy,Humnan negligence
+VC-4000205,Micro Car,0,0,0,0,"Jun. 10, 2005 - 06:02:34","69.07416, -119.327456",stormy,Humnan negligence
+VC-4000206,Motorcycle,1,0,0,1,"Aug. 24, 1971 - 07:21:35","68.599946, -60.00725",cloudy,Mechanical failure
+VC-4000207,Supercar,0,0,0,0,"Jul. 9, 2002 - 20:38:42","60.418879, 139.700701",stormy,Humnan negligence
+VC-4000208,Micro Car,0,0,0,0,"Nov. 16, 2014 - 14:42:46","7.315716, 102.628904",cloudy,Unforeseeable accident
+VC-4000209,RV,7,0,0,0,"Dec. 4, 1954 - 05:26:08","-9.902158, 24.923345",foggy,Mechanical failure
+VC-4000210,Coupe,3,4,0,0,"Oct. 13, 1956 - 05:34:03","72.744736, 121.294687",clear,Mechanical failure
+VC-4000211,Motorcycle,0,0,0,0,"Jul. 2, 2018 - 05:51:46","-10.383272, 14.702063",clear,Mechanical failure
+VC-4000212,Micro Car,1,1,1,0,"Jun. 22, 1986 - 14:25:09","26.644032, 40.595849",clear,Mechanical failure
+VC-4000213,Coupe,2,1,0,1,"Mar. 14, 1974 - 09:52:19","-2.963372, 99.50368",clear,Unforeseeable accident
+VC-4000214,Supercar,0,0,0,0,"Feb. 18, 1966 - 23:29:36","46.281637, 72.413845",stormy,Mechanical failure
+VC-4000215,18-Wheeler,0,0,0,0,"Oct. 11, 1996 - 15:46:49","4.361584, 22.803708",cloudy,Mechanical failure
+VC-4000216,RV,2,1,0,1,"Dec. 9, 2016 - 08:46:27","-4.944184, 18.46091",stormy,Unforeseeable accident
+VC-4000217,Supercar,1,0,0,0,"Jan. 17, 1982 - 07:31:33","30.069098, 70.031918",rainy,Humnan negligence
+VC-4000218,Sedan,0,0,0,0,"Oct. 22, 1955 - 20:32:18","3.546507, -42.567292",foggy,Mechanical failure
+VC-4000219,Van,11,11,1,0,"Feb. 3, 2014 - 06:17:58","-27.701129, -56.52931",cloudy,Humnan negligence
+VC-4000220,RV,4,1,0,1,"Feb. 27, 1959 - 08:52:13","71.292481, -42.744259",cloudy,Humnan negligence
+VC-4000221,School Bus,83,30,17,23,"Apr. 3, 1979 - 04:44:08","24.479036, 45.281988",stormy,Humnan negligence
+VC-4000222,Coupe,1,0,0,0,"Mar. 16, 1962 - 01:34:11","50.360035, 52.317767",clear,Unforeseeable accident
+VC-4000223,18-Wheeler,1,1,0,0,"Jan. 5, 1998 - 10:33:33","37.912118, 91.177976",clear,Humnan negligence
+VC-4000224,Sedan,3,0,0,0,"Jun. 1, 1954 - 06:02:44","-15.847873, 114.459755",cloudy,Unforeseeable accident
+VC-4000225,Coupe,2,0,0,1,"Dec. 13, 1972 - 22:46:39","17.2263, 81.54671",stormy,Humnan negligence
+VC-4000226,Sedan,2,3,0,0,"Oct. 22, 1994 - 18:58:36","1.07177, 121.941921",foggy,Unforeseeable accident
+VC-4000227,School Bus,66,21,16,24,"May 19, 1968 - 22:04:48","54.224844, 64.23554",cloudy,Unforeseeable accident
+VC-4000228,Van,8,0,0,0,"Jan. 1, 2016 - 21:03:38","18.114482, 42.576006",clear,Humnan negligence
+VC-4000229,Van,11,3,1,3,"Aug. 14, 1972 - 07:07:12","39.041058, -84.385797",cloudy,Unforeseeable accident
+VC-4000230,SUV,5,1,2,2,"Aug. 24, 2010 - 23:47:36","44.230878, -114.739155",rainy,Mechanical failure
+VC-4000231,Pickup Truck,0,1,0,0,"Apr. 7, 1976 - 14:02:32","1.45984, 101.956904",clear,Humnan negligence
+VC-4000232,18-Wheeler,0,0,0,0,"Feb. 22, 1968 - 07:29:47","-15.527645, 132.914465",cloudy,Unforeseeable accident
+VC-4000233,Motorcycle,0,0,0,0,"Jul. 7, 2006 - 17:49:46","53.729942, 72.802411",rainy,Humnan negligence
+VC-4000234,RV,1,1,0,0,"Apr. 6, 2010 - 17:14:26","48.84318, 79.239998",clear,Humnan negligence
+VC-4000235,Micro Car,0,0,0,0,"May 19, 1953 - 17:34:01","-9.055587, 97.694921",foggy,Humnan negligence
+VC-4000236,RV,4,2,1,1,"Mar. 21, 1978 - 19:50:39","-17.216564, -67.940607",cloudy,Mechanical failure
+VC-4000237,Minivan,5,4,2,0,"May 16, 2012 - 14:10:22","60.560728, -56.153667",foggy,Unforeseeable accident
+VC-4000238,Hatchback,0,0,0,0,"Sep. 7, 1955 - 01:55:55","47.447764, 52.442129",foggy,Mechanical failure
+VC-4000239,Supercar,1,0,0,0,"Nov. 24, 1973 - 05:06:11","-5.164979, -62.966237",rainy,Humnan negligence
+VC-4000240,Hatchback,0,0,0,0,"Jan. 27, 1962 - 12:50:29","-35.44841, 139.446271",clear,Humnan negligence
+VC-4000241,School Bus,57,11,7,9,"Feb. 6, 1950 - 06:51:35","-24.662576, 117.815016",cloudy,Mechanical failure
+VC-4000242,Van,15,0,0,0,"Nov. 29, 1988 - 07:34:37","-25.54531, 138.062636",cloudy,Mechanical failure
+VC-4000243,18-Wheeler,0,0,0,0,"Jul. 29, 2006 - 22:37:46","44.430558, -114.716361",stormy,Unforeseeable accident
+VC-4000244,Convertible,1,2,0,0,"Dec. 7, 1988 - 01:24:10","1.665694, 13.15319",foggy,Humnan negligence
+VC-4000245,Pickup Truck,0,0,0,0,"Aug. 16, 1996 - 08:54:47","-7.47652, 23.156884",foggy,Mechanical failure
+VC-4000246,Pickup Truck,0,0,0,0,"Aug. 2, 1982 - 22:54:02","20.393767, 45.489277",foggy,Unforeseeable accident
+VC-4000247,Pickup Truck,0,0,0,0,"Feb. 17, 1985 - 15:21:02","35.55264, 99.966746",rainy,Humnan negligence
+VC-4000248,Convertible,0,1,0,0,"Jun. 22, 1959 - 06:16:14","-21.478008, 137.00925",foggy,Humnan negligence
+VC-4000249,18-Wheeler,0,0,0,0,"Dec. 30, 1986 - 21:27:06","16.375148, -108.362533",cloudy,Mechanical failure
+VC-4000250,Sedan,1,0,0,0,"Feb. 22, 2006 - 15:24:14","-33.50287, 142.488554",cloudy,Humnan negligence
+VC-4000251,Sports Car,1,1,0,1,"Sep. 18, 1960 - 21:06:17","44.770019, 85.322298",rainy,Mechanical failure
+VC-4000252,Micro Car,0,0,0,0,"Jun. 4, 2017 - 16:44:16","48.464338, -90.965837",stormy,Mechanical failure
+VC-4000253,Motorcycle,0,0,0,0,"Jul. 9, 1977 - 12:01:03","76.02083, 37.867413",cloudy,Mechanical failure
+VC-4000254,Sports Car,1,0,0,0,"Feb. 15, 2007 - 05:46:41","-21.933644, 140.069223",foggy,Humnan negligence
+VC-4000255,SUV,1,0,0,0,"Dec. 4, 1959 - 09:03:47","3.660931, -58.928417",stormy,Humnan negligence
+VC-4000256,Station Wagon,0,0,0,0,"Sep. 18, 2001 - 17:36:34","35.176829, -79.111027",rainy,Humnan negligence
+VC-4000257,Station Wagon,1,1,0,0,"Jun. 25, 1972 - 10:29:16","59.527266, 50.098252",stormy,Mechanical failure
+VC-4000258,18-Wheeler,1,1,0,0,"Jun. 22, 1985 - 16:09:49","15.757147, 69.825602",clear,Humnan negligence
+VC-4000259,Sedan,1,0,0,0,"Jan. 25, 1954 - 01:30:59","-7.143838, 102.828248",foggy,Mechanical failure
+VC-4000260,RV,0,0,0,0,"Oct. 15, 2015 - 06:20:09","19.213822, 48.436302",foggy,Mechanical failure
+VC-4000261,Micro Car,0,0,0,0,"Feb. 23, 1966 - 07:30:12","24.38363, 92.821091",stormy,Humnan negligence
+VC-4000262,Sports Car,1,0,0,1,"Dec. 27, 1978 - 17:06:44","52.760628, 60.338478",foggy,Mechanical failure
+VC-4000263,18-Wheeler,0,0,0,0,"Jun. 27, 1996 - 14:41:36","32.394502, -7.667941",cloudy,Unforeseeable accident
+VC-4000264,School Bus,44,1,0,1,"Jun. 10, 2015 - 23:04:56","44.552505, 48.585583",foggy,Mechanical failure
+VC-4000265,Van,10,3,2,4,"Dec. 31, 1973 - 18:16:49","33.337206, 7.007467",cloudy,Mechanical failure
+VC-4000266,Minivan,1,0,0,0,"Apr. 5, 1991 - 19:21:52","-3.643831, 104.421061",clear,Humnan negligence
+VC-4000267,Sports Car,0,0,0,0,"Dec. 7, 1956 - 22:24:23","28.612237, 115.016914",foggy,Humnan negligence
+VC-4000268,RV,4,1,0,1,"Sep. 10, 1999 - 07:50:02","52.813611, -98.304113",cloudy,Unforeseeable accident
+VC-4000269,Van,14,8,3,4,"Apr. 16, 2017 - 05:48:05","-2.574683, 97.021442",stormy,Humnan negligence
+VC-4000270,Hatchback,1,0,0,0,"Jul. 4, 2013 - 11:50:02","20.554879, 2.566586",cloudy,Mechanical failure
+VC-4000271,School Bus,69,62,7,1,"Jul. 15, 1968 - 05:01:06","43.586426, 48.064623",foggy,Mechanical failure
+VC-4000272,Pickup Truck,0,0,0,0,"Mar. 6, 1965 - 03:30:54","20.800518, 45.596749",cloudy,Mechanical failure
+VC-4000273,Coupe,3,2,1,1,"Feb. 14, 1975 - 22:05:07","-48.252907, -61.205439",clear,Unforeseeable accident
+VC-4000274,18-Wheeler,0,0,0,0,"Sep. 26, 2016 - 19:14:35","32.020723, -78.285424",stormy,Unforeseeable accident
+VC-4000275,Minivan,4,2,1,1,"Feb. 6, 1960 - 03:47:01","-38.304345, 141.041693",clear,Unforeseeable accident
+VC-4000276,Van,13,13,1,0,"Dec. 7, 1984 - 00:24:35","34.261181, 6.07844",foggy,Humnan negligence
+VC-4000277,Motorcycle,1,1,0,0,"Jul. 20, 1952 - 01:42:03","2.052243, -71.000514",clear,Mechanical failure
+VC-4000278,School Bus,69,28,13,17,"May 24, 1984 - 02:12:08","-21.476468, 145.181554",cloudy,Mechanical failure
+VC-4000279,RV,4,0,0,0,"Jan. 11, 1953 - 05:57:56","30.304309, 118.823556",stormy,Mechanical failure
+VC-4000280,Hatchback,4,0,0,1,"Jul. 20, 1981 - 08:04:41","70.374976, 127.74118",foggy,Humnan negligence
+VC-4000281,Micro Car,1,0,0,0,"Jun. 22, 2014 - 17:57:19","71.561974, -33.510195",stormy,Humnan negligence
+VC-4000282,Convertible,0,0,0,0,"Mar. 3, 1960 - 07:14:15","10.136817, 84.531168",clear,Humnan negligence
+VC-4000283,Pickup Truck,3,1,1,1,"Jan. 30, 1963 - 12:35:36","10.491759, 80.044688",foggy,Unforeseeable accident
+VC-4000284,Van,6,2,1,3,"Jan. 18, 1973 - 04:27:46","73.901391, 65.291476",cloudy,Mechanical failure
+VC-4000285,Van,8,5,2,1,"Jan. 19, 1963 - 10:05:31","-2.707124, 101.431279",rainy,Unforeseeable accident
+VC-4000286,Micro Car,1,1,0,0,"Feb. 28, 1972 - 00:19:44","30.188967, -101.615273",cloudy,Mechanical failure
+VC-4000287,Supercar,1,0,0,0,"Dec. 18, 1974 - 02:43:11","-1.811537, 116.148879",foggy,Unforeseeable accident
+VC-4000288,School Bus,44,34,10,1,"May 18, 1981 - 04:43:12","-1.907632, -38.112808",foggy,Unforeseeable accident
+VC-4000289,SUV,0,0,0,0,"Apr. 11, 1959 - 15:17:30","41.554174, -79.856479",cloudy,Unforeseeable accident
+VC-4000290,SUV,3,1,0,1,"Nov. 13, 1979 - 02:44:04","51.487845, 49.488694",rainy,Humnan negligence
+VC-4000291,Supercar,1,0,0,0,"Nov. 11, 1987 - 01:29:59","41.402571, 85.768696",foggy,Unforeseeable accident
+VC-4000292,School Bus,34,35,0,0,"Feb. 9, 1988 - 22:06:23","68.481791, -76.367642",foggy,Mechanical failure
+VC-4000293,Micro Car,0,0,0,0,"Oct. 13, 2016 - 03:30:13","29.604219, -88.423908",rainy,Unforeseeable accident
+VC-4000294,Coupe,0,0,0,0,"Oct. 10, 1998 - 21:31:30","34.922883, -75.662058",rainy,Mechanical failure
+VC-4000295,Sports Car,1,0,0,0,"Dec. 29, 2015 - 15:39:50","44.489637, -123.874177",clear,Unforeseeable accident
+VC-4000296,Supercar,0,0,0,0,"Jul. 31, 1950 - 10:21:52","15.230152, 74.68768",foggy,Mechanical failure
+VC-4000297,Minivan,2,0,0,0,"Nov. 17, 1959 - 19:33:58","30.673435, 8.5267",cloudy,Humnan negligence
+VC-4000298,18-Wheeler,1,0,0,0,"Jun. 8, 1954 - 11:51:05","-4.402467, 131.276465",foggy,Humnan negligence
+VC-4000299,18-Wheeler,1,2,0,0,"Aug. 14, 1955 - 03:43:03","63.069903, -26.406524",stormy,Unforeseeable accident
+VC-4000300,Station Wagon,1,0,0,0,"Oct. 22, 2016 - 04:05:06","-3.495085, -61.923167",clear,Unforeseeable accident
+VC-4000301,School Bus,33,10,8,13,"Apr. 29, 1950 - 04:08:38","-0.654461, 135.464752",clear,Mechanical failure
+VC-4000302,School Bus,55,10,6,11,"Aug. 13, 1952 - 18:20:24","-7.845304, 135.894114",cloudy,Unforeseeable accident
+VC-4000303,Station Wagon,2,1,0,0,"Apr. 27, 2015 - 16:10:00","73.057031, 76.897775",stormy,Mechanical failure
+VC-4000304,SUV,2,0,0,0,"Mar. 29, 1980 - 04:42:42","-4.379487, 24.304509",clear,Unforeseeable accident
+VC-4000305,Van,12,1,0,0,"Dec. 15, 2003 - 17:02:00","51.106512, 86.330518",stormy,Mechanical failure
+VC-4000306,Micro Car,0,0,0,0,"Aug. 3, 2019 - 11:50:36","24.77779, 0.106951",rainy,Unforeseeable accident
+VC-4000307,Minivan,6,0,0,0,"Mar. 19, 2003 - 16:03:15","26.942912, 37.305315",foggy,Unforeseeable accident
+VC-4000308,Pickup Truck,3,0,0,0,"Jun. 3, 2001 - 16:41:56","0.526262, 97.916149",cloudy,Mechanical failure
+VC-4000309,Minivan,0,1,0,0,"Nov. 3, 1960 - 16:18:38","-43.524016, -61.155034",clear,Humnan negligence
+VC-4000310,School Bus,63,19,16,25,"Aug. 23, 2000 - 09:14:05","-8.008992, -53.864497",clear,Unforeseeable accident
+VC-4000311,Sedan,3,1,0,0,"Aug. 13, 1977 - 04:44:23","69.678853, -106.831119",stormy,Humnan negligence
+VC-4000312,Coupe,3,2,1,0,"Sep. 11, 1991 - 00:19:13","28.091538, -98.036933",foggy,Mechanical failure
+VC-4000313,Van,12,3,1,2,"Jan. 9, 2002 - 11:01:10","-2.370846, 19.41862",cloudy,Humnan negligence
+VC-4000314,Pickup Truck,4,2,1,1,"Apr. 14, 1987 - 03:31:15","29.846182, -92.123311",stormy,Unforeseeable accident
+VC-4000315,RV,3,0,0,0,"Jul. 14, 2019 - 14:26:14","18.145779, 82.244458",foggy,Humnan negligence
+VC-4000316,SUV,5,3,1,1,"Sep. 14, 1991 - 11:16:42","71.806242, 164.034497",cloudy,Unforeseeable accident
+VC-4000317,18-Wheeler,0,0,0,0,"Nov. 24, 1957 - 17:17:04","22.279601, 51.074593",rainy,Mechanical failure
+VC-4000318,Pickup Truck,1,1,0,0,"Feb. 16, 1977 - 10:31:08","77.228342, -53.769972",stormy,Unforeseeable accident
+VC-4000319,Station Wagon,1,0,0,0,"Apr. 26, 1985 - 23:29:22","-6.883957, 113.405977",rainy,Mechanical failure
+VC-4000320,Sports Car,0,0,0,1,"Dec. 1, 1979 - 00:44:31","68.661874, 124.936295",rainy,Mechanical failure
+VC-4000321,Motorcycle,0,0,0,0,"Aug. 13, 1980 - 23:11:09","37.960423, -107.230744",cloudy,Mechanical failure
+VC-4000322,Sedan,0,0,0,0,"Dec. 25, 1966 - 05:48:16","-35.501736, 128.533999",clear,Humnan negligence
+VC-4000323,Coupe,1,2,0,0,"Apr. 14, 1952 - 14:19:59","-21.684168, -58.269235",rainy,Unforeseeable accident
+VC-4000324,18-Wheeler,1,0,0,0,"Jun. 15, 1988 - 01:43:51","21.368769, -93.485824",stormy,Humnan negligence
+VC-4000325,Pickup Truck,2,0,0,0,"Nov. 29, 2011 - 12:02:03","71.871805, -52.33446",cloudy,Unforeseeable accident
+VC-4000326,Supercar,0,1,0,0,"Jan. 26, 2013 - 10:18:41","0.354734, -57.297792",stormy,Mechanical failure
+VC-4000327,Sedan,1,2,0,0,"Nov. 28, 2011 - 23:18:24","-37.610571, 122.449466",foggy,Humnan negligence
+VC-4000328,RV,7,0,0,0,"Mar. 7, 2002 - 05:33:36","73.962041, 137.454985",cloudy,Mechanical failure
+VC-4000329,Station Wagon,4,0,0,1,"Jan. 23, 1973 - 11:08:22","34.774758, -94.620198",clear,Humnan negligence
+VC-4000330,Motorcycle,0,0,0,0,"Sep. 12, 1972 - 11:00:54","66.773286, -31.64106",stormy,Mechanical failure
+VC-4000331,Coupe,0,0,0,0,"Aug. 29, 2005 - 11:35:14","21.333699, -112.449257",foggy,Unforeseeable accident
+VC-4000332,Station Wagon,2,0,0,0,"Mar. 28, 1993 - 13:16:40","-29.592609, -56.234089",clear,Humnan negligence
+VC-4000333,Supercar,0,0,0,0,"Aug. 14, 2005 - 15:16:25","-1.943245, -59.74462",stormy,Unforeseeable accident
+VC-4000334,Van,6,0,0,0,"Apr. 25, 2010 - 01:52:24","30.295199, -111.74352",rainy,Unforeseeable accident
+VC-4000335,Pickup Truck,4,4,1,0,"Sep. 13, 1951 - 10:50:50","-11.41618, -60.435421",rainy,Humnan negligence
+VC-4000336,Supercar,1,0,0,0,"May 22, 1995 - 07:39:35","25.4517, 82.017936",cloudy,Unforeseeable accident
+VC-4000337,RV,5,3,1,1,"May 21, 2002 - 12:30:15","26.339194, 43.777566",cloudy,Humnan negligence
+VC-4000338,Van,11,0,0,0,"Jun. 5, 1999 - 12:52:05","30.50748, 39.774123",stormy,Mechanical failure
+VC-4000339,Micro Car,1,1,1,0,"Jun. 23, 2014 - 22:43:42","-33.267159, -68.208847",cloudy,Unforeseeable accident
+VC-4000340,SUV,3,2,1,1,"May 9, 1956 - 00:45:48","-0.389758, 16.913905",rainy,Unforeseeable accident
+VC-4000341,Motorcycle,0,1,0,0,"Sep. 1, 1970 - 16:19:13","-15.567685, 147.560418",cloudy,Humnan negligence
+VC-4000342,SUV,5,0,0,0,"Dec. 11, 1976 - 14:46:33","-5.356348, 127.813731",clear,Humnan negligence
+VC-4000343,Minivan,2,0,0,1,"Feb. 13, 2000 - 23:44:59","-18.856909, -59.504974",stormy,Mechanical failure
+VC-4000344,Hatchback,0,0,0,0,"Dec. 14, 1994 - 13:16:35","49.935174, 81.361265",clear,Mechanical failure
+VC-4000345,RV,6,6,0,1,"Aug. 18, 1978 - 18:30:44","80.729994, -41.807435",stormy,Humnan negligence
+VC-4000346,Van,11,3,1,2,"Feb. 7, 1964 - 22:56:03","51.318857, -69.124253",rainy,Mechanical failure
+VC-4000347,Coupe,3,0,0,1,"Feb. 16, 1973 - 14:43:12","31.360578, -6.710939",rainy,Unforeseeable accident
+VC-4000348,Minivan,3,2,1,0,"Jan. 23, 1960 - 12:03:02","30.804136, -4.107912",foggy,Humnan negligence
+VC-4000349,18-Wheeler,1,0,0,0,"May 13, 1950 - 21:10:36","32.47811, -3.955043",cloudy,Humnan negligence
+VC-4000350,Sedan,2,1,1,0,"Sep. 23, 1976 - 03:54:58","26.938119, 100.503594",cloudy,Humnan negligence
+VC-4000351,Supercar,1,0,0,0,"Dec. 2, 2005 - 14:56:26","22.832288, 45.619763",rainy,Humnan negligence
+VC-4000352,SUV,4,0,0,0,"May 25, 1967 - 15:56:38","36.048728, 118.6994",stormy,Humnan negligence
+VC-4000353,Coupe,2,0,0,1,"Jan. 10, 2008 - 11:52:50","42.751629, 80.719606",clear,Unforeseeable accident
+VC-4000354,Sports Car,1,0,0,1,"Feb. 26, 1966 - 07:57:06","-32.034182, 134.750913",rainy,Unforeseeable accident
+VC-4000355,Van,6,4,1,1,"Nov. 27, 1979 - 19:09:13","-33.859639, -64.418218",cloudy,Unforeseeable accident
+VC-4000356,Sports Car,0,0,0,0,"Oct. 13, 2005 - 23:21:37","36.699641, -113.521845",foggy,Mechanical failure
+VC-4000357,Pickup Truck,1,0,0,0,"Nov. 7, 1978 - 01:11:26","63.383996, 142.741189",cloudy,Humnan negligence
+VC-4000358,Van,5,1,0,1,"Feb. 22, 1956 - 06:54:37","48.64157, 65.040385",foggy,Unforeseeable accident
+VC-4000359,Supercar,0,1,0,0,"Aug. 25, 1960 - 11:18:10","23.395338, 75.896613",stormy,Humnan negligence
+VC-4000360,18-Wheeler,1,0,0,0,"Aug. 30, 1976 - 01:58:03","30.586012, 101.102512",cloudy,Unforeseeable accident
+VC-4000361,Micro Car,1,0,0,0,"Aug. 25, 1997 - 06:56:20","26.834115, 7.873169",rainy,Mechanical failure
+VC-4000362,18-Wheeler,0,0,0,0,"Jan. 18, 1958 - 01:11:25","-8.498817, 17.349995",cloudy,Humnan negligence
+VC-4000363,Sports Car,0,0,0,0,"Feb. 4, 2015 - 12:39:26","0.554008, 134.982232",cloudy,Humnan negligence
+VC-4000364,Station Wagon,2,0,0,0,"Apr. 18, 1971 - 16:59:49","-27.364427, 135.595674",clear,Unforeseeable accident
+VC-4000365,School Bus,25,8,6,10,"Dec. 16, 2008 - 14:04:09","18.206567, 48.148137",cloudy,Unforeseeable accident
+VC-4000366,School Bus,13,4,4,6,"Jun. 21, 1989 - 10:41:54","35.601428, 97.953548",clear,Humnan negligence
+VC-4000367,SUV,4,0,0,0,"Apr. 18, 2003 - 01:18:36","-48.655654, -61.648391",stormy,Mechanical failure
+VC-4000368,18-Wheeler,0,0,0,0,"Oct. 19, 2011 - 12:50:20","26.727272, 75.486912",foggy,Humnan negligence
+VC-4000369,Sedan,1,0,0,0,"Jun. 15, 1995 - 14:53:34","-32.793487, 135.585445",clear,Mechanical failure
+VC-4000370,Sports Car,0,0,0,0,"Jun. 27, 1961 - 18:13:44","28.161712, 104.742224",foggy,Mechanical failure
+VC-4000371,Coupe,0,0,0,0,"Sep. 13, 1995 - 03:25:07","46.99628, -83.85067",stormy,Unforeseeable accident
+VC-4000372,Sedan,3,2,0,0,"Oct. 21, 2004 - 03:21:09","40.003014, -78.074676",foggy,Humnan negligence
+VC-4000373,Motorcycle,1,0,0,0,"Mar. 22, 2007 - 07:57:08","-34.453769, 118.230449",foggy,Humnan negligence
+VC-4000374,Pickup Truck,4,0,0,1,"Dec. 2, 1951 - 00:52:56","63.946731, 147.397166",stormy,Mechanical failure
+VC-4000375,Minivan,4,1,0,1,"Jun. 24, 1960 - 17:36:51","49.530295, -73.944749",cloudy,Mechanical failure
+VC-4000376,Hatchback,4,0,0,0,"Sep. 2, 1987 - 20:53:52","41.388089, 76.853771",rainy,Humnan negligence
+VC-4000377,Sedan,1,0,0,0,"Jun. 21, 2003 - 04:40:24","37.417372, -84.555562",clear,Unforeseeable accident
+VC-4000378,School Bus,76,29,17,20,"Apr. 13, 1969 - 14:01:47","-49.943933, -60.119264",cloudy,Mechanical failure
+VC-4000379,Hatchback,4,4,1,0,"Nov. 8, 1982 - 23:51:50","-32.162667, -62.224228",foggy,Humnan negligence
+VC-4000380,Station Wagon,0,0,0,0,"Feb. 28, 1999 - 12:36:24","49.917544, 57.708947",cloudy,Unforeseeable accident
+VC-4000381,18-Wheeler,0,0,0,0,"Apr. 8, 2019 - 23:42:03","50.699925, -63.829674",clear,Mechanical failure
+VC-4000382,Pickup Truck,4,4,1,0,"Feb. 28, 2000 - 02:58:39","-8.175147, -50.229494",rainy,Unforeseeable accident
+VC-4000383,School Bus,12,0,0,0,"May 24, 1994 - 13:44:20","30.582248, -92.362822",clear,Unforeseeable accident
+VC-4000384,Coupe,0,0,0,0,"May 25, 2001 - 07:40:18","18.367361, -94.714383",cloudy,Unforeseeable accident
+VC-4000385,Sports Car,1,0,0,0,"Apr. 11, 1963 - 07:25:58","61.380463, -38.244021",foggy,Mechanical failure
+VC-4000386,Van,1,2,0,0,"Jan. 6, 2010 - 19:07:25","29.332488, 36.384211",stormy,Mechanical failure
+VC-4000387,Hatchback,4,2,0,1,"Feb. 11, 1995 - 12:04:51","-7.002489, 131.157583",cloudy,Unforeseeable accident
+VC-4000388,Minivan,5,0,1,2,"Oct. 13, 2012 - 22:57:03","42.356245, 78.003606",clear,Unforeseeable accident
+VC-4000389,School Bus,54,34,11,9,"Jun. 8, 2007 - 18:31:30","63.000634, -34.975639",cloudy,Mechanical failure
+VC-4000390,Station Wagon,0,0,0,1,"Aug. 20, 1959 - 06:35:34","-9.155932, 16.072426",rainy,Humnan negligence
+VC-4000391,Hatchback,1,0,0,0,"Nov. 27, 1977 - 22:38:36","-12.411534, 139.365031",rainy,Humnan negligence
+VC-4000392,Supercar,1,0,0,0,"Oct. 17, 1998 - 21:16:29","73.366168, -51.327549",rainy,Unforeseeable accident
+VC-4000393,Station Wagon,4,2,1,1,"Apr. 25, 1952 - 06:31:04","16.889988, -88.425885",foggy,Unforeseeable accident
+VC-4000394,Hatchback,1,0,0,1,"Nov. 30, 1994 - 04:01:15","27.432764, -4.736684",rainy,Mechanical failure
+VC-4000395,Coupe,2,1,0,1,"Aug. 10, 2017 - 03:05:21","-0.331619, 25.690941",rainy,Unforeseeable accident
+VC-4000396,Micro Car,1,0,0,0,"Jan. 10, 1989 - 17:54:57","-15.680253, 123.162085",foggy,Mechanical failure
+VC-4000397,Van,4,2,1,1,"Jun. 10, 1957 - 11:20:31","67.427631, -112.660081",clear,Humnan negligence
+VC-4000398,Van,8,0,0,0,"Oct. 9, 2014 - 17:08:58","-21.0956, 119.694303",rainy,Unforeseeable accident
+VC-4000399,18-Wheeler,1,0,0,0,"Jun. 20, 1979 - 19:19:51","-5.80291, -63.886785",stormy,Mechanical failure
+VC-4000400,Sports Car,0,0,0,0,"Jan. 19, 1989 - 10:25:24","-48.452248, -65.220381",cloudy,Mechanical failure
+VC-4000401,Micro Car,1,0,0,0,"Feb. 6, 1962 - 15:39:27","3.001512, 124.097385",stormy,Humnan negligence
+VC-4000402,Station Wagon,3,1,0,1,"Feb. 15, 2017 - 17:59:40","32.590945, 2.70752",stormy,Mechanical failure
+VC-4000403,Micro Car,1,1,0,0,"Aug. 6, 1988 - 16:08:17","15.394178, -96.018397",rainy,Mechanical failure
+VC-4000404,18-Wheeler,1,0,0,1,"Jun. 7, 1987 - 16:01:48","37.260076, -112.102721",stormy,Unforeseeable accident
+VC-4000405,Sedan,2,3,0,0,"Jul. 20, 2008 - 08:09:18","-8.908248, 136.140678",stormy,Humnan negligence
+VC-4000406,School Bus,1,0,0,0,"Mar. 2, 1974 - 06:07:19","41.706652, -103.272997",stormy,Mechanical failure
+VC-4000407,Sports Car,1,0,0,1,"Jul. 29, 1956 - 21:13:21","65.763285, -40.588597",foggy,Unforeseeable accident
+VC-4000408,Station Wagon,4,0,0,1,"Oct. 25, 1990 - 11:02:52","2.187006, -71.061491",stormy,Mechanical failure
+VC-4000409,Hatchback,1,0,0,0,"Apr. 12, 1969 - 00:13:49","23.820055, 9.059271",cloudy,Humnan negligence
+VC-4000410,Motorcycle,1,0,0,0,"Aug. 14, 1964 - 12:04:50","52.515353, -109.495614",rainy,Unforeseeable accident
+VC-4000411,Hatchback,2,0,0,1,"May 15, 1998 - 07:31:36","23.332996, 11.343895",foggy,Unforeseeable accident
+VC-4000412,SUV,5,6,0,0,"Jan. 29, 1962 - 09:59:42","36.468235, 113.826835",cloudy,Humnan negligence
+VC-4000413,Station Wagon,4,1,0,0,"Oct. 29, 1978 - 13:13:51","38.765532, 105.115394",cloudy,Mechanical failure
+VC-4000414,SUV,5,0,0,0,"Mar. 2, 1953 - 11:12:11","-2.399398, 24.850481",cloudy,Humnan negligence
+VC-4000415,Supercar,1,1,0,1,"Aug. 3, 2001 - 14:52:16","30.264381, -111.426465",cloudy,Mechanical failure
+VC-4000416,Supercar,1,1,0,0,"Jul. 5, 1992 - 16:16:53","42.428736, 77.184891",foggy,Humnan negligence
+VC-4000417,RV,5,1,0,1,"Apr. 25, 1987 - 02:44:36","-4.306314, 128.607654",clear,Unforeseeable accident
+VC-4000418,Supercar,1,0,0,0,"Oct. 14, 1961 - 04:03:49","18.282893, -115.394309",foggy,Unforeseeable accident
+VC-4000419,Micro Car,0,0,0,0,"May 3, 2003 - 07:41:29","49.45782, 47.655244",stormy,Unforeseeable accident
+VC-4000420,Station Wagon,1,0,0,0,"May 7, 1997 - 21:57:27","54.505488, -126.064847",foggy,Unforeseeable accident
+VC-4000421,Pickup Truck,2,0,0,0,"Jun. 5, 2018 - 09:35:42","60.544783, -74.402319",rainy,Unforeseeable accident
+VC-4000422,Motorcycle,0,0,0,0,"Oct. 26, 2017 - 23:40:39","57.697948, -73.072362",rainy,Mechanical failure
+VC-4000423,Coupe,2,0,1,1,"Nov. 14, 2009 - 06:44:58","30.13982, 48.135532",stormy,Humnan negligence
+VC-4000424,Pickup Truck,3,0,0,0,"Nov. 12, 2013 - 09:28:11","-2.86051, -38.149318",stormy,Mechanical failure
+VC-4000425,18-Wheeler,0,0,0,0,"Feb. 25, 1979 - 10:44:00","56.8331, -109.014519",cloudy,Mechanical failure
+VC-4000426,Sports Car,1,0,0,1,"Dec. 22, 1995 - 23:18:33","60.73429, 127.237399",clear,Mechanical failure
+VC-4000427,Pickup Truck,3,0,0,0,"May 13, 1999 - 12:40:16","75.309395, -55.954509",cloudy,Mechanical failure
+VC-4000428,Coupe,2,1,0,0,"May 27, 1974 - 01:48:13","-28.985015, -68.948458",foggy,Humnan negligence
+VC-4000429,RV,3,0,0,0,"Jun. 10, 1975 - 11:19:55","74.521581, 127.676659",rainy,Mechanical failure
+VC-4000430,Van,9,0,0,0,"Jul. 20, 1978 - 08:01:45","-5.746594, 97.544392",cloudy,Humnan negligence
+VC-4000431,Sports Car,0,0,0,0,"Dec. 30, 1996 - 21:05:41","21.529337, 36.694126",rainy,Mechanical failure
+VC-4000432,SUV,5,0,0,0,"Sep. 2, 1956 - 09:00:42","8.905448, 70.202849",rainy,Humnan negligence
+VC-4000433,Sports Car,0,0,0,0,"Mar. 21, 2003 - 15:06:15","27.780672, 82.641596",rainy,Humnan negligence
+VC-4000434,Micro Car,1,0,0,1,"Mar. 2, 1990 - 10:46:39","64.280213, -45.860948",foggy,Unforeseeable accident
+VC-4000435,Sedan,1,2,0,0,"Jul. 31, 2000 - 01:00:18","51.943477, 59.796219",stormy,Mechanical failure
+VC-4000436,SUV,2,0,0,0,"Apr. 17, 1988 - 01:06:00","5.65772, 116.510829",clear,Unforeseeable accident
+VC-4000437,Supercar,1,0,0,1,"Jul. 5, 1967 - 08:06:18","34.72635, 10.124532",cloudy,Unforeseeable accident
+VC-4000438,Sports Car,1,1,0,0,"Sep. 12, 1951 - 19:03:42","2.057648, 13.827302",clear,Unforeseeable accident
+VC-4000439,SUV,5,0,0,1,"Oct. 23, 1950 - 03:35:54","48.318327, -102.984674",foggy,Unforeseeable accident
+VC-4000440,Micro Car,1,0,0,1,"Nov. 7, 1999 - 16:26:34","-4.767336, 125.248895",stormy,Unforeseeable accident
+VC-4000441,School Bus,76,6,2,6,"Aug. 2, 1953 - 07:44:59","25.364365, 78.389808",stormy,Mechanical failure
+VC-4000442,Motorcycle,1,0,0,0,"May 7, 2019 - 00:31:17","-31.063931, -60.75962",cloudy,Mechanical failure
+VC-4000443,Van,2,0,0,0,"Dec. 30, 1971 - 19:46:25","-8.351009, 16.090623",cloudy,Mechanical failure
+VC-4000444,Supercar,1,0,0,0,"Jul. 18, 1955 - 16:50:42","-19.232705, -71.409062",foggy,Unforeseeable accident
+VC-4000445,Coupe,0,0,0,0,"Feb. 8, 1980 - 01:09:38","65.399111, 64.988983",foggy,Mechanical failure
+VC-4000446,Sports Car,1,0,0,0,"Mar. 11, 1988 - 08:35:00","61.087927, 61.780674",rainy,Unforeseeable accident
+VC-4000447,Micro Car,1,1,0,0,"Apr. 14, 1998 - 15:52:44","30.42731, -94.008072",foggy,Unforeseeable accident
+VC-4000448,Station Wagon,4,0,0,0,"Nov. 30, 1995 - 17:07:18","2.880108, 21.330994",foggy,Humnan negligence
+VC-4000449,Motorcycle,0,0,0,0,"Dec. 1, 1988 - 17:35:10","23.383797, -93.292632",rainy,Humnan negligence
+VC-4000450,Minivan,3,3,1,0,"Jan. 27, 1981 - 06:07:39","42.67517, 85.921072",rainy,Humnan negligence
+VC-4000451,Hatchback,0,0,0,0,"Sep. 8, 1955 - 17:18:06","67.560382, -117.089953",rainy,Humnan negligence
+VC-4000452,Hatchback,4,3,2,0,"Oct. 25, 2002 - 14:12:00","58.893894, 167.205378",stormy,Unforeseeable accident
+VC-4000453,Pickup Truck,3,0,0,0,"Mar. 30, 1990 - 17:26:02","21.068259, 47.186946",foggy,Humnan negligence
+VC-4000454,Micro Car,0,0,0,0,"Oct. 12, 1989 - 05:11:52","-3.787691, 27.631104",cloudy,Unforeseeable accident
+VC-4000455,Sports Car,1,1,0,0,"Jul. 27, 1998 - 20:58:34","2.491522, 107.669902",rainy,Mechanical failure
+VC-4000456,Station Wagon,0,0,0,0,"Sep. 10, 1984 - 19:35:18","27.041544, 5.450557",foggy,Unforeseeable accident
+VC-4000457,18-Wheeler,0,0,0,0,"Sep. 3, 1984 - 02:52:41","-41.500721, -67.457647",rainy,Mechanical failure
+VC-4000458,SUV,0,0,0,0,"May 26, 1979 - 04:36:22","-27.038532, -65.526294",stormy,Mechanical failure
+VC-4000459,Supercar,0,0,0,0,"Feb. 4, 1973 - 01:32:57","52.144142, 49.975011",cloudy,Unforeseeable accident
+VC-4000460,Supercar,0,1,0,0,"Apr. 28, 1989 - 20:55:30","30.810825, 38.559397",cloudy,Humnan negligence
+VC-4000461,RV,1,0,0,0,"Feb. 4, 1982 - 13:12:31","26.269991, 94.5567",stormy,Mechanical failure
+VC-4000462,Motorcycle,0,0,0,0,"Aug. 2, 1979 - 19:25:07","74.666754, 43.873938",stormy,Unforeseeable accident
+VC-4000463,Convertible,1,0,0,0,"Sep. 19, 2002 - 18:52:32","19.067755, 38.546581",stormy,Humnan negligence
+VC-4000464,Supercar,0,0,0,0,"Jun. 30, 1956 - 03:24:57","-14.256699, -40.688899",rainy,Mechanical failure
+VC-4000465,Motorcycle,0,0,0,0,"Aug. 13, 2012 - 04:08:02","1.203466, 98.887054",clear,Unforeseeable accident
+VC-4000466,Van,7,0,0,0,"Dec. 16, 1977 - 00:00:14","65.950306, 121.584825",foggy,Unforeseeable accident
+VC-4000467,School Bus,49,8,5,12,"Apr. 24, 1996 - 02:48:32","31.187806, 114.332472",clear,Mechanical failure
+VC-4000468,Motorcycle,0,0,0,0,"Feb. 9, 1951 - 16:19:39","58.726544, -76.179521",clear,Humnan negligence
+VC-4000469,Micro Car,1,0,0,0,"Jul. 9, 2011 - 17:02:34","34.933508, 3.16248",cloudy,Humnan negligence
+VC-4000470,School Bus,74,28,14,23,"Oct. 2, 2008 - 16:44:43","38.326719, -74.272822",stormy,Mechanical failure
+VC-4000471,Van,4,0,0,0,"Oct. 4, 1998 - 10:17:53","38.753319, -108.374914",cloudy,Mechanical failure
+VC-4000472,18-Wheeler,1,2,0,0,"Mar. 20, 1980 - 21:51:36","-32.070473, 143.514407",stormy,Humnan negligence
+VC-4000473,Hatchback,1,0,0,0,"Oct. 26, 1985 - 10:17:50","35.79644, 119.632299",foggy,Unforeseeable accident
+VC-4000474,Convertible,1,0,0,0,"Sep. 20, 2002 - 03:26:13","68.631984, -104.365326",stormy,Unforeseeable accident
+VC-4000475,SUV,1,1,0,1,"Mar. 10, 2001 - 15:07:38","64.806198, -43.196584",cloudy,Unforeseeable accident
+VC-4000476,Pickup Truck,0,1,0,0,"May 21, 1977 - 12:23:48","43.775885, 55.419395",clear,Humnan negligence
+VC-4000477,Minivan,3,2,1,1,"Jan. 15, 1986 - 20:40:36","25.949324, -105.532422",clear,Mechanical failure
+VC-4000478,Supercar,1,0,0,0,"Jun. 8, 1958 - 03:13:52","-50.545919, -59.673903",cloudy,Mechanical failure
+VC-4000479,Hatchback,2,0,1,1,"Nov. 24, 1997 - 18:29:07","-27.976629, 120.959903",foggy,Unforeseeable accident
+VC-4000480,Pickup Truck,3,2,1,1,"May 6, 1976 - 16:09:21","35.555871, 94.08763",foggy,Unforeseeable accident
+VC-4000481,Pickup Truck,2,0,1,1,"Jul. 29, 2010 - 23:29:10","30.187327, -5.623212",rainy,Mechanical failure
+VC-4000482,Pickup Truck,0,1,0,0,"Jun. 3, 1973 - 03:15:27","68.563744, -35.941916",foggy,Mechanical failure
+VC-4000483,Supercar,1,0,0,0,"Jan. 31, 1967 - 02:41:43","-28.774982, -69.65938",rainy,Mechanical failure
+VC-4000484,Station Wagon,4,2,1,1,"Oct. 11, 1958 - 21:07:26","24.192837, -5.59819",rainy,Mechanical failure
+VC-4000485,Sports Car,0,0,0,1,"Feb. 3, 2018 - 05:12:43","74.234318, 170.432533",clear,Mechanical failure
+VC-4000486,Coupe,0,0,0,0,"Apr. 13, 2018 - 00:18:08","30.457597, 42.607239",cloudy,Mechanical failure
+VC-4000487,18-Wheeler,0,0,0,0,"Mar. 5, 1963 - 07:23:55","48.109571, -107.62814",foggy,Unforeseeable accident
+VC-4000488,School Bus,74,16,8,17,"Jan. 22, 1995 - 11:04:58","30.481352, -111.657572",cloudy,Unforeseeable accident
+VC-4000489,RV,5,0,0,0,"Dec. 27, 2001 - 21:55:08","41.554871, -97.604556",foggy,Unforeseeable accident
+VC-4000490,Station Wagon,1,1,0,0,"Jan. 14, 1977 - 17:33:46","-5.3333, -44.978954",clear,Unforeseeable accident
+VC-4000491,Sports Car,1,1,0,0,"Dec. 9, 2007 - 04:08:00","-36.589376, 149.336187",clear,Humnan negligence
+VC-4000492,Van,12,5,2,3,"May 2, 1963 - 00:04:56","-26.018497, 119.994379",stormy,Humnan negligence
+VC-4000493,Sports Car,1,0,0,0,"Feb. 21, 1962 - 22:54:26","-17.193284, 115.697651",cloudy,Mechanical failure
+VC-4000494,Convertible,1,0,0,0,"Apr. 16, 2012 - 23:16:13","59.389926, 40.866365",cloudy,Mechanical failure
+VC-4000495,Micro Car,1,0,0,0,"Aug. 30, 1995 - 07:31:22","-12.704764, 20.277576",cloudy,Humnan negligence
+VC-4000496,Station Wagon,0,0,0,0,"Mar. 5, 1992 - 01:27:00","-7.983453, 26.601468",cloudy,Mechanical failure
+VC-4000497,Micro Car,0,0,0,0,"Sep. 15, 2019 - 18:44:57","27.217029, 52.963644",cloudy,Mechanical failure
+VC-4000498,Micro Car,0,0,0,0,"Jan. 11, 1961 - 09:59:47","26.398255, 102.745407",stormy,Mechanical failure
+VC-4000499,Coupe,3,1,1,1,"Aug. 4, 1972 - 21:54:39","58.894054, -140.21008",stormy,Unforeseeable accident

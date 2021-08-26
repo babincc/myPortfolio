@@ -1,0 +1,5 @@
+ID,type,start_time,end_time,time_of_warning,wind_speed,rainfall,flood_depth,magnitude,cause
+H-2000000,hurricane,"Jun. 1, 1931 - 13:34:59","Jun. 2, 1931 - 04:34:59","May. 27, 1931 - 10:31:07",98,12,21,2,null
+PC-3000000,plane_crash,"Dec. 9, 1967 - 23:05:27",null,null,null,null,null,null,human negligence
+T-1000000,tornado,"May 31, 1990 - 09:47:03","May 31, 1990 - 10:59:03","May 31, 1990 - 08:40:13",138,null,null,3,null
+VC-4000000,vehicle_crash,"Jul. 6, 2012 - 17:27:33",null,null,null,null,null,null,unforeseeable_accident
