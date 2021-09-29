@@ -2,8 +2,6 @@
 
 This page allows you to download each project individually rather than getting the whole portfolio at once. Below are links to each project's downloadable .zip folder.
 
-<br>
-
 ### Table of Contents
 
 | Project | Description |
