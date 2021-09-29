@@ -1,7 +1,7 @@
 # Downloads
 
-[Download for Mac](Crypt%20Keeper%20for%20Mac.zip) <br>
-[Download for Windows](Crypt%20Keeper%20for%20Windows.zip)
+[Download for Mac](https://github.com/babincc/myPortfolio/raw/main/Crypt%20Keeper/downloads/Crypt%20Keeper%20for%20Mac.zip) <br>
+[Download for Windows](https://github.com/babincc/myPortfolio/raw/main/Crypt%20Keeper/downloads/Crypt%20Keeper%20for%20Windows.zip)
 
 ## Table of Contents
 
