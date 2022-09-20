@@ -112,6 +112,7 @@ public class UserInputFetcher {
             // Try for a number input, catch any other type of input.
             try {
                 num = userIn.nextInt();
+                userIn.nextLine(); // Eat up the rest of the input.
             } catch (InputMismatchException e) {
                 // User entered something other than a number.
                 System.out.print("Please enter a valid number: ");
