@@ -1,4 +1,4 @@
-package utils;
+package main.utils;
 
 /**
  * This class contains general tools that can be used throughout the program.
@@ -13,10 +13,17 @@ public class MyTools {
      * This method deletes an element from a char array.
      *
      * @param original The char array that needs an element deleted.
-     * @param index The index of the element that needs to be deleted.
-     * @return The char array with the selected element deleted.
+     * @param index    The index of the element that needs to be deleted.
+     * @return The char array with the selected element deleted. Null if
+     * original is null or index is invalid.
      */
     public static char[] deleteElementAtIndex(char[] original, int index) {
+        if (original == null) {
+            return null;
+        } else if (index < 0 || index >= original.length) {
+            return null;
+        }
+
         /// The new array without the deleted element.
         char[] toReturn = new char[original.length - 1];
 
@@ -27,7 +34,7 @@ public class MyTools {
 
         // Go through every element in the original array, and add it to the
         // toReturn array (except for the deleted one).
-        for (int i = 0; i < original.length; i++){
+        for (int i = 0; i < original.length; i++) {
             // If the current element is the one that is being deleted, skip it.
             if (i == index) {
                 continue;

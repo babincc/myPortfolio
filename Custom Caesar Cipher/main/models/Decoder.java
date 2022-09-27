@@ -1,4 +1,4 @@
-package models;
+package main.models;
 
 /**
  * This is equivalent to a physical Caesar Cipher device.
@@ -22,7 +22,7 @@ public class Decoder {
     }
 
     public void setShiftBy(int shiftBy) {
-        // Since this represents a circle with a finite number or spaces, we
+        // Since this represents a circle with a finite number of spaces, we
         // must keep the number within range.
         this.shiftBy = shiftBy % KeyDisc.getDefaultAlphabet().length();
     }
@@ -39,10 +39,11 @@ public class Decoder {
         char[] decodedMsg = new char[message.length()];
 
         // Go through every character in the encoded message and decode it.
-        for(int i = 0; i < decodedMsg.length; i++) {
+        for (int i = 0; i < decodedMsg.length; i++) {
             // Right now, this program only handles letters and numbers; so,
             // just send everything else through as plain text.
-            if(!Character.toString(message.charAt(i)).matches("[a-zA-Z0-9]*")) {
+            if (!Character.toString(message.charAt(i))
+                    .matches("[a-zA-Z0-9]*")) {
                 decodedMsg[i] = message.charAt(i);
                 continue;
             }
@@ -76,10 +77,11 @@ public class Decoder {
         char[] encodedMsg = new char[message.length()];
 
         // Go through every character in the decoded message and encode it.
-        for(int i = 0; i < encodedMsg.length; i++) {
+        for (int i = 0; i < encodedMsg.length; i++) {
             // Right now, this program only handles letters and numbers; so,
             // just send everything else through as plain text.
-            if(!Character.toString(message.charAt(i)).matches("[a-zA-Z0-9]*")) {
+            if (!Character.toString(message.charAt(i))
+                    .matches("[a-zA-Z0-9]*")) {
                 encodedMsg[i] = message.charAt(i);
                 continue;
             }
@@ -95,7 +97,7 @@ public class Decoder {
 
             // If the keyIndex is negative, loop back around to the end of
             // the circle and count down from there.
-            if(keyIndex < 0) {
+            if (keyIndex < 0) {
                 keyIndex = keyDisc.getAlphabet().length() + keyIndex;
             }
 

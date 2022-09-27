@@ -1,4 +1,4 @@
-package utils.UserInputFetcher;
+package main.utils.userInputFetcher;
 
 import java.util.InputMismatchException;
 import java.util.Scanner;
@@ -13,45 +13,23 @@ import java.util.Scanner;
  * @since 1.0.0
  */
 public class UserInputFetcher {
-    /**
-     * These are the different types of UserInputFetchers that can be used.
-     */
-    public enum InputType {
-        /**
-         * For any keyboard input.
-         */
-        General,
-
-        /**
-         * For numerical keyboard input.
-         */
-        Number,
-
-        /**
-         * For specific words or phrases as keyboard inputs.
-         */
-        PredefinedTerms
-    }
-
-    public UserInputFetcher () {
-        this(InputType.General);
-    }
-
-    public UserInputFetcher (InputType inputType) {
-       this.inputType = inputType;
-
-       userIn = SingletonSysInScanner.getInstance().getUserIn();
-    }
-
     /// The singleton instance of the System.in scanner.
     private final Scanner userIn;
-
     /// The type of input this UserInputFetcher will be used to collect.
     private final InputType inputType;
-
     /// If the type is InputType.PredefinedTerms, these are the predefined
     /// terms that will be compared to the user input to make sure it is valid.
     private String[] predefinedTerms;
+
+    public UserInputFetcher() {
+        this(InputType.General);
+    }
+
+    public UserInputFetcher(InputType inputType) {
+        this.inputType = inputType;
+
+        userIn = SingletonSysInScanner.getInstance().getUserIn();
+    }
 
     public void setPredefinedTerms(String[] predefinedTerms) {
         this.predefinedTerms = predefinedTerms;
@@ -113,7 +91,8 @@ public class UserInputFetcher {
             try {
                 num = userIn.nextInt();
                 userIn.nextLine(); // Eat up the rest of the input.
-            } catch (InputMismatchException e) {
+            }
+            catch(InputMismatchException e) {
                 // User entered something other than a number.
                 System.out.print("Please enter a valid number: ");
                 userIn.nextLine(); // Eat up the rest of the bad input.
@@ -158,7 +137,7 @@ public class UserInputFetcher {
             for(String term : predefinedTerms) {
                 // If it matches one of the predefined terms, approve it and
                 // move forward.
-                if (temp.equalsIgnoreCase(term)) {
+                if(temp.equalsIgnoreCase(term)) {
                     toReturn = temp;
                     break;
                 }
@@ -172,5 +151,25 @@ public class UserInputFetcher {
 
         // Return the approved input.
         return toReturn;
+    }
+
+    /**
+     * These are the different types of UserInputFetchers that can be used.
+     */
+    public enum InputType {
+        /**
+         * For any keyboard input.
+         */
+        General,
+
+        /**
+         * For numerical keyboard input.
+         */
+        Number,
+
+        /**
+         * For specific words or phrases as keyboard inputs.
+         */
+        PredefinedTerms
     }
 }

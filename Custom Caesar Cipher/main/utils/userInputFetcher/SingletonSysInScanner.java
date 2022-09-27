@@ -1,4 +1,4 @@
-package utils.UserInputFetcher;
+package main.utils.userInputFetcher;
 
 import java.util.Scanner;
 
@@ -12,23 +12,22 @@ import java.util.Scanner;
  * @since 1.0.0
  */
 class SingletonSysInScanner {
+    private static SingletonSysInScanner instance = null;
+    private final Scanner userIn;
+
     private SingletonSysInScanner() {
         userIn = new Scanner(System.in);
     }
 
-    private static SingletonSysInScanner instance = null;
-
-    private final Scanner userIn;
-
-    public Scanner getUserIn() {
-        return userIn;
-    }
-
     public static SingletonSysInScanner getInstance() {
-        if (instance == null) {
+        if(instance == null) {
             instance = new SingletonSysInScanner();
         }
 
         return instance;
+    }
+
+    public Scanner getUserIn() {
+        return userIn;
     }
 }

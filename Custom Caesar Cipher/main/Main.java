@@ -1,27 +1,29 @@
-import models.Decoder;
-import models.KeyDisc;
-import utils.UserInputFetcher.UserInputFetcher;
+package main;
+
+import main.models.Decoder;
+import main.models.KeyDisc;
+import main.utils.userInputFetcher.UserInputFetcher;
 
 /**
- * @see
- * <a href="https://github.com/babincc/myPortfolio/blob/main/Custom%20Caesar%20Cipher/README.md">README on GitHub</a>
  * @author Christian Babin
  * @version 1.0.0
+ * @see
+ * <a href="https://github.com/babincc/myPortfolio/blob/main/Custom%20Caesar%20Cipher/README.md">README on GitHub</a>
  * @since 1.0.0
  */
 public class Main {
 
     /// A custom scanner that takes in a number from the user.
-    private static final UserInputFetcher myNumberInputFetcher = new
-            UserInputFetcher(UserInputFetcher.InputType.Number);
+    private static final UserInputFetcher myNumberInputFetcher =
+            new UserInputFetcher(UserInputFetcher.InputType.Number);
 
     /// A custom scanner that takes in a specific term from the user.
-    private static final UserInputFetcher myPredefinedInputFetcher = new
-            UserInputFetcher(UserInputFetcher.InputType.PredefinedTerms);
+    private static final UserInputFetcher myPredefinedInputFetcher =
+            new UserInputFetcher(UserInputFetcher.InputType.PredefinedTerms);
 
     /// A custom scanner that takes in any keyboard input from the user.
-    private static final UserInputFetcher myGeneralInputFetcher = new
-            UserInputFetcher(UserInputFetcher.InputType.General);
+    private static final UserInputFetcher myGeneralInputFetcher =
+            new UserInputFetcher(UserInputFetcher.InputType.General);
 
     public static void main(String[] args) {
         // Have the user select which alphabet they want to use as the key in
@@ -116,8 +118,8 @@ public class Main {
         // Set the predefined terms in the custom scanner.
         myPredefinedInputFetcher.setPredefinedTerms(predefinedTerms);
 
-        System.out.print("Do you want to (e)ncrypt or (d)ecrypt your message?" +
-                " ");
+        System.out.print(
+                "Do you want to (e)ncrypt or (d)ecrypt your message?" + " ");
 
         return myPredefinedInputFetcher.fetchUserInput();
     }
@@ -127,7 +129,7 @@ public class Main {
      *
      * @param decoder The device that will be used to encode or decode the
      *                message.
-     * @param action Encode or decode.
+     * @param action  Encode or decode.
      */
     private static void runAction(Decoder decoder, String action) {
         // If action is corrupt, let the user know.
@@ -138,19 +140,19 @@ public class Main {
             action = action.toLowerCase();
 
             if(action.startsWith("e")) { // User selected "encrypt"
-                System.out.print("Please enter the message you want to " +
-                        "encrypt: ");
+                System.out.print(
+                        "Please enter the message you want to " + "encrypt: ");
             } else if(action.startsWith("d")) { // User selected "decrypt"
-                System.out.print("Please enter the message you want to " +
-                        "decrypt: ");
+                System.out.print(
+                        "Please enter the message you want to " + "decrypt: ");
             } else { // Action has been corrupted.
                 System.out.println("ERROR: Invalid action given!");
                 return;
             }
 
             /// The message the user wants to encrypt or decrypt.
-            String message = myGeneralInputFetcher.fetchUserInput()
-                    .toLowerCase();
+            String message =
+                    myGeneralInputFetcher.fetchUserInput().toLowerCase();
 
             /// The message after it has been encrypted or decrypted.
             String output;

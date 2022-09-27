@@ -1,6 +1,6 @@
-package models;
+package main.models;
 
-import utils.MyTools;
+import main.utils.MyTools;
 
 /**
  * This class represents the inner spinning disc of a physical Caesar Cipher
@@ -11,22 +11,21 @@ import utils.MyTools;
  * @since 1.0.0
  */
 public class KeyDisc {
-    public KeyDisc (int alphabetNumber) {
+
+    /// All the characters this program is designed to handle.
+    private static final String DEFAULT_ALPHABET =
+            "abcdefghijklmnopqrstuvwxyz0123456789";
+    /// This will be used as the seed to calculate a unique alphabet.
+    private final int alphabetNumber;
+    /// This is the unique alphabet that is calculated from the
+    /// alphabetNumber seed.
+    private String alphabet;
+
+    public KeyDisc(int alphabetNumber) {
         this.alphabetNumber = alphabetNumber;
 
         calcAlphabet();
     }
-
-    /// All of the characters this program is designed to handle.
-    private static final String DEFAULT_ALPHABET =
-            "abcdefghijklmnopqrstuvwxyz0123456789";
-
-    /// This will be used as the seed to calculate a unique alphabet.
-    private final int alphabetNumber;
-
-    /// This is the unique alphabet that is calculated from the
-    /// alphabetNumber seed.
-    private String alphabet;
 
     public static String getDefaultAlphabet() {
         return DEFAULT_ALPHABET;
@@ -39,9 +38,13 @@ public class KeyDisc {
     /**
      * This method calculates the unique alphabet.
      *
-     * @return The unique alphabet.
+     * @return The unique alphabet. Null for alphabetNumber < 0.
      */
     public String calcAlphabet() {
+        if(alphabetNumber < 0) {
+            return null;
+        }
+
         /// The default alphabet as a char array for easy coding.
         char[] defAlphabetArr = DEFAULT_ALPHABET.toCharArray();
 
@@ -56,8 +59,8 @@ public class KeyDisc {
             newAlphabet[i] = defAlphabetArr[index];
 
             // Delete each character as we go so there are no duplicates.
-            defAlphabetArr = MyTools.deleteElementAtIndex(defAlphabetArr,
-                    index);
+            defAlphabetArr =
+                    MyTools.deleteElementAtIndex(defAlphabetArr, index);
         }
 
         // Convert the new alphabet array into a string, and set it as this
@@ -66,4 +69,5 @@ public class KeyDisc {
 
         return alphabet;
     }
+
 }
