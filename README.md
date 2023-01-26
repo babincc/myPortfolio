@@ -18,11 +18,11 @@ To download runnable versions of these programs (if they are available) you will
 
 ## Projects
 
-| Project | Description |
-| --- | --- |
-| [Crypt Keeper](Crypt%20Keeper) | This program is used to encrypt and decrypt messages. |
-| [Custom Caesar Cipher](Custom%20Caesar%20Cipher) | This is my take on the traditional Caesar Cipher. |
-| [Disaster Database](Disaster%20Database) | A database that contributes to a solution to a real-world problem. In this case, natural and man-made disasters. |
-| [Flutter Workshop](https://github.com/babincc/flutter_workshop#readme) (external link) | A collection of all of the add-ons, plug-ins, and helpful code that I've written for Flutter. |
-| [tic-tac-toe](tic-tac-toe) | An app created to give tic-tac-toe a fun new twist. |
-| [VCU Scavenger Hunt](VCU%20Scavenger%20Hunt) | A quest game app that is aimed at familiarizing new VCU students with the Monroe Park campus. |
+| Project | Language | Description |
+| --- | --- | --- |
+| [Crypt Keeper](Crypt%20Keeper) | Java | This program is used to encrypt and decrypt messages. |
+| [Custom Caesar Cipher](Custom%20Caesar%20Cipher) | Java | This is my take on the traditional Caesar Cipher. |
+| [Disaster Database](Disaster%20Database) | Java, SQL, PHP, HTML, and CSS | A database that contributes to a solution to a real-world problem. In this case, natural and man-made disasters. |
+| [Flutter Workshop](https://github.com/babincc/flutter_workshop#readme) (external link) | Flutter/Dart | A collection of all of the add-ons, plug-ins, and helpful code that I've written for Flutter. |
+| [tic-tac-toe](tic-tac-toe) | Android/Java | An app created to give tic-tac-toe a fun new twist. |
+| [VCU Scavenger Hunt](VCU%20Scavenger%20Hunt) | Android/Java | A quest game app that is aimed at familiarizing new VCU students with the Monroe Park campus. |
