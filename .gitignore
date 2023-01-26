@@ -1,0 +1,12 @@
+# mac files
+_MACOSX
+.DS_Store
+
+#VS Code related
+.VSCodeCounter
+
+# IntelliJ related
+*.iml
+*.ipr
+*.iws
+.idea/
