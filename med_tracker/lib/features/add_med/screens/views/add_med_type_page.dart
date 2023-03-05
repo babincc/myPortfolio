@@ -136,7 +136,7 @@ class _AddMedTypePageState extends State<AddMedTypePage> {
                       child: Icon(
                         Icons.check,
                         color: Theme.of(context).colorScheme.primary,
-                        size: Theme.of(context).textTheme.bodyText2?.fontSize,
+                        size: Theme.of(context).textTheme.bodyMedium?.fontSize,
                       ),
                     )
                 ],

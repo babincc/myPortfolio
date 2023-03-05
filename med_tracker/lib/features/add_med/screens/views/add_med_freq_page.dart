@@ -129,7 +129,7 @@ class _AddMedFreqPageState extends State<AddMedFreqPage> {
                       child: Icon(
                         Icons.check,
                         color: Theme.of(context).colorScheme.primary,
-                        size: Theme.of(context).textTheme.bodyText2?.fontSize,
+                        size: Theme.of(context).textTheme.bodyMedium?.fontSize,
                       ),
                     )
                 ],
@@ -151,9 +151,9 @@ class _AddMedFreqPageState extends State<AddMedFreqPage> {
   /// can select from.
   Widget _buildIntervalSelector(BuildContext context) {
     final double fontSize =
-        Theme.of(context).textTheme.bodyText2?.fontSize ?? 14.0;
+        Theme.of(context).textTheme.bodyMedium?.fontSize ?? 14.0;
     final double lineHeight =
-        Theme.of(context).textTheme.bodyText2?.height ?? 1.43;
+        Theme.of(context).textTheme.bodyMedium?.height ?? 1.43;
     const double padding = 2.0 * MyMeasurements.elementSpread;
 
     /// The height of each item in the wheel.
