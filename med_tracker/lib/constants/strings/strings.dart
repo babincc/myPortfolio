@@ -20,6 +20,8 @@ abstract class Strings {
 
   String get createAccount;
 
+  String get day;
+
   String get displayName;
 
   String get done;

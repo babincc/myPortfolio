@@ -1,3 +1,4 @@
+import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 import 'package:med_tracker/constants/assets.dart';
 import 'package:med_tracker/constants/theme/my_measurements.dart';
@@ -38,78 +39,93 @@ class _AddMedSchedulePageState extends State<AddMedSchedulePage> {
 
   @override
   Widget build(BuildContext context) {
-    return Column(
-      children: [
-        // IMAGE
-        const AddMedImg(Assets.addMedSchedule),
+    return SingleChildScrollView(
+      child: Column(
+        children: [
+          // IMAGE
+          const AddMedImg(Assets.addMedSchedule),
 
-        // TITLE
-        MyText(
-          MyTools.capitalizeEachWord(viewModel.strings.medSchedule),
-          myTextStyle: MyTextStyle.title,
-        ),
+          // TITLE
+          MyText(
+            MyTools.capitalizeEachWord(viewModel.strings.medSchedule),
+            myTextStyle: MyTextStyle.title,
+          ),
 
-        const SizedBox(height: MyMeasurements.elementSpread),
+          const SizedBox(height: MyMeasurements.elementSpread),
 
-        // FREQUENCY field
-        GestureDetector(
-          onTap: () {
-            showModalBottomSheet(
-              context: context,
-              isScrollControlled: true,
-              isDismissible: false,
-              enableDrag: false,
-              builder: (_) => AddMedFreqPage(viewModel.addMedProvider),
-            ).whenComplete(() => setState(() {}));
-          },
-          child: Container(
-            padding: const EdgeInsets.all(MyMeasurements.elementSpread),
-            decoration: BoxDecoration(
-              borderRadius: BorderRadius.circular(MyMeasurements.borderRadius),
-              color: MyThemeProvider.of(context).colors.container,
-            ),
-            child: Row(
-              mainAxisAlignment: MainAxisAlignment.spaceBetween,
-              children: [
-                // FREQUENCY
-                Text(
-                    MyTools.capitalizeFirstLetter(viewModel.strings.frequency)),
+          // FREQUENCY field
+          GestureDetector(
+            onTap: () {
+              showModalBottomSheet(
+                context: context,
+                isScrollControlled: true,
+                isDismissible: false,
+                enableDrag: false,
+                builder: (_) => AddMedFreqPage(viewModel.addMedProvider),
+              ).whenComplete(() => setState(() {}));
+            },
+            child: Container(
+              padding: const EdgeInsets.all(MyMeasurements.elementSpread),
+              decoration: BoxDecoration(
+                borderRadius:
+                    BorderRadius.circular(MyMeasurements.borderRadius),
+                color: MyThemeProvider.of(context).colors.container,
+              ),
+              child: Row(
+                mainAxisAlignment: MainAxisAlignment.spaceBetween,
+                children: [
+                  // FREQUENCY
+                  Text(MyTools.capitalizeFirstLetter(
+                      viewModel.strings.frequency)),
 
-                // FREQ SELECTION
-                Text(
-                  MyTools.capitalizeEachWord(
-                      AddMedProvider.of(context).myMed.frequency.value),
-                  style: TextStyle(
-                    color: Theme.of(context).colorScheme.primary,
+                  // FREQ SELECTION
+                  Text(
+                    MyTools.capitalizeEachWord(
+                        AddMedProvider.of(context).myMed.frequency.value),
+                    style: TextStyle(
+                      color: Theme.of(context).colorScheme.primary,
+                    ),
                   ),
-                ),
-              ],
+                ],
+              ),
             ),
           ),
-        ),
 
-        _buildTimeInputArea(),
+          // TIME field
+          if (!identical(
+              viewModel.addMedProvider.myMed.frequency, MedFrequency.asNeeded))
+            _buildTimeInputArea(),
 
-        const SizedBox(height: MyMeasurements.elementSpread),
+          // DAY field
+          if (identical(
+                viewModel.addMedProvider.myMed.frequency,
+                MedFrequency.weekly,
+              ) ||
+              identical(
+                viewModel.addMedProvider.myMed.frequency,
+                MedFrequency.monthly,
+              ) ||
+              identical(
+                viewModel.addMedProvider.myMed.frequency,
+                MedFrequency.annually,
+              ))
+            _buildDayInputArea(),
 
-        // NEXT button
-        ElevatedButton(
-          onPressed: viewModel.btnEnabled ? viewModel.onNext : null,
-          child: Text(MyTools.capitalizeFirstLetter(viewModel.strings.next)),
-        ),
-      ],
+          const SizedBox(height: MyMeasurements.elementSpread),
+
+          // NEXT button
+          ElevatedButton(
+            onPressed: viewModel.btnEnabled ? viewModel.onNext : null,
+            child: Text(MyTools.capitalizeFirstLetter(viewModel.strings.next)),
+          ),
+        ],
+      ),
     );
   }
 
   /// Builds the area where the user can add times for when they are to take
   /// their medicine.
   Widget _buildTimeInputArea() {
-    if (viewModel.addMedProvider.myMed.frequency != MedFrequency.daily &&
-        viewModel.addMedProvider.myMed.frequency !=
-            MedFrequency.everyOtherDay) {
-      return Container();
-    }
-
     return Column(
       children: [
         const SizedBox(height: MyMeasurements.elementSpread),
@@ -119,6 +135,38 @@ class _AddMedSchedulePageState extends State<AddMedSchedulePage> {
           children: [
             MyText(
               MyTools.capitalizeEachWord(viewModel.strings.time),
+              myTextStyle: MyTextStyle.header,
+            ),
+          ],
+        ),
+
+        const SizedBox(height: MyMeasurements.textPadding),
+
+        Container(
+          decoration: BoxDecoration(
+            borderRadius: BorderRadius.circular(MyMeasurements.borderRadius),
+            color: MyThemeProvider.of(context).colors.container,
+          ),
+          height: MyMeasurements.textBlockWidth * 0.75,
+          child: CupertinoDatePicker(
+            mode: CupertinoDatePickerMode.time,
+            onDateTimeChanged: (time) {},
+          ),
+        ),
+      ],
+    );
+  }
+
+  Widget _buildDayInputArea() {
+    return Column(
+      children: [
+        const SizedBox(height: MyMeasurements.elementSpread),
+
+        // DAY
+        Row(
+          children: [
+            MyText(
+              MyTools.capitalizeEachWord(viewModel.strings.day),
               myTextStyle: MyTextStyle.header,
             ),
           ],

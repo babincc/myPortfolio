@@ -30,6 +30,9 @@ class StringsEN implements Strings {
   String get createAccount => "create account";
 
   @override
+  String get day => "day";
+
+  @override
   String get displayName => "display name";
 
   @override

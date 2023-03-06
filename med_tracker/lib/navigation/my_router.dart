@@ -66,8 +66,11 @@ class MyRouter {
 
           context.loaderOverlay.show();
           MyUserProvider.of(context).myUser =
-              await MyUserRepo.fetchUser(user.uid) ?? MyUser.empty();
-          context.loaderOverlay.hide();
+              await MyUserRepo.fetchUser(user.uid).then((value) {
+                    context.loaderOverlay.hide();
+                    return value;
+                  }) ??
+                  MyUser.empty();
         }
 
         // If the user is already logged in, don't let them go to the login
